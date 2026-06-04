@@ -1,0 +1,96 @@
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                    📚 ARCHIVE MOODLE - INDEX COMPLET                           ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+COURS 182 - PRETERITE & PRESENT PERFECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Fichiers: 8 | 💾 Taille: 2.5 MB
+
+  Section_1/  MATCHTPS.TBK              (52 KB)  → Matching Tenses
+  Section_2/  EXPTPS2.TBK               (296 KB) → Exercice Tenses 2
+  Section_3/  EXPTPS1.TBK               (272 KB) → Exercice Tenses 1
+  Section_4/  BIGTESTps.TBK             (248 KB) → Grand Test Tenses
+  Section_5/  VBED.tbk                  (64 KB)  → Verb Education
+  Section_6/  Tensemdl.tbk              (1.1 MB) → Tense Module
+  Section_6/  ESL_Verbs.pdf             (428 KB) → Documentation
+
+COURS 183 - ARTICLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Fichiers: 6 | 💾 Taille: 576 KB
+
+  Section_1/  MATCHART.TBK              (72 KB)  → Match Articles
+  Section_1/  Countable.tbk             (68 KB)  → Countable Nouns
+  Section_2/  ARTICLES.TBK              (276 KB) → Articles Complet
+  Section_3/  arti.tbk                  (52 KB)  → Articles Mini
+  Section_4/  TESTART.TBK               (80 KB)  → Test Articles
+
+COURS 185 - COMPUTING TERMINOLOGY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Fichiers: 5 | 💾 Taille: 8.9 MB
+
+  Section_1/  DIC.tbk                   (496 KB) → Dictionnaire
+  Section_1/  Dik2.tbk                  (480 KB) → Dictionnaire 2
+  Section_1/  Dicoquiz.tbk              (744 KB) → Quiz Dictionnaire
+  Section_1/  COL.txt                   (192 KB) → Contenu Texte
+  Other/      neuron105.exe             (7.0 MB) → Neuron Player
+
+COURS 187 - PREPOSITIONS (COMPUTING)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Fichiers: 6 | 💾 Taille: 1.9 MB
+
+  Section_1/  P_MPREPO.tbk              (1.5 MB) → Prépositions Place & Mouvement
+  Section_2/  Prepositionsoftime.tbk    (80 KB)  → Prépositions Temps
+  Section_3/  PREPOSCERTAINVERBS.TBK    (72 KB)  → Prépositions + Verbes
+  Section_4/  Fill_in_the_blanks.tbk    (124 KB) → Compléter les Phrases
+  Section_5/  Syntax_errors.tbk         (104 KB) → Erreurs de Syntaxe
+
+COURS 188 - COMPUTER PARTS ⭐ PRINCIPAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 Fichiers: 10 | 💾 Taille: 130 MB
+
+  Section_1/  Hardware.mp4              (127 MB) → 🎥 Vidéo Composants
+  Section_2/  Guide to computer components.pdf (1020 KB)
+  Section_3/  Comparts.tbk              (1.6 MB) → Noms des Composants
+  Section_4/  Reorder.tbk               (176 KB) → Ordonner Instructions
+  Section_5/  Instvb1.tbk               (96 KB)  → Instructions Verbes 1
+  Section_6/  Instvb2.tbk               (160 KB) → Instructions Verbes 2
+  Section_7/  Vbqcm.tbk                 (136 KB) → QCM Verbes
+  Section_8/  Compsyst.tbk              (248 KB) → Système Informatique
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATISTIQUES GLOBALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🎮 Fichiers ToolBook (.tbk):  25 fichiers
+  📺 Vidéos:                    1 fichier (Hardware.mp4, 127 MB)
+  📄 Documents PDF:             2 fichiers
+  🖥️  Exécutables:              1 fichier (Neuron player)
+  📋 Fichiers texte:            1 fichier (COL.txt)
+  
+  ✓ Total téléchargé:          144 MB
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 CONSEILS D'UTILISATION:
+
+1. Tous les fichiers sont stockés dans: 
+   /home/sduhem/SynologyDrive/BUT INFO/S2/R2.10/App/moodle_content
+
+2. Format des fichiers .tbk:
+   - Fichiers binaires compilés ToolBook (format DLL Windows)
+   - Impossible à parser automatiquement sans l'outil ToolBook
+
+3. Pour visualiser le contenu:
+   - Install Neuron 10.5 (disponible dans 185-Computing_Terminology/)
+   - Ou utiliser ToolBook Reader officiel
+   - Puis transcrire les exercices manuellement
+
+4. Intégration dans l'app:
+   - Les fichiers .tbk ne peuvent pas être intégrés directement
+   - Il faut créer les exercices en JavaScript/JSON
+   - Utilise les données transcrites pour les ajouter
+
+5. Archivage:
+   - Backup: Tous les fichiers sont à jour
+   - Aucune dépendance externe requise
+
+─────────────────────────────────────────────────────────────────────────────╝

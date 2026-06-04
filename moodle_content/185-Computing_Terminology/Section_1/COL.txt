@@ -1,0 +1,1705 @@
+     Abort:Interrompre
+       To stop the running of a computer program, usually when things go wrong. The computer returns to the operating system after aborting the program, prints a message to warn the operator and waits for a new command.
+       Arr+AOo-ter l'ex+AOk-cution d'un programme informatique, le plus souvent lorsque surgit un probl+AOg-me. L'ordinateur renvoie au syst+AOg-me d'exploitation, apr+AOg-s avoir interrompu le programme, affiche un message pour alerter l'utilisateur et attend de sa part d'autres commandes.
+     
+     Access time:Temps d'acc+AOg-s
+      The time taken by the computer to fetch data from an address within the computer or other storage device. It is also the time between being told to fetch and having the data ready.
+      Temps pris par l'ordinateur pour aller chercher des donn+AOk-es +AOA- partir d'une adresse de l'ordinateur ou de tout autre dispositif de stockage. Il s'agit +AOk-galement du temps +AOk-coul+AOk- entre le moment o+APk- l'on a dit +AOA- l'ordinateur d'aller chercher les donn+AOk-es et celui o+APk- les donn+AOk-es sont pr+AOo-tes.
+     
+     Accumulator:Accumulateur
+      A special location used to hold the result of calculations during processing.
+      Emplacement particulier utilis+AOk- pour conserver le r+AOk-sultat de calculs pendant le traitement des donn+AOk-es.
+     
+     Acronym:Acronyme
+      A word formed from the initial letters of a group of words or a phrase. The world of computing uses many acronyms, for example: ASCII. 
+      Un mot form+AOk- +AOA- partir des initiales d'un groupe de mots ou d'une expression. Le milieu de l'informatique utilise fr+AOk-quemment des acronymes, par exemple ASCII.
+     
+     Adder:Additionneur
+      A device which performs addition on digital signals giving both the sum and the carry digit. A half-adder has two inputs whereas a full-adder has three inputs, each input being a 0 or 1.
+      Dispositif qui fait des additions de signaux digitaux en donnant +AOA- la fois la somme et la retenue. Un demi-additionneur a deux entr+AOk-es alors qu'un additionneur complet en a trois, chaque entr+AOk-e correspondant +AOA- 0 ou +AOA- 1.
+     
+     Address:Adresse
+      The reference number given to each location in a computer's memory that stores data. Whenever a computer is asked to find a piece of data it has stored, it uses the address.
+      Le num+AOk-ro de r+AOk-f+AOk-rence donn+AOk- +AOA- chaque emplacement dans la m+AOk-moire de l'ordinateur qui emmagasine les donn+AOk-es. Chaque fois que l'ordinateur est appel+AOk- +AOA- trouver une donn+AOk-e qui +AOk-tait emmagasin+AOk-e, il utilise l'adresse. 
+     
+     Address modification:Modification d'adresse
+      The process by which the address part of a program instruction is changed, say to one higher (i.e. the next address) each time the instruction is performed.
+      Proc+AOk-d+AOk- par lequel la partie adresse d'une instruction de programme est modifi+AOk-e, disons en une adresse sup+AOk-rieure (c'est-+AOA--dire l'adresse suivante) chaque fois que l'instruction est ex+AOk-cut+AOk-e.
+     
+     ADSL:ADSL
+      Provides a connection through telephone copper wires, which receives data between 2 and 8 Mbps, though is slower in the other direction.
+     Fournit une connexion gr+AOI-ce aux fils de cuivre du t+AOk-l+AOk-phone et re+AOc-oit des donn+AOk-es entre 2 et 8 Mbps bien que plus lent dans l'autre direction.
+     
+     ALGOL:ALGOL
+       ALGorithmic Oriented Language. A high-level programming language developed in Europe at the same time as FORTRAN was being developed in the United States.
+      Langage orient+AOk- algorithmique. Langage de programmation de haut niveau d+AOk-velopp+AOk- en Europe en m+AOo-me temps que FORTRAN fut d+AOk-velopp+AOk- aux USA.
+     
+     Algorithm:Algorithme
+      A planned set of instructions or steps designed to solve a particular problem. There is only one starting point and all routes through the algorithm end at the same finishing point. Such steps can be carried out by a computer, or dry run on paper, using different inputs or values.
+      S+AOk-rie d'instructions ou d'+AOk-tapes organis+AOk-es, con+AOc-ues  pour r+AOk-soudre un probl+AOg-me particulier. Il n'y a qu'un point de d+AOk-part et tous les cheminements +AOA- travers l'algorithme aboutissent au m+AOo-me point d'arriv+AOk-e. De telles +AOk-tapes peuvent +AOo-tre ex+AOk-cut+AOk-es par un ordinateur ou suivies sur papier, en utilisant diff+AOk-rentes entr+AOk-es ou valeurs.
+     
+     Alphanumeric code:Code alphanum+AOk-rique
+      A set of characters consisting of the letters A to Z and numbers 0 to 9.
+      Ensemble de caract+AOg-res compos+AOk- des lettres A +AOA- Z et des chiffres 0 +AOA- 9.
+     
+     Analog-to-digital-converter:Convertisseur analogique / num+AOk-rique
+      A device that is able to convert a continuously varying signal into a series of numbers.
+      Dispositif capable de convertir un signal dont les variations sont continues en une s+AOk-rie de nombres.
+     
+     Analogue computer:Ordinateur Analogique
+       A machine designed to work on data which is represented by some physical quantity which varies continuously (unlike digital signals which are 0s and 1s).
+       Une machine con+AOc-ue pour travailler sur des donn+AOk-es, qui sont repr+AOk-sent+AOk-es par des quantit+AOk-s physiques, lesquelles varient continuellement (contrairement aux signaux digitaux qui sont des 0 et des 1).
+     
+     AND gate:Porte ET
+       A logic circuit which operates with binary digits. Its output is of logic value 1 only all its inputs have a logic value 1. This could be used to find the carry digit when two binary digits are added together, as there is a carry of 1 only when the two digits to be added are both 1s. 
+              Input      Output
+              0  0             0
+              1  0             0
+              0  1             0
+              1  1             1
+       Un circuit logique qui op+AOg-re avec des chiffres binaires. Ce circuit +AOk-tant compos+AOk- de plusieurs entr+AOk-es et d'une sortie. Cette derni+AOg-re prend la valeur 1 seulement quand toutes ses entr+AOk-es poss+AOg-dent la valeur logique 1, dans le cas contraire le chiffre  qui en r+AOk-sulte prend la valeur 0.
+     
+     Applet:Applet
+      A simple, single-function program that is often part of a larger package. Examples include programs such as Windows' calculator and File Manager.
+     Un simple programme +AOA- fonction unique, souvent partie d'un tout plus grand. Les exemples incluent des programmes tels que la calculatrice de Windows et le gestionnaire de fichiers
+     
+     Argument:Argument
+      A variable factor, the value of which sets the value of the function of which it is part.
+      Variable dont la valeur d+AOk-termine la valeur de la fonction dont elle fait partie.
+     
+     Arithmetic Logic Unit:Unit+AOk- logique d'arithm+AOk-tique
+      The part of the computer where the calculations are carried out (addition and subtraction) and the logic operations are performed. The ALU is part of the central processing unit and has a memory store for holding the results of calculations while processing is going on.
+       Partie de l'ordinateur o+APk- les calculs sont effectu+AOk-s (addition et soustraction) et les op+AOk-rations logiques ex+AOk-cut+AOk-es. L'unit+AOk- logique d'arithm+AOk-tique fait partie de l'unit+AOk- centrale de traitement et poss+AOg-de une r+AOk-serve de m+AOk-moire pour enregistrer les r+AOk-sultats des calculs pendant que le traitement continue de fonctionner.
+     
+     Array:Tableau
+      An arranged set of locations any of which can be accessed from a common starting address, or identifier, rather than individually.
+      Une s+AOk-rie d'emplacements cons+AOk-cutifs en m+AOk-moire, chacun accessible +AOA- partir d'une adresse de d+AOk-part commune, ou identificateur, plut+APQ-t qu'un par un.
+     
+     Artificial intelligence (AI):Intelligence artificielle
+      The ability a machine has to learn from its experiences and to make decisions based on these experiences, like a human being. For example, a machine may play chess, but if each time it plays it learns from its mistakes and plays better the next time, then it is said to have artificial intelligence.
+      Capacit+AOk- que peut avoir un ordinateur +AOA- apprendre par ses propres exp+AOk-riences et +AOA- prendre des d+AOk-cisions en fonction d'elles, comme le ferait un +AOo-tre humain. Par exemple, si un ordinateur joue aux +AOk-checs, et que  chaque fois qu'il joue, il tire des conclusions des erreurs qu'il a commises et am+AOk-liore son jeu en cons+AOk-quence, alors on dira qu'il est dot+AOk- d'intelligence artificielle.
+     
+     ASCII code:Code ASCII
+      (American Standard Code for Information Interchange) A standard code used for the transmission of data, particularly the exchange of data between machines.
+      Code standard utilis+AOk- pour la transmission de donn+AOk-es, particuli+AOg-rement pour l'+AOk-change de donn+AOk-es entre machines. 
+     Ex : A+AD0-65 ( 41 en hexad+AOk-cimal, 1000001 en binaire).
+     
+     Assembly Language:Langage d'assemblage
+       A low-level language which is similar to the way in which the computer hardware works but is easier to use than machine code for programming. The computer manufacturer provides an assembler and this program translates the completed assembly language program into machine code, one programming instruction becoming one machine code instruction.
+       Langage de bas niveau semblable +AOA- celui avec lequel la machine travaille mais plus simple d'utilisation pour programmer que celui ci. Le fabricant fournit un assembleur et ce programme traduit la totalit+AOk- du langage d'assemblage en langage machine, une instruction  du programme devenant une instruction en langage machine.
+     
+     Assign:Assigner
+      To reserve part of the computing system e.g. the printer, for use by a program during its running.
+      R+AOk-server une partie du syst+AOg-me de l'ordinateur (l'imprimante par exemple) afin qu'il l'utilise durant l'ex+AOk-cution d'un programme.
+     
+     Astable:Astable
+       Continually switching (oscillating) from one state to the other, describing an electronic device used for timing in electronic watches and as the basis for the computer clock.
+       Continuel changement (oscillation) d'un +AOk-tat +AOA- un autre, qui d+AOk-crit un appareil +AOk-lectronique utilis+AOk- pour la mesure du temps dans les montres +AOk-lectroniques et +AOA- la base des horloges des ordinateurs.
+     
+     Audit trail:Protocole de v+AOk-rification
+        A record provided by some business and financial software of all the transactions that have taken place during the previous amendments to data in order that subsequent checking may take place.
+       Archivage fourni par des logiciels de commerce ou financiers, qui gardent la trace de toutes les transactions qui ont eu lieu pendant la modification des donn+AOk-es de sorte qu'un contr+APQ-le a posteriori puisse +AOo-tre effectu+AOk-.
+     
+     Author language:Langage auteur
+      A programming language which allows the inexperienced user to compose a learning sequence including the use of multimedia.
+      Langage de programmation qui permet aux utilisateurs inexp+AOk-riment+AOk-s de composer une s+AOk-quence p+AOk-dagogique multim+AOk-dia.
+     
+     Automatic Teller Machine:Guichet automatique
+       A computerised cash dispenser which accepts cash-cards.
+      Distributeur de billets informatis+AOk- qui accepte les cartes de cr+AOk-dit.
+     
+     Backing store:M+AOk-moire de masse / auxiliaire
+      A store for large amounts of data which can be transmitted easily (though not always quickly) to the main store when required.
+      M+AOk-moire de stockage pour de grandes quantit+AOk-s de donn+AOk-es (pas toujours tr+AOg-s rapidement) pouvant +AOo-tre transmises facilement vers la m+AOk-moire principale lorsqu'elles sont requises.
+     
+     Backup:Copie de sauvegarde
+      A spare copy for when things go wrong and to avoid the disaster which can follow the damaging or corruption of disks or data.
+      Copie de r+AOk-serve utilis+AOk-e lorsque surgit un probl+AOg-me et permettant d'+AOk-viter des pertes de donn+AOk-es cons+AOk-cutives +AOA-  la corruption des disques ou des donn+AOk-es.
+     
+     Bandwidth:Largeur de bande
+       A measure of the amount of data that can be transmitted, usually given in kilobits per second. A fast modem might provide 56 kbps whereas an ISDN2 connection would provide128 kbps. Full-motion video requires 10000 kbps
+       Une mesure de la quantit+AOk- de donn+AOk-es qui peut +AOo-tre transmise, habituellement donn+AOk-e en kilobits par seconde. Un modem rapide peut fournir 56 kbps alors qu'une connexion ISDN2 peut fournir 128kbps. La vid+AOk-o en direct exige 10000 kbps.
+     
+     Bar code:Code +AOA- barres
+      A set of lines of varying widths which can be read by passing a light pen across them.
+      Ensemble de lignes d'+AOk-paisseurs variables qui peuvent +AOo-tre lues en passant un stylo optique dessus.
+     
+     BASIC:BASIC
+      Beginner's All-purpose Symbolic Instruction Code. A high-level language used for general or conversational programming. Developed by Kemeny and Kurtz in 1964 in the USA, it was originally designed for educational use as an easy-to-learn language.
+      Langage de haut niveau utilis+AOk- pour une programmation g+AOk-n+AOk-rale ou conversationnelle. D+AOk-velopp+AOk- par Kemeny et Kurtz en 1964 aux USA, il fut +AOA- l'origine cr+AOkA6Q- +AOA- des fins p+AOk-dagogiques comme langage facile +AOA- apprendre.
+     
+     Batch processing:Traitement par lots
+        The system of collecting the different inputs or programs together and putting them into a computer in one set or batch. The inputs or programs are processed as a single unit thus avoiding wasted computer time as each program is loaded.
+       Syst+AOg-me qui regroupe diff+AOk-rentes entr+AOk-es ou diff+AOk-rents programmes afin qu'ils soient trait+AOk-s ensemble dans un seul lot. Entr+AOk-es et programmes sont charg+AOk-s ensemble pour +AOk-viter  toute perte de temps par l'ordinateur.
+     
+     Baud:Baud
+       A measure of the speed of data transmission, usually the number of bits per second, although sometimes a simple data signal consist of more than one bit depending on the type of modulation.
+        Mesure de la vitesse de transmission de donn+AOk-es, en g+AOk-n+AOk-ral le nombre de bits par seconde, bien que parfois un seul +AOk-l+AOk-ment de transmission est compos+AOk- de plus d'un bit, ceci d+AOk-pendant du type de modulation.
+     
+     Benchmark:Banc d'essai
+       A program task which is given to different makes of computers to measure their performance and thus allows us to compare one with another.
+       Programme qui permet de mesurer les performances de diff+AOk-rentes marques d'ordinateur et aussi de les comparer entre elles.
+     
+     Binary coded decimal (BCD):D+AOk-cimal cod+AOk- binaire (DCB)
+       A coding system for the storage of decimal numbers in binary. To be able to change any of our numbers 0 to 9 into binary, we require up to four binary digits. The BCD uses four binary digits for each decimal number. But note that with four binary digits numbers up to 15 can be coded in this way. The final six numbers are coded as letters in the hexadecimal system.
+     denary    binary    hex
+     0              0000       0
+     1              0001       1
+     2              0010       2
+     3              0011       3
+     4              0100       4
+     ...             ........        ...
+     9              1001        9
+     10            1010        A
+     11            1011        B
+     ...              ....           ...
+     15            1111         F
+       Syst+AOg-me de codage pour la m+AOk-morisation de nombres d+AOk-cimaux en binaire. Afin de pouvoir convertir chacun des chiffres de 0 +AOA- 9 en nombres binaires, quatre bits sont n+AOk-cessaires. Les DCB utilisent quatre bits pour chaque chiffre d+AOk-cimal. Mais il faut noter que l'on peut coder ainsi des nombres jusqu'au nombre 15. Les six derniers nombres sont cod+AOk-s par des lettres dans le syst+AOg-me hexad+AOk-cimal.
+     d+AOk-cimal     binaire    hexad+AOk-cimal
+     0                0000                  0
+     1                0001                  1
+     
+     Binary digit:Chiffre binaire
+      One of the two digits used in binary notation, either a 0 or 1.
+      L'un des deux chiffres utilis+AOk-s en notation binaire, 0 ou 1.
+     
+     Binary notation:Notation binaire
+      A notation system in which numbers are represented by the two digits 0 and 1, i.e. base 2.
+       Syst+AOg-me de notation en base 2. Les nombres sont compos+AOk-s des deux chiffres, 0 et 1.
+     
+     BIOS:BIOS
+       Basic Input/Output System. The programs held permanently in a ROM that prepare the machine to accept data in the form of further programs, and direct output to a printer or other peripheral in an organized and consistent manner.
+       Entr+AOk-e/Sortie de base du syst+AOg-me. Les programmes sont en permanence stock+AOk-s dans une ROM qui pr+AOk-pare la machine +AOA- accepter les donn+AOk-es sous forme d'autres programmes qui sont ensuite envoy+AOk-s +AOA- une imprimante ou autre p+AOk-riph+AOk-rique d'une mani+AOg-re organis+AOk-e et coh+AOk-rente.
+     
+     Bistable:Bistable 
+      Having two states, referring to an electronic device and forming the basis of a computer memory.
+      Poss+AOg-de deux +AOk-tats, se r+AOk-f+AOg-re +AOA- un composant +AOk-lectronique et forme la base de la  m+AOk-moire d'un ordinateur.
+     
+     Bit:Bit / Chiffre binaire
+      One of the two digits 0 and 1 used in binary notation. The word comes from BInary digiT. 
+      L'un des deux chiffres 0 ou 1 utilis+AOk- dans la notation binaire. Le mot vient de BInary digiT.
+     
+     Bit pattern:Configuration binaire
+      The arrangement of bits within a word representing a character or instruction. For example, 01000101 is the bit pattern for an upper case E in the ASCII code.
+      Suite de bits dans un mot repr+AOk-sentant un caract+AOg-re ou une instruction. Par exemple, 01000101 est la configuration binaire de la lettre capitale E dans le code ASCII.
+     
+     Block:Bloc
+      A set of records, figures or words which are treated by the computer as a single unit of data. 
+      Ensemble d'enregistrements, chiffres ou mots qui sont trait+AOk-s par l'ordinateur comme une donn+AOk-e unique.
+     
+     Block diagram:Sch+AOk-ma fonctionnel
+      A diagram used to help explain a system. It consists of labelled boxes joined by lines with arrows similar to a program flowchart. It is used for systems such as electrical circuits.
+      Diagramme qui permet d'expliquer le fonctionnement d'un syst+AOg-me. Il se compose de figures reli+AOk-es par des fl+AOg-ches comme dans un organigramme. Il est utilis+AOk- pour expliquer, par exemple,  des circuits +AOk-lectriques.
+     
+     Bluetooth:Bluetooth
+      A short-range protocol for connecting different types of devices and peripherals by wireless technology. Signals work up to about 10 metres but do not require line-of-sight.
+     Un protocole +AOA- courte distance pour connecter diff+AOk-rents types de dispositifs et de p+AOk-riph+AOk-riques gr+AOI-ce +AOA- une technologie sans fil. Les signaux sont perceptibles jusqu'+AOA- dix m+AOk-tres mais n'on pas besoin d'+AOo-tre en point de mire.
+     
+     Board:Carte
+       The short name for a printed circuit board or +ACI-add-on+ACI- as it is sometimes called
+       Nom courant de circuit imprim+AOk- ou carte d'extension comme on l'appelle parfois.
+     
+     Boolean algebra:Alg+AOg-bre bool+AOk-enne
+       The set of rules allowing logical statements to be written using algebra. The results of such statements can be shown in a truth table. Named after the English mathematician George Boole (1815-64).
+       Ensemble des r+AOg-gles qui permet d'+AOk-crire des instructions logiques en utilisant une forme alg+AOk-brique. Les r+AOk-sultats de telles instructions peuvent +AOo-tre affich+AOk-s dans des tables de v+AOk-rit+AOk-. L'appellation Bool+AOk-en vient du math+AOk-maticien anglais George Boole (1815-64).
+     
+     Boot disk:Disque de d+AOk-marrage
+       A computer disk which has an operating system file to enable the computer to start. When required, it is placed in the disk drive before switching on so that the system does not access the hard disk store first.
+       Disque qui poss+AOg-de un fichier de syst+AOg-me d'exploitation qui permet de d+AOk-marrer l'ordinateur. Lorsque cela est requis, il est plac+AOk- dans le lecteur de disque avant d'allumer pour que le syst+AOg-me n'acc+AOg-de pas en priorit+AOk- au disque dur.
+     
+     Branch:Branchement (de saut)
+       A jump from one step in a program to a different part indicated by a branch instruction. For example, a conditional branch might depend on the value of something  at that time, i.e. 'branch if the value of X is greater than 7'
+       Saut d'une partie de programme vers une autre indiqu+AOk- par une instruction de branchement de saut. Par exemple, le fait d'utiliser un saut conditionnel pourrait d+AOk-pendre de la valeur de quelque chose +AOA- un moment donn+AOk- : +ACI-sauter si la valeur de X est plus grande que 7+ACI-.
+     
+     Broadband:Large bande passante
+      A general term for connections that transfer data at high speed. The four options currently available are ADSL, cable, wireless technology and satellite.
+     Terme g+AOk-n+AOk-ral pour des connexions qui transf+AOg-rent les donn+AOk-es +AOA- grande vitesse. Les quatre options disponibles couramment sont l'ADSL, le c+AOI-ble, la technologie sans fil, et le satellite.
+     
+     Browser:Navigateur
+      A software program which is used to retrieve information on the Internet.
+      Logiciel utilis+AOk- pour r+AOk-cup+AOk-rer de l'information sur l'Internet. (autre traduction : Butineur)
+     
+     Bubble memory:M+AOk-moire +AOA- bulles
+      A means of storing data in bnary notation. Small cylinders of magnetism in an integrated circuit or chip.
+      Un moyen de stockage de l'information en notation binaire. De petits cylindres magn+AOk-tiques dans un circuit integr+AOk- ou une puce. 
+     
+     Buffer:Tampon
+      A temporary store for data which is being transferred, generally used to allow for a difference in speeds.
+      Stockage temporaire en m+AOk-moire de donn+AOk-es en cours de transfert, g+AOk-n+AOk-ralement utilis+AOk- pour tenir compte des diff+AOk-rences de vitesse.
+     
+     Bug:Erreur de programmation / Bogue
+       A mistake in a program or an error in the working of the computer. Bugs can be removed by running diagnostic routines to discover the error and then by debugging.
+       Une erreur dans un programme ou une erreur dans le fonctionnement de l'ordinateur. Les erreurs peuvent +AOo-tre enlev+AOk-es en ex+AOk-cutant des programmes de diagnostic pour d+AOk-couvrir l'erreur et ensuite en utilisant un d+AOk-bogueur.
+     
+     Bulletin board:Micro-serveur
+       A system on a computer network, including the Internet, that allows any user to leave messages that can be read by any other user, and to read any messages posted and download software and information to the user's own computer. It is not a secure form of electronic mail.
+        Syst+AOg-me sur un r+AOk-seau, y compris Internet, qui permet +AOA- n'importe quel utilisateur de laisser des messages qui peuvent +AOo-tre lus par tout autre utilisateur, et de lire tout message envoy+AOk- ainsi que de t+AOk-l+AOk-charger des logiciels sur son propre ordinateur. Ce n'est pas une forme s+AOk-curis+AOk-e de courrier +AOk-lectronique.
+     
+     Bus:Bus
+      A route around the computer consisting of a set of wires along which signals travel in parallel. These signals can start from any place on the bus and can travel to any destination. For example, in a microcomputer the address bus would carry signals to select a particular storage location+ADs- the data bus may then carry signals to transfer data to that location.
+      Canal de communication interne +AOA- l'ordinateur se composant d'un ensemble de fils le long desquels les signaux voyagent en parall+AOg-le. Ces signaux peuvent commencer +AOA- partir de n'importe quel endroit sur le bus et peuvent voyager vers n'importe quelle destination. Par exemple, dans un micro-ordinateur le bus d'adresse transporterait des signaux pour choisir un emplacement particulier de m+AOk-moire+ADs- le bus de donn+AOk-es peut alors transporter des signaux pour transf+AOk-rer des donn+AOk-es +AOA- cet emplacement.
+     
+     Byte:Octet
+      The minimum number of bits, usually enough to represent one character, that the computer can handle as one unit.
+      Nombre minimum de bits (souvent 8) suffisant pour repr+AOk-senter un caract+AOg-re que l'ordinateur peut manipuler en tant qu' unit+AOk-.
+     
+     Cache memory:M+AOk-moire cache / Ant+AOk-m+AOk-moire
+      Part of the volatile memory reserved for the holding of another copy of data which has recently been accessed by the microprocessor in anticipation of its use again in the near future.
+      Partie de m+AOk-moire volatile r+AOk-serv+AOk-e pour conserver copie des donn+AOk-es qui ont +AOk-t+AOk- r+AOk-cemment acc+AOk-d+AOk-es par le microprocesseur pour anticiper leur utilisation dans un avenir proche.
+     
+     CD-ROM:C+AOk-d+AOk-rom
+      Compact Disc - Read Only Memory. A compact disc used specifically as a ROM backing store for computers though requiring a special compact disk drive.
+      Disque compact sp+AOk-cialement utilis+AOk- pour le stockage en lecture seule mais qui n+AOk-cessite un lecteur de disque compact sp+AOk-cial.
+     
+     Central Processing Unit:Unit+AOk- centrale
+     CPU.The brains or nerve centre of a computer. It has three parts:  its own store, an arithmetic logic unit and a control unit. The control unit carries out each instruction of a program in turn.
+       (U.C.) Cerveau ou centre nerveux d'un ordinateur. Il comprend trois parties : sa propre m+AOk-moire, une unit+AOk- arithm+AOk-tique et logique et une unit+AOk- de contr+APQ-le. L'unit+AOk- de contr+APQ-le ex+AOk-cute chaque instruction d'un programme l'une apr+AOg-s l'autre.
+     
+     Character:Caract+AOg-re
+      Any keyboard symbol. It can be a digit ( 0, 1, 2, ... ), a letter ( A, B, C, ... ), a punctuation mark ( +ACE-, ', ?, ... ), a sign ( +ACo-, ,-, ... ) or just a space.
+      Toutes les touches du clavier. Cela peut-+AOo-tre un chiffre
+      ( 0,1,2, ... ), une lettre ( A, B, C, ... ), un signe de ponctuation  ( +ACE-, ', ?, ... ), un symbole ( +ACo-, , -, ... ), ou juste une espace. 
+     
+     Character code:Code de caract+AOg-res
+       The binary code used by computers to represent characters. Each machine has its own character code though there are some standard codes like ASCII.
+        Code binaire utilis+AOk- par les ordinateurs pour repr+AOk-senter les caract+AOg-res. Chaque ordinateur a son propre code de caract+AOg-res bien qu'il existe des codes standard tel que le code ASCII.
+     
+     Character recognition:Reconnaissance de caract+AOg-res
+       The conversion by computer of characters into code. Optical character readers (OCR) and magnetic ink character recognition (MICR) are the two main systems of automatically recognizing characters.
+       Conversion par l'ordinateur de caract+AOg-res en code. La lecture optique de caract+AOg-res (OCR) et la reconnaissance de  caract+AOg-res magn+AOk-tiques (MICR) sont les deux principaux syst+AOg-mes de reconnaissance automatique de caract+AOg-res.
+     
+     Chat:Discussion en ligne en temps r+AOk-el
+      A software program that allows several internet users to communicate interactively with each other without undue delay between sending and updating. 
+      Programme qui permet +AOA- plusieurs utilisateurs connect+AOk-s +AOA- Internet de communiquer entre eux avec un tr+AOg-s faible d+AOk-lai entre l'envoi du message et l'affichage de ce dernier.
+     
+     Clock:Horloge
+       An electronic device that provides pulses at fixed time intervals. These pulses can be used to control the operations of a computer so that they are all in step (synchronous). Clock pulses are generated by an astable multivibrator.
+       Dispositif +AOk-lectronique qui fournit des pulsations +AOA- intervalles de temps fixes. Ces pulsations peuvent +AOo-tre utilis+AOk-es pour contr+APQ-ler les op+AOk-rations d'un ordinateur afin qu'elles soient toutes synchrones. Les pulsations de l'horloge sont g+AOk-n+AOk-r+AOk-es par un multivibrateur astable. 
+     
+     Cluster:Cluster
+       The set of tracks or sectors, in which files are stored on the disk.
+       Ensemble de pistes ou de secteurs physiques du disque sur lesquels sont stock+AOk-s des fichiers.
+     
+     COBOL:COBOL
+      Common Business Oriented Language. A high-level language developed in the United States in 1959. It is most widely used for general commercial programming.
+      Langage de haut niveau d+AOk-velopp+AOk- aux USA en 1959. Il est surtout utilis+AOk- pour des applications de type commercial.
+     
+     Code:Code
+      A set of programming instructions for a computer.
+      S+AOk-rie d'instructions programm+AOk-es pour un ordinateur.
+     
+     Command:Commande
+       Any word that is recognized by the computer as instruction to do something.
+       Mots reconnus par la machine comme des instructions pour ex+AOk-cuter des t+AOI-ches pr+AOk-cises.
+     
+     Communications:Communications
+      The transfer of data from one place to another. In computer terms it is the connection between systems and includes, for example, Wide Area Networks (WAN), telephone lines, and microwaves.
+      Transfert de donn+AOk-es d'un endroit +AOA- un autre. En termes informatiques il s'agit de la connexion entre syst+AOg-mes et tout ce qui s'y rapporte, par exemple, le r+AOk-seau mondial, les lignes t+AOk-l+AOk-phoniques, et les micro-ondes.
+     
+     Compatible:Compatible
+       Able to perform identically. Although machines are made by different manufacturers, compatible ones will work with the same software and data interface connections as each other.
+       Capable d'ex+AOk-cuter une t+AOI-che de mani+AOg-re identique. Bien que les ordinateurs soient con+AOc-us par diff+AOk-rents fabricants, les ordinateurs compatibles fonctionneront avec les m+AOo-mes logiciels et les m+AOo-mes connexions d'interface de donn+AOk-es que les autres. 
+     
+     Compiler:Compilateur
+       A language-translation program which converts instructions written in a high-level language into machine code. A compiler is different from an interpreter in that instructions (the source program) are entirely converted into machine code and saved (object program) before being run.
+        Programme qui sert +AOA- traduire les langages de programmation. Il convertit les instructions +AOk-crites dans un langage de haut niveau en code machine. Un compilateur est diff+AOk-rent d'un interpr+AOk-teur, dans la mesure o+APk- les instructions (le programme source) sont compl+AOg-tement converties en code machine et sauvegard+AOk-es (programme objet) avant d'+AOo-tre ex+AOk-cut+AOk-es.
+     
+     Computer:Ordinateur
+      An electronic data-processing machine that has three components where the input and output may be digital or analogue and the process would involve storage, control and arithmetical operations.
+      Machine +AOk-lectronique de traitement d'informations qui poss+AOg-de trois composants. L'entr+AOk-e et la sortie peuvent +AOo-tre digitale ou analogique. Le traitement implique le stockage, le contr+APQ-le et les op+AOk-rations arithm+AOk-tiques.
+     
+     Computer Assisted Learning:Enseignement assist+AOk- par ordinateur (EAO)
+       CAL. It is the use of a computer in education, the computer could display various pieces of information and ask  particular questions depending on responses given by the user.
+      Utilisation de l'ordinateur dans l'enseignement. Les logiciels d'EAO peuvent afficher plusieurs types d'information et  poser des questions en fonction des r+AOk-ponses de l'utilisateur.
+     
+     Concatenation:Concat+AOk-nation
+       The bringing together of sets of characters, usually as part of a program. An example is when a computer brings together the words +ACI- GOOD +ACI-, +ACI- MORNING +ACI- and  +ACI-JACKIE +ACI- on its screen in response to Jackie switching on the machine and giving her identifier and password.
+       Rassemblement d'un ensemble de caract+AOg-res, g+AOk-n+AOk-ralement gr+AOI-ce +AOA- un programme. Un exemple est quand un ordinateur rassemble les mots +ACI-Bonjour +ACI- +ACI-Jacques +ACI- et +ACI-Dupr+AOkAIg- sur l'+AOk-cran en r+AOk-ponse +AOA- l'allumage de la machine et du fait que Jacques a donn+AOk- son identificateur et son mot de passe.
+     
+     Configuration:Configuration
+       All the pieces of hardware that make up the computer system. For example, a common micro configuration might consist of a microcomputer with 256 megabytes random access memory (RAM), a 3.5-inch micro-floppy disk with 1.4 megabytes capacity, a colour monitor, a CD-ROM drive and an ink-jet or laser printer.
+       Ce sont toutes les pi+AOg-ces qui composent le syst+AOg-me de l'ordinateur. Par exemple, une configuration standard peut +AOo-tre constitu+AOk-e d'un micro-ordinateur dot+AOk- de 256 Megaoctets de RAM, d'un lecteur de disquette de 3,5 pouces d'une capacit+AOk- de 1,4 Megaoctets, d'un +AOk-cran couleur, d'un lecteur de Cd-rom et d'une imprimante +AOA- jet d'encre ou laser.
+     
+     Control character:Caract+AOg-res de contr+APQ-le
+      One or more characters used as a command to control a device. The first 32 characters in the ASCII character set are control codes for communications and printers. It is also used to control an action such as carriage return +AD0- cr +AD0-ANSI 13).
+      Un ou deux caract+AOg-res utilis+AOk-s comme commande pour contr+APQ-ler un p+AOk-riph+AOk-rique. Les premiers 32 caract+AOg-res ASCII sont des caract+AOg-res de contr+APQ-le  pour les communications et les imprimantes. (Il peut +AOk-galement permettre +AOA- l'ordinateur d'ex+AOk-cuter une action :
+     Ex : retour chariot +AD0- cr +AD0- ANSI 13).
+     
+     
+     
+     Control unit:Unit+AOk- de contr+APQ-le
+       The part of the central processing unit which makes the computer carry out, in turn, each instruction of a program.
+       Partie de l'unit+AOk- centrale qui permet +AOA- l'ordinateur d'effectuer +AOA- tour de r+APQ-le chaque instruction du programme.
+     
+     Cookie:Cookie
+      A set of data that a web site server stores on a user's computer the first time the user visits the site. When the visitor returns, the site retrieves the cookie and reads it for different types of information. Not all browsers support cookies and for those that do, the facility can be disabled.
+     Un ensemble de donn+AOk-es qu'un site web enregistre sur l'ordinateur de l'utilisateur, la premi+AOg-re fois que celui-ci visite le site.
+     
+     Cursor:Curseur
+      Generally a rectangle or a single line the size of a capital letter which appears (sometimes flashing) on the screen of a VDU to indicate the current display position. Pressing a key should result in that character appearing on the screen in place of the cursor which is then displaced one character to the right.
+      En g+AOk-n+AOk-ral rectangle ou trait vertical de la taille d'une lettre en majuscule qui appara+AO4-t (parfois en clignotant) sur l'+AOk-cran afin d'indiquer sa position actuelle. Si l'on appuie sur une touche, le caract+AOg-re correspondant appara+AO4-t +AOA- la place du curseur qui, lui, est d+AOk-plac+AOk- d'un caract+AOg-re vers la droite.
+     
+     Cybercrime:Cybercrime
+      The breaking into computers. Examples are available of how hackers have managed to access computer systems of large companies, change passwords and steal data and software.
+     Le fait de p+AOk-n+AOk-trer sur un ordinateur. Il existe des exemples de pirates qui ont r+AOk-ussi +AOA- rentrer dans le syst+AOg-me d'ordinateurs de grandes compagnies, qui ont chang+AOk- les mots de passe et vol+AOk- des donn+AOk-es et des logiciels.
+     
+     Cyberspace:Cyberespace
+      A word that has come to mean all that is available through the computer networks that make up the internet.
+       Mot qui a fini par signifier tout ce qui est disponible sur les r+AOk-seaux informatiques qui constituent l'Internet.
+     
+     Data:Donn+AOk-es
+      A general term for numbers, digits, characters and symbols which are accepted, stored and processed by a computer.
+      Terme g+AOk-n+AOk-ral d+AOk-signant un nombre, un chiffre, un caract+AOg-re ou encore un symbole qui est accept+AOk-, stock+AOk- en m+AOk-moire et trait+AOk- par l'ordinateur.
+     
+     Data communications:Transmission de donn+AOk-es / T+AOk-l+AOk-matique
+      The process of transmitting data between equipment, often over long distances.
+      Proc+AOk-d+AOk- de transmission de donn+AOk-es entre ordinateurs, souvent sur de longues distances.
+     
+     Data compression:Compression de donn+AOk-es
+      A means of reducing the amount of data that has to be stored or transmitted.
+      M+AOk-thode pour r+AOk-duire la quantit+AOk- de donn+AOk-es +AOA- enregistrer ou +AOA- transmettre.
+     
+     Data processing:Traitement de donn+AOk-es
+      The operation of collecting storing, processing and transmitting data.
+      Op+AOk-ration qui consiste +AOA- collecter, stocker, traiter et transmettre des donn+AOk-es.
+     
+     Database:Base de donn+AOk-es
+      Files of structured data stored on a computer but arranged so that they can be accessed in many different ways for use in various applications.
+      Fichiers compos+AOk-s de donn+AOk-es structur+AOk-es, enregistr+AOk-s dans un ordinateur, mais arrang+AOk-s de fa+AOc-on +AOA- ce qu'ils soient accessibles de diff+AOk-rentes mani+AOg-res pour +AOo-tre utilis+AOk-s dans de nombreuses applications. 
+     
+     Datalogging:Enregistrement chronologique de donn+AOk-es
+      The automatic collecting of data by a machine for a computer, the data being stored for later analysis.
+      Collecte automatique de donn+AOk-es effectu+AOk-e par un appareil +AOA- destination d'un ordinateur. Les donn+AOk-es collect+AOk-es seront stock+AOk-es pour +AOo-tre ensuite analys+AOk-es.
+     
+     Debugging:D+AOk-boguer
+      The finding and correcting of errors in a computer program. As these errors are called bugs, correcting them is known as debugging. The three main types of errors are logic errors, syntax errors and run-time errors.
+      Action de trouver et de corriger les erreurs d'un programme. Ces erreurs sont appel+AOk-es des bogues, les corriger s'appelle d+AOk-boguer. Les trois grands types d'erreurs sont les erreurs de logique, de syntaxe et d'ex+AOk-cution.
+     
+     Decision box:Symbole de d+AOk-cision / de condition
+      A diamond-shaped symbol used in a flowchart to indicate a choice in direction. The choice usually depends upon the value of a variable.
+      Figure en forme de losange utilis+AOk-e dans un organigramme pour indiquer un branchement conditionnel. La condition d+AOk-pend en g+AOk-n+AOk-ral de la valeur d'une variable.
+     
+     Default:Attribution par d+AOk-faut
+       An instruction or 'value' that will be used by a program unless it is altered by the user. In order to speed up the decisions that can be made by the user, a programmer will often set the machine to 'allocate the most likely instruction or value'.
+       Instruction ou valeur qui sera utilis+AOk-e par un programme +AOA- moins qu'elle ne soit chang+AOk-e par l'utilisateur. Dans le but d'acc+AOk-l+AOk-rer les d+AOk-cisions qui peuvent +AOo-tre prises par l'utilisateur, le programmeur configurera la machine pour lui attribuer l'instruction ou la valeur la plus plausible.
+     
+     Defragmentation:D+AOk-fragmentation
+       The reorganizing of the storage of a file. Defragmentation of a disk is a housekeeping task that improves both the efficiency of data storage and data retrieval speed. When data is saved to disk, the operating system directs it to the first available space, and, if this is not sufficient, then the next available is also used, and so on until all the data is stored.
+       La r+AOk-organisation de l'enregistrement d'un fichier. La d+AOk-fragmentation d'un disque est une t+AOI-che de maintenance qui am+AOk-liore l'efficacit+AOk- du stockage des donn+AOk-es et la vitesse de r+AOk-cup+AOk-ration de celles-ci. Quand les donn+AOk-es sont enregistr+AOk-es sur le disque, le syst+AOg-me d'exploitation les dirige vers le premier espace disponible, et, si ce n'est pas suffisant, le prochain espace disponible est alors utilis+AOk-, et cela jusqu'+AOA- ce que toutes les donn+AOk-es soient stock+AOk-es.
+     
+     Delimiter:D+AOk-limiteur
+       The character used to separate items of storage in a data file. For example, in a database file each field when stored has to be separated and this is often done using a comma (,) or an asterisk (+ACo-).
+       Caract+AOg-res utilis+AOk-s pour s+AOk-parer les donn+AOk-es enregistr+AOk-es dans un fichier. Par exemple, dans une base de donn+AOk-es chaque champ enregistr+AOk- doit +AOo-tre s+AOk-par+AOk- et ceci est r+AOk-alis+AOk- gr+AOI-ce +AOA- une virgule ou un ast+AOk-risque.
+     
+     Denary notation:Notation d+AOk-naire / d+AOk-cimale
+      Our normal counting system where we count in tens using decimals. The digits 0 to 9 are used in the units column before we carry over to the tens column.
+      Syst+AOg-me normal de notation, en base 10, qui accepte les d+AOk-cimales. Les chiffres (de 0 +AOA- 9) sont d'abord plac+AOk-s dans la colonne des unit+AOk-s avant de passer dans celle des dizaines, des centaines, etc.
+     
+     Diagnostic Routine:Routine de diagnostic
+      A program used for correcting errors in programs.
+      Programme utilis+AOk- pour corriger les erreurs dans les programmes.
+     
+     Digit:Chiffre
+      Any of the figures 0 to 9, though note that the number 747 has three digits but only two different characters. To a computer a digit is part of an item of data.
+      Tous les chiffres de 0 +AOA- 9. Remarquons cependant que 747 est compos+AOk- de trois chiffres mais seulement de deux caract+AOg-res diff+AOk-rents. Pour un ordinateur, un chiffre constitue une partie d'une donn+AOk-e.
+     
+     Digital Computer:Ordinateur Digital
+       A type of computer that only works with data represented in digital form, usually binary 0s and 1s. It differs from the analogue computer in that it can store large amounts of data and can calculate very accurately.
+       Type d'ordinateur qui fonctionne seulement avec des donn+AOk-es sous forme digitale, habituellement des 0 et des 1 binaires. Il diff+AOg-re de l'ordinateur analogue par le fait qu'il peut stocker de grandes quantit+AOk-s de donn+AOk-es et faire des calculs tr+AOg-s pr+AOk-cis. 
+     
+     Digitiser:Num+AOk-riseur
+      The device which converts analogue signals into digits +ADs- that is, an A-to-D converter (analogue-to-digital)
+      Dispositif qui permet la conversion d'une grandeur analogique en une donn+AOk-e num+AOk-rique. 
+     
+     Dip switches:Interrupteurs +AOA- positions multiples
+      A set of switches, often associated with printers but found on other peripherals, each of which can be put in one of two positions. They control various options that the user can select, such as transmission speeds, handshake type, paper-out light or beep.
+     DIP is the acronym of Dual In-line Package
+      Jeu de commutateurs, souvent associ+AOk-s +AOA- des imprimantes mais qu'on trouve aussi sur d'autres p+AOk-riph+AOk-riques, dont chacun peut +AOo-tre mis dans une des deux positions possibles. Ils contr+APQ-lent de multiples options que l'utilisateur peut choisir telles que la vitesse de transmission, le type de liaison ou l'indicateur de fin de papier sur une imprimante.
+     
+     Direct-access storage:M+AOk-moire +AOA- acc+AOg-s direct
+       Storage that can be reached very quickly and without any reference to previously accessed locations, unlike serial access memory. It is also called RAM. The data or program can be accessed almost instantly without having to go in sequence from the beginning because its location is known to the computer.
+       Unit+AOk- de stockage +AOA- laquelle on peut acc+AOk-der tr+AOg-s rapidement et sans aucune r+AOk-f+AOk-rence aux emplacements acc+AOk-d+AOk-s pr+AOk-c+AOk-demment, contrairement +AOA- une m+AOk-moire +AOA- acc+AOg-s s+AOk-quentiel. On l'appelle aussi RAM. On peut acc+AOk-der presque instantan+AOk-ment aux donn+AOk-es ou au programme sans avoir +AOA- suivre un ordre s+AOk-quentiel depuis le d+AOk-but et ce parce que son emplacement est connu de l'ordinateur.
+     
+     Directory:R+AOk-pertoire
+       A compartment in an 'electronic filing cabinet' that enables the keeping together of names of related files, thus making them easier to find.
+       Compartiment dans un classeur +AOk-lectronique permettant de regrouper des noms de fichiers apparent+AOk-s, les rendant ainsi plus accessibles et plus faciles +AOA- trouver.
+     
+     Disk unit:Unit+AOk- de disque
+      A peripheral device consisting of a disk drive and one or more read/write units.
+      P+AOk-riph+AOk-rique consistant en une unit+AOk- de disque et un ou plusieurs pilotes de lecture/+AOk-criture. 
+     
+     Documentation:Documentation
+      Printed information which accompanies a computer program and gives advice on how to use the package.
+      Informations, en g+AOk-n+AOk-ral sur papier, qui accompagnent un logiciel et qui aident +AOA- l'utilisation de ce logiciel.
+     
+     Domain name:Nom du domaine
+      The name of a location, site or resource on the internet, which usually refers to the computer where the data is stored (though it may just provide a link to data stored elsewhere). Consisting of two or more parts, each separated with a dot, computers on the same network will have similar domain names.
+      Nom de l'adresse, site ou ressource sur Internet, qui renvoie habituellement +AOA- l'ordinateur o+APk- les donn+AOk-es sont enregistr+AOk-es (bien qu'il puisse seulement fournir un lien vers des donn+AOk-es quel que soit l'endroit o+APk- elles sont stock+AOk-es). Constitu+AOk- d'au moins deux parties, chacune s+AOk-par+AOk-e par un point, les ordinateurs sur le m+AOo-me r+AOk-seau auront des noms de domaine similaires.
+     Ex : univ-tlse3.fr
+     
+     DOS (Disk Operating System):Syst+AOg-me DOS (syst+AOg-me d'exploitation)
+      A program, often held in read only memory, which controls the disk drive and the passing of data to and from the computer.
+      Programme qui se trouve en g+AOk-n+AOk-ral dans la ROM et qui contr+APQ-le les acc+AOg-s disque d'un ordinateur, il permet de g+AOk-rer les +AOk-changes d'informations.
+     
+     Down time:Temps d'immobilisation
+        The length of time during which a machine is not usable due to faults of some kind.
+       Dur+AOk-e pendant laquelle une machine est indisponible +AOA- cause d'un quelconque dysfonctionnement.
+     
+     Download:T+AOk-l+AOk-charger (en mode r+AOk-ception)
+      The taking of data from a large machine (mainframe) or from a network to a smaller one (microcomputer).
+      Action qui consiste +AOA- prendre des donn+AOk-es d'un serveur ou d'un r+AOk-seau  pour les rapatrier vers un micro-ordinateur. Importation.
+     
+     Dry run:Trace
+      A method of working through a program using pen and paper to construct a trace table.
+      M+AOk-thode qui consiste +AOA- travailler sur un programme en utilisant un stylo et du papier pour construire un tableau de tra+AOc-age.
+     
+     Dumb terminal:Terminal (passif / d+AOk-pendant)
+      A terminal with no processing power of its own.
+      Terminal passif sans unit+AOk- centrale de traitement.
+     
+     Dump:Vidage
+      The process of copying the data in a section of memory and sending it to a peripheral device (a printer) or to a backing store.
+      Proc+AOk-d+AOk- qui consiste +AOA- copier des donn+AOk-es dans une section de la m+AOk-moire et les envoyer vers un p+AOk-riph+AOk-rique (imprimante) ou vers une m+AOk-moire auxiliaire.
+     
+     E-business:E-commerce
+       A term that describes the use of the Internet for commercial purposes, reducing the need for people to meet face to face.
+     Terme qui d+AOk-crit l'usage d'Internet +AOA- des fins commerciales, r+AOk-duisant la n+AOk-cessit+AOk- pour les personnes de se rencontrer face +AOA- face.
+     
+     Edit:R+AOk-vision
+       The task of changing and improving a program by adding or removing instructions or by modifying the data. This is sometimes done with the help of a special program called an editor.
+       T+AOI-che qui consiste +AOA- changer et am+AOk-liorer un programme en rajoutant ou en +APQ-tant des instructions ou en modifiant des donn+AOk-es. On peut parfois le faire +AOA- l'aide d+AJI-un programme sp+AOk-cial appel+AOk- +AOk-diteur.
+     
+     Electronic mail:Courrier +AOk-lectronique ( M+AOk-l )
+      E-mail. Messages which are sent from user to user using telecommunications+ADs- no paper, no stamp and no postman is required, just an electronic office.
+      Messages +AOk-lectroniques envoy+AOk-s d'un utilisateur +AOA- un autre en utilisant les t+AOk-l+AOk-communications +ADs- aucun papier, ni timbre, ni facteur ne sont n+AOk-cessaires, juste un service +AOk-lectronique.
+     
+     Electronic signature:Signature +AOk-lectronique
+      A text file, usually only a few lines, which has the name of the user, and sometimes contact information, which can be automatically attached to e-mail messages.
+     Fichier texte, de quelques lignes en g+AOk-n+AOk-ral, qui comporte le nom de l'utilisateur, parfois ses coordonn+AOk-es, qui peuvent +AOo-tre automatiquement attach+AOk-s au courrier +AOk-lectronique.
+     
+     Emoticon:Emoticon
+      They are typewritten pictures of facial expressions used to convey the sender's emotion or feelings when communicating on the Internet, by email. 
+     Images dactylographi+AOk-es d'expressions faciales utilis+AOk-es pour indiquer l'+AOk-tat +AOk-motionnel de l'exp+AOk-diteur quand on communique par m+AOk-l sur l'Internet.
+     
+     Emulator:Emulateur
+       A piece of hardware (though it can be software) which, when attached to a computer, makes it behave as if it was another type of computer. Thus programs prepared for one range of computers can, with the aid of an emulator, be run on another range of computer.
+       Dispositif mat+AOk-riel (ou logiciel) qui permet +AOA- un ordinateur donn+AOk- de se comporter comme un autre type d'ordinateur. Ainsi des programmes +AOk-crits pour un type d'ordinateur peuvent, gr+AOI-ce +AOA- un +AOk-mulateur, +AOo-tre ex+AOk-cut+AOk-s sur un autre type d'ordinateur.
+     
+     Encryption:Cryptage / Chiffrage
+      The changing of data for security so that it cannot be recognized, let alone decoded, except by an authorized receiver.
+      Codage des donn+AOk-es, par s+AOk-curit+AOk-, afin qu'elles ne puissent pas +AOo-tre reconnues, encore moins d+AOk-cod+AOk-es, par un destinataire non autoris+AOk-.
+     
+     End mark:Marque de fin
+      A code used when working with a stream of data when it is necessary to indicate the end of various items.
+      Code utilis+AOk- lorsque l'on travaille avec un flux de donn+AOk-es et qu'il est n+AOk-cessaire d'en indiquer la fin.
+     
+     Erase:Effacer
+       To rub out data that has been stored. However, unlike the rubbing out of a pencil line where nothing is left, in a computer it means replacing a code with another code that indicates 'the area of memory is now available for new data'. It might be zeros but this is not necessarily the case.
+       Effacer une donn+AOk-e pr+AOk-alablement enregistr+AOk-e. N+AOk-anmoins, contrairement +AOA- l'effacement d'un +AOk-crit o+APk- rien ne reste, pour un ordinateur cela signifie remplacer un code par un autre indiquant +ACI-la zone m+AOk-moire est maintenant disponible pour d'autres donn+AOk-es+ACI-. Cela peut +AOo-tre une suite de z+AOk-ros bien que ce ne soit pas toujours le cas.
+     
+     Error:Erreur
+      A fault that prevents the results that are expected from appearing. Errors can be due to mistakes made in programming (software errors) or due to faulty equipment (hardware errors), or human operator mistakes.
+      Anomalie qui emp+AOo-che de faire appara+AO4-tre les r+AOk-sultats attendus. Les erreurs peuvent +AOo-tre dues +AOA- des erreurs de programmation (erreur li+AOk-e au logiciel) ou +AOA- des probl+AOg-mes de mat+AOk-riels d+AOk-fectueux (erreur li+AOk-e au mat+AOk-riel) ou encore +AOA- des erreurs de manipulation humaine. 
+     
+     Error message:Message d'erreur
+      When an error occurs it may be possible for the program to indicate what has gone wrong by putting a message on the screen.
+      Lorsqu'une erreur se produit, le programme peut indiquer ce qui ne vas pas en affichant un message +AOA- l'+AOk-cran.
+     
+     Ethernet:Ethernet
+      A standard method of transmitting data between computers connected in a local area network. It is capable of handling transmission rates of 10 000 kilobits per second.
+      M+AOk-thode standard de transmission de donn+AOk-es entre des ordinateurs connect+AOk-s dans un r+AOk-seau local. Il est capable de g+AOk-rer des vitesses de transmission de 10 000 kilobits par seconde.
+     
+     Exclusive-OR gate:Porte OU Exclusif
+       A logic gate which operates with binary digits. Its output is of logic value 1 when any of its inputs have logic value 1 but not if all the inputs are 1. (Inclusive-OR also outputs a 1 if all the inputs are 1.)
+                            input           output
+                             1  0               1
+                             0  1               1
+                             1  1               0
+                             0  0               0
+     
+       Porte logique fonctionnant avec des chiffres binaires. Sa sortie prend pour valeur 1 lorsqu'une et une seule de ses entr+AOk-es a pour valeur 1. (Le OU inclusif affiche aussi 1 +AOA- sa sortie si toutes les entr+AOk-es ont pour valeur 1.)
+     
+     Expert System:Syst+AOg-me Expert
+      A computer package that will enable the user to gain access to and use the knowledge and reasoning of experts.
+      Logiciel qui permet +AOA- l'utilisateur d'avoir acc+AOg-s et d'utiliser la connaissance et le raisonnement d'experts.
+     
+     Extranet:Extranet
+     The part of an Intranet that allows public access through the Internet
+     La partie d'un Intranet qui permet un acc+AOg-s publique +AOA- travers l'Internet.
+     
+     Fax/facsimile:T+AOk-l+AOk-copie / Fax
+      The scanning of a document and converting the shading into signals which can be transmitted via wires or radio waves. These signals are used to create a copy of the original document at the destination of the transmission.
+      Proc+AOk-d+AOk- qui consiste +AOA- scanner un document et +AOA- le convertir en signaux qui peuvent +AOo-tre transmis par c+AOI-bles ou ondes radios. Ces signaux sont utilis+AOk-s pour cr+AOk-er une copie du document original sur le lieu de destination de la transmission.
+     
+     Fibre optics:Fibre Optique
+      A process using the transmission of light along a glass or Perspex fibre.
+      Proc+AOk-d+AOk- qui utilise la transmission de la lumi+AOg-re +AOA- travers une fibre de verre ou de Perspex.
+     
+     Field:Champ
+      The part of a database record that holds one item of data. In a personnel system, one field might hold 'names', another the corresponding 'dates of birth'. Searches can be carried out on the different fields.
+      Partie d'un enregistrement d'une base de donn+AOk-es qui contient une information. Par exemple, un champ peut contenir des noms, et un autre les dates de naissance correspondantes. Une recherche peut +AOo-tre effectu+AOk-e sur diff+AOk-rents champs.
+     
+     Fifth generation computers:Ordinateurs de cinqui+AOg-me g+AOk-n+AOk-ration
+       Advanced and powerful computers offering expert systems, many program languages, parallel processing and speech recognition. Thirty or more times faster than the best fourth generation computers, they offer speeds in excess of 1 billion instructions per second (1000 mips).
+       Ordinateurs avanc+AOk-s et puissants qui proposent des syst+AOg-mes experts, plusieurs langages de programmation, le traitement en parall+AOg-le et la reconnaissance vocale. Plus de trente fois plus rapides que les meilleurs ordinateurs de quatri+AOg-me g+AOk-n+AOk-ration, ils fonctionnent +AOA- une vitesse qui d+AOk-passe le milliard d'op+AOk-rations par seconde (1000 mips).
+     
+     File:Fichier
+      A collection of related data. Just as sheets of paper form a file in a filing cabinet so data can be formed into a file suitable for use by a computer. The file is stored in the computer memory
+      Ensemble de donn+AOk-es formant un tout. De m+AOo-me que dans un classeur papier, plusieurs documents forment un fichier, des donn+AOk-es peuvent +AOo-tre structur+AOk-es dans un fichier informatique pour +AOo-tre stock+AOk-es dans la m+AOk-moire de l'ordinateur.
+     
+     File compression:Compression de fichiers
+      The reduction in the size of a file being stored by coding each set of repeat characters as just one character with the number of times it is repeated.
+      R+AOk-duction de la taille d'un fichier en codant chaque ensemble de caract+AOg-res r+AOk-p+AOk-t+AOk-s en un seul caract+AOg-re et le nombre de fois qu'il est r+AOk-p+AOk-t+AOk-.
+     
+     File transfer:Transfert de fichiers
+      In the same way that a file can be copied from one disk to another so it can be transferred over a network or via the internet. In the latter case it has to conform to protocol such as File Transfer Protocol  (FTP).
+      De la m+AOo-me fa+AOc-on qu'un fichier peut +AOo-tre copi+AOk- d'un disque sur un autre, il peut +AOo-tre transf+AOk-r+AOk- par un r+AOk-seau ou par l'Internet. Dans ce dernier cas, il doit se conformer +AOA- des protocoles tels que le FTP.
+     
+     File Transfer Protocol:Protocole de Transfert de Fichiers
+       FTP. The rules that allow the user to login to another computer and cause a copy of a particular file to be transferred between computers in compressed blocks of data without corruption. The file transfer protocol controls the transfer and checks for errors made during the transmission.
+       R+AOg-gles qui permettent +AOA- l'utilisateur de se connecter +AOA- un autre ordinateur et de transf+AOk-rer d'un ordinateur +AOA- l'autre une copie d'un fichier sous forme de blocs compress+AOk-s  et cela sans erreur. Le protocole de transfert de fichiers contr+APQ-le le transfert et s'assure qu'aucune erreur n'a +AOk-t+AOk- commise lors de la transmission.
+     
+     Firewall:Coupe-feu / pare-feu
+      Usually a software system, although it can be hardware, that enforces an agreed policy of what can travel between two networks, most commonly used to limit access to unsuitable pages from the World Wide Web. It can be used to protect against a virus and to prevent unauthorized access to a network.
+      Logiciel ou mat+AOk-riel qui contr+APQ-le les +AOk-changes entre deux r+AOk-seaux, il est le plus souvent utilis+AOk- pour limiter l'acc+AOg-s +AOA- certaines pages de la Toile, pour +AOk-viter la propagation de virus et pour interdire l'acc+AOg-s +AOA- un r+AOk-seau donn+AOk-.
+     
+     Firmware:Microprogramme
+       Programs that are held in read only memories (ROM). These can be accessed very quickly and are not lost when the machine is switched off (non volatile memory). Thus they do not have to be loaded into the computer as they are permanently available in the machine.
+       Programmes qui sont contenus dans des m+AOk-moires mortes (ROM). On peut y acc+AOk-der tr+AOg-s rapidement et ils ne sont pas perdus lorsque l'on +AOk-teint l'ordinateur (m+AOk-moire non volatile). Ainsi, ils n'ont pas besoin d'+AOo-tre charg+AOk-s dans l'ordinateur puisqu'ils sont disponibles en permanence dans la machine.
+     
+     Fixed-point arithmetic:Calcul en virgule fixe
+      A system that involves having the decimal point of every number in the correct place, though the position can be set before a calculation (i.e. all figures to two decimal places). This does limit the size of numbers though it allows faster calculations by the computer.
+      Syst+AOg-me qui g+AOg-re la position de la virgule et qui permet de d+AOk-finir sa position avant les calculs (par exemple tous les nombres auront deux chiffres apr+AOg-s la virgule). La virgule est conserv+AOk-e pour les calculs ce qui limite la taille des nombres mais permet d'augmenter la vitesse de calcul de l'ordinateur.
+     
+     Flag:Indicateur
+       An indicator added to the end of a piece of data which might be used to indicate an error or to make the hardware perform a branch to another part of the program.
+       Indicateur ajout+AOk- a la fin d'une donn+AOk-e qui peut +AOo-tre utilis+AOk- pour indiquer une erreur ou pour permettre +AOA- la machine d'ex+AOk-cuter un branchement vers une autre partie du programme.
+     
+     Flip-flop:Flip-flop
+       A basic electronic circuit which remains in one of two possible states until it receives a signal. It then switches over to the other state and waits for the next signal before switching back. Known technically as a bistable multivibrator.
+       Circuit +AOk-lectronique de base qui reste dans un des deux +AOk-tats possibles jusqu'+AOA- ce qu'il re+AOc-oive un signal. Il commute alors vers l'autre +AOk-tat et attend le signal suivant avant de revenir +AOA- son +AOk-tat initial. Il est connu techniquement sous le nom de multivibrateur bistable.
+     
+     Floating-point arithmetic:Calcul en virgule flottante
+      A system in which numbers are recorded as a set of digits together with the power to which their base is raised. For example, the denary number 789.249 would be stored as (+07892w-) and (). Most scientific calculators use this method which, although slower in calculations, gives a very much wider range of numbers.
+      Syst+AOg-me par lequel un nombre est enregistr+AOk- comme une suite de chiffres, avec en plus la puissance +AOA- laquelle est +AOk-lev+AOk-e sa base. Par exemple, le r+AOk-el 789,249 sera enregistr+AOk- comme (+07892w-) et le chiffre (). La plupart des calculatrices scientifiques utilisent cette m+AOk-thode qui, bien que moins rapide pour les calculs, offre la possibilit+AOk- d'utiliser des nombres bien plus grands.
+     
+     Floppy disk:Disquette
+      A flexible magnetic disk used for supplying and storing data for a micro-computer.
+      Disque magn+AOk-tique flexible utilis+AOk- pour fournir et emmagasiner des donn+AOk-es pour un micro-ordinateur.
+     
+     Flowchart:Organigramme
+      A set of special boxes or shapes drawn on paper and connected by lines to show the order of a set of events. They are used by programmers to describe the sequence of operations to be carried out by a computer.
+      Ensemble de figures et de symboles dessin+AOk-s sur papier et connect+AOk-s par des lignes pour montrer l'ordre des +AOk-v+AOg-nements. Ils sont utilis+AOk-s par les programmeurs pour d+AOk-crire l'encha+AO4-nement des op+AOk-rations +AOA- ex+AOk-cuter par l'ordinateur.
+     
+     Font:Police
+      A complete set of characters based on a particular style of letter design.
+      Ensemble de caract+AOg-res bas+AOk- sur un style de lettre bien particulier.
+     
+     Format:Formater
+       When used of disks, formatting is the laying down of tracks and sectors. This is often called initialising a new floppy disk.
+        In word processing, formatting means arranging the layout of a piece of text in a particular way before it is printed.
+       Dans le cas d'un disque, formater signifie inscrire des pistes et des secteurs. On parle +AOk-galement d'initialisation pour une nouvelle disquette.                                                                    
+       Dans un traitement de texte, il s'agit d'arranger la disposition d'un texte d'une certaine fa+AOc-on avant de l'imprimer.
+     
+     Fourth generation computer:Ordinateur de quatri+AOg-me g+AOk-n+AOk-ration
+       The computers built during the 1980s with capacities of 5000 kilobytes and speeds of 30 million instructions per second (30 mips). They have now been replaced by fifth-generation computers.
+       Ordinateurs construits dans les ann+AOk-es 80 ayant des capacit+AOk-s de 5000 kilo-octets et une vitesse de calcul de 30 millions d'instructions par seconde (30 mips). Ils sont maintenant remplac+AOk-s par des ordinateurs de cinqui+AOg-me g+AOk-n+AOk-ration.
+     
+     Fourth generation languages:Langages de quatri+AOg-me g+AOk-n+AOk-ration
+       Programming languages developed in the 1990s, each being designed for a particular type of application.
+      Langages de programmation d+AOk-velopp+AOk-s dans les ann+AOk-es 90, chacun d'eux +AOk-tant con+AOc-u pour un type bien d+AOk-fini d'application.
+     
+     Frame:Cadre
+        A Web browser feature that enables a Web page to be displayed in a separate scrollable window on screen. (see page)
+      Caract+AOk-ristique d'un navigateur qui permet +AOA- une page web de s'afficher dans une fen+AOo-tre avec barre de d+AOk-filement +AOA- l'+AOk-cran. (Voir +AOA- page)
+     
+     Full-adder:Additionneur complet
+      A logic circuit (which consists of a set of gates) which has three inputs and two outputs. It is used to add together two binary digits and the carry digit from the previous column giving both the sum and the next carry digit.
+      Circuit logique (constitu+AOk- d'un jeu de portes logiques) qui poss+AOg-de 3 entr+AOk-es et 2 sorties. Il est utilis+AOk- pour additionner 2 chiffres binaires et le chiffre de retenue des colonnes pr+AOk-c+AOk-dentes en donnant la somme et la prochaine valeur de la retenue.
+     
+     Garbage:Donn+AOk-es parasites 
+      Meaningless data. Such rubbish is printed by a computer because of errors in the program or in the data or because the data belongs to another program.
+      De telles donn+AOk-es sont imprim+AOk-es par l'ordinateur +AOA- cause d'erreurs dans le programme ou dans les donn+AOk-es ou parce que l'information appartient +AOA- un autre programme.
+     
+     Gate:Porte
+        A switching device in a transistor. The word has therefore come to be used for a logic circuit with several inputs and one or two outputs. Such gates form the basic building units of all calculating chips.
+       Syst+AOg-me de commutation dans un transistor. Le mot a donc +AOk-t+AOk- finalement utilis+AOk- pour signifier un circuit logique avec plusieurs entr+AOk-es et une ou deux sorties. De telles portes constituent les +AOk-l+AOk-ments de base de toutes les puces d+AOk-di+AOk-es aux calculs.
+     
+     Graphical Display Unit:Dispositif d'Affichage Graphique
+      A unit, rather like the screen of a television set, which is used to display both text and drawings. Sometimes a light pen can be used by the operator to get the computer to make changes to the display.
+      Un +AOk-l+AOk-ment semblable +AOA- un poste de t+AOk-l+AOk-vision, qui est utilis+AOk- afin d'afficher aussi bien du texte que des dessins. Parfois l'op+AOk-rateur utilise un crayon optique pour faire des changements dans l'affichage.
+     
+     Graphical user interface:Interface graphique d'utilisateur
+       The facility that enables the user to work with icons, and a mouse rather than text (i.e. rather than selecting A, B or C from a menu). Sometimes referred to as a WIMP environment, it aims at presenting the user with a familiar screen display and a consistent operating procedure for all the programs.
+       Outil qui permet +AOA- l+AJI-utilisateur de travailler +AOA- l'aide d'ic+APQ-nes et de la souris plut+APQ-t qu'avec du texte (c'est-+AOA--dire au lieu de s+AOk-lectionner A, B ou C dans un menu). On parle parfois d'environnement WIMP, son objectif est de pr+AOk-senter +AOA- l'utilisateur un affichage familier et un syst+AOg-me de proc+AOk-dures semblables pour tous les programmes.
+     
+     Graphics Interchange Format:Format d'+AOk-change graphique
+      GIF. A file format for storing pictures using compressed data. It is particularly suitable for use on the internet as it allows a low-quality image to be seen at first, which improves in quality whilst the rest of the data is being downloaded.
+        Format de fichier pour enregistrer des images sous forme compress+AOk-e. Son utilisation convient +AOA- l'Internet car il permet d'afficher rapidement une image de mauvaise qualit+AOk- qui ira en s'am+AOk-liorant au cours du t+AOk-l+AOk-chargement du reste des donn+AOk-es.
+     
+     Graphics tablet:Tablette graphique
+      An input device that, by sensing pressure, translates the position of a pen or pointer on a pad into a digital signal for a computer. It enables the user to draw or trace a shape to the computer screen and into memory.
+      P+AOk-riph+AOk-rique d'entr+AOk-e qui, +AOk-tant sensible aux  pressions, traduit la position d'un stylet ou pointeur sur une tablette en signal +AOk-lectrique destin+AOk- +AOA- un ordinateur. Il permet +AOA- l'utilisateur de dessiner ou de tracer des formes +AOA- l'+AOk-cran et de les stocker dans la m+AOk-moire de l'ordinateur.
+     
+     Hacker:Hacker
+      A person who illegally attempts to gain access to a computer system whether or not they succeed. Such an act would be a cybercrime.
+     Personne qui essaie de p+AOk-n+AOk-trer ill+AOk-galement dans le syst+AOg-me d'un ordinateur qu'il y r+AOk-ussisse ou non.  Un tel art s'apparente  +AOA- un crime.
+     
+     Handshake:Message d'+AOk-tablissement de communication
+      Signals such as +ACI-ready to receive+ACI-, +ACI-transmit+ACI-, +ACI-wait+ACI- which helps to control data transfer between computers and peripherals. It is similar to humans saying +ACI-Hello, can you spare a minute ?+ACI-
+      Messages tels que +ACI-pr+AOo-t +AOA- transmettre+ACI-, +ACI-transmission+ACI-, +ACI-attente+ACI- qui aident +AOA- r+AOk-guler le transfert de donn+AOk-es entre les ordinateurs et les p+AOk-riph+AOk-riques. On peut comparer cela +AOA- +ACI-Bonjour, tu as une minute ?+ACI- lors d'une conversation qui d+AOk-bute entre deux interlocuteurs.
+     
+     Hard disk store:Disque dur
+      A disk sealed into its unit. As the disk is not removable, the read/write head is extremely close to its surface and tracks can be densely packed together. Because of precision engineering, a hard disk has far greater capacity than a floppy disk, typically between 10 and 20 gigabytes for micro equipment.
+      Disque scell+AOk- dans son bo+AO4-tier. Comme le disque n'est pas amovible, la t+AOo-te de lecture/+AOk-criture est extr+AOo-mement pr+AOg-s de sa surface et des pistes peuvent +AOo-tre condens+AOk-es. Pour cette raison un disque dur a de loin une plus grande capacit+AOk- qu'un disque souple, typiquement entre 10 et 20 gigaoctets.
+     
+     Hardcopy:Sortie d'imprimante
+      The printed output, usually on paper, which can be taken away and studied.
+      Impression d'une sortie d'ordinateur en g+AOk-n+AOk-ral sur  papier, et qui peut +AOo-tre emport+AOk-e et +AOk-tudi+AOk-e plus tard.
+     
+     Hardware:Mat+AOk-riel
+       All the equipment that makes up the computer system.  It is called hardware as opposed to software
+       A l'origine, quincaillerie, mais dans le contexte de l'informatique, nous utilisons le mot mat+AOk-riel. Se r+AOk-f+AOg-re +AOA-  tout ce qui compose mat+AOk-riellement un ordinateur, par opposition +AOA- logiciel (programmes).
+     
+     Hardwired logic:Logique c+AOI-bl+AOk-e
+       The logic that is built in to an integrated circuit (or chip) by the manufacturer and refers to the wiring between gates as well as the gates themselves.
+       Logique incorpor+AOk-e, par le constructeur, +AOA- un circuit int+AOk-gr+AOk- (ou +AOA- une puce). C'est une r+AOk-f+AOk-rence au c+AOI-blage des portes logiques entre elles aussi bien qu'aux portes logiques elles-m+AOo-mes.
+     
+     Heuristic program:Programme heuristique
+
+      A program so written that each time it runs it learns from the results of its own actions and makes changes to improve its performances the next time.
+      Programme +AOk-crit de telle mani+AOg-re que chaque fois qu'il est utilis+AOk-, il tire des conclusions de ses actions et effectue des modifications en vue d'am+AOk-liorer ses actions futures.
+     
+     Hexadecimal notation:Notation hexad+AOk-cimale
+      A system in which one counts in 'sixteens' instead of 'tens'. Usually the digits 0 to 9 are used and the letters A,B,C,D,E and F represent ten, eleven, twelve, thirteen, fourteen and fifteen.
+      Syst+AOg-me en base 16 au lieu de la base 10. On utilise les chiffres de 0 +AOA- 9 et les lettres A, B, C, D, E et F qui repr+AOk-sentent respectivement les nombres dix, onze, douze, treize, quatorze et quinze.
+     0 1 2 3 4 5 6 7 8 9 A B C D E F 1O 11...
+     
+     High-level language:Langage de haut niveau
+      A programming language in which instructions are written in natural or everyday language, but in a rigidly prescribed manner (syntax).
+      Langage de programmation dans lequel les instructions sont +AOk-crites en langage naturel ou langue de tous les jours, mais d'une mani+AOg-re rigoureusement prescrite (syntaxe).
+     
+     High-resolution graphics:Graphiques de haute r+AOk-solution
+      Graphics that produce smooth curves and high definition. Most microcomputers offer some form of graphics whereby the programmer is able to plot points and draw lines. The graphics screen is divided into an +ACI-X+ACI- horizontal axis and an +ACI-Y+ACI- vertical axis. The whole area is composed of pixels (picture elements). As a rough guide, 1024 by 768 pixels is considered high resolution, whereas 320 by 240 would be low resolution. Higher resolutions produce smoother outlines of curves and angled lines on the monitor screen.
+      Affichages graphiques qui produisent des courbes lisses et une d+AOk-finition +AOk-lev+AOk-e. Beaucoup d'ordinateurs offrent certains modules graphiques qui permettent au programmeur  de marquer les points et de tracer les lignes. L'+AOk-cran graphique est divis+AOk- par un axe horizontal +ACI-X+ACI- et par un axe vertical +ACI-Y+ACI-. Sa surface est compos+AOk-e de pixels (+AOk-l+AOk-ments d'images). En r+AOg-gle g+AOk-n+AOk-rale, 1024 par 768 pixels est consid+AOk-r+AOk- comme de la haute r+AOk-solution, tandis que 320 par 240 serait de la basse r+AOk-solution. Les plus hautes r+AOk-solutions produisent les contours de courbes et les diagonales les plus lisses +AOA- l'+AOk-cran.
+     
+     Host:Ordinateur h+APQ-te
+       The computer that manages and control access to the  Internet for the Internet Service Provider (ISP).
+       Ordinateur qui dirige et contr+APQ-le l'acc+AOg-s +AOA- Internet pour le fournisseur d'acc+AOg-s +AOA- Internet (FAI).
+     
+     HTTP:HTTP
+       HyperText Transfer Protocol. In the same way as file transfer protocol is used to transfer files so hypertext transfer protocol is used to transfer hypertext files.
+      De la m+AOo-me mani+AOg-re que le protocole FTP est utilis+AOk- pour transf+AOk-rer des fichiers, le protocole HTTP est utilis+AOk- pour transf+AOk-rer des fichiers hypertextuels.
+     
+     Hub:Concentrateur
+       The central node of a star arrangement of a local area network (LAN) which has a separate connection to each computer.
+      Dans un LAN, le concentrateur est le noyau central du r+AOk-seau en +AOk-toile. Il poss+AOg-de des connections s+AOk-par+AOk-es avec chaque ordinateur, reliant ainsi entre elles les stations de travail.
+     
+     Hyperlink:Hyperlien
+      Most web pages have a number of highlighted words, usually in blue and underlined. These are hyperlinks which, when selected by the mouse, will jump the user to a linked web page.
+     La plupart des pages Web comporte un certain nombre de mots en vedette, g+AOk-n+AOk-ralement en bleu ou soulign+AOk-s. Ce sont des hyperliens qui, s+AOk-lectionn+AOk-s par un clic de souris, vont faire sauter l'utilisateur +AOA- une page Web qui leur sont associ+AOk-s. 
+     
+     Hypertext:Hypertexte
+      The marked text or icons within an on-line document that, when selected by the user, allow links to other on-line documents containing associated information.
+      Texte marqu+AOk- ou ic+APQ-nes  dans un document en ligne qui, lorsqu'ils sont s+AOk-lectionn+AOk-s par l'utilisateur, permettent des liens vers d'autres documents en ligne qui contiennent des informations qui leur sont associ+AOk-es.
+     
+     HyperText Mark-up Language :Langage HTML
+      HTML. A page description language that is used to create Web pages. Tags are used to indicate how the text should appear on the screen and which parts will provide a link to another page.
+      Langage de cr+AOk-ation de documents hypertextuels  d+AOk-di+AOk- +AOA- la cr+AOk-ation de pages sur le Web. Des balises sont utilis+AOk-es pour indiquer la disposition du texte +AOA- l'+AOk-cran et quels mots permettront des liens hypertextuels vers d'autres pages.
+     
+     I/O device:P+AOk-riph+AOk-rique d'entr+AOk-e/de sortie
+      A device to enter/retrieve information to/from a computer, like a keyboard or a printer.
+      P+AOk-riph+AOk-rique permettant d'inscrire ou de r+AOk-cup+AOk-rer des informations dans un ordinateur, comme par exemple un clavier ou une imprimante.
+     
+     Icon:Ic+APQ-ne
+      A small pictorial symbol on the screen which can be activated by a cursor or a mouse in order to instruct the computer to do a particular task like load or display a data char, or run a particular program to save the user having to type in a series of commands.
+      Petit symbole pictural sur l'+AOk-cran qui peut +AOo-tre activ+AOk- par un curseur ou une souris dans le but de faire ex+AOk-cuter +AOA- l'ordinateur une t+AOI-che particuli+AOg-re comme charger ou afficher des caract+AOg-res de donn+AOk-es, ou ex+AOk-cuter un programme particulier pour +AOk-viter +AOA- l'utilisateur d'avoir +AOA- taper une s+AOk-rie de commandes.
+     
+     Identifier:Identifiant / identificateur
+      A name or set of characters chosen by the programmer which indicates which file or which store is to be used at that point in the program.
+      Nom ou ensemble de caract+AOg-res choisis par le programmeur pour indiquer quel fichier ou quel enregistrement est utilis+AOk- +AOA- ce point du programme.
+     
+     Immediate access store:M+AOk-moire interne +AOA- acc+AOg-s imm+AOk-diat
+       Those memories where data can be accessed in times of one millionth of a second (a microsecond) or less. Included would be those stores within the central processor and those directly addressable by the programmer.
+       Type de m+AOk-moire o+APk- les temps d'acc+AOg-s aux donn+AOk-es sont d'un millioni+AOg-me de seconde (une microseconde) ou m+AOo-me moins. En font aussi partie les m+AOk-moires situ+AOk-es dans le processeur central et celles que le programmeur peut directement adresser.
+     
+     Inclusive-OR gate:Porte OU-inclusif
+        See OR gate.
+       Voir Porte OU.
+     
+     Indexed sequential access:Acc+AOg-s s+AOk-quentiel index+AOk-
+      The storing and retrieving of data from a sequence of stores the addresses of which have to be first found by the computer from an index file.
+      Le stockage et l'extraction d'informations provenant d'une suite de donn+AOk-es m+AOk-moris+AOk-es dont les adresses sont d'abord retrouv+AOk-es par l'ordinateur gr+AOI-ce +AOA- un index.
+     
+     Information retrieval:R+AOk-cup+AOk-ration d'information
+      Obtaining information from data often stored in a database.
+      R+AOk-cup+AOk-rer de l'information +AOA- partir de donn+AOk-es stock+AOk-es par exemple dans une base de donn+AOk-es.
+     
+     Initialize:Initialiser
+      The setting up of the values of the variables at the start of the program so as to clean the values set by the previous run.
+      D+AOk-finition des valeurs des variables au d+AOk-but du programme pour effacer les valeurs affect+AOk-es lors du  premier passage. Il s'agit souvent de donner aux variables les valeurs 0 ou nul (+ACIAIg-).
+     
+     Input device:P+AOk-riph+AOk-rique d'entr+AOk-e
+      The device with which the operator enters both programs and data into a computer. Examples include light pens, keyboards, bar code readers, optical or mark sense readers, scanners, punched cards and punched tape.
+      Syst+AOg-me avec lequel l'utilisateur entre les programmes et les donn+AOk-es dans un ordinateur. Ex :  stylo optique, clavier, lecteur de code +AOA- barres, scanner, lecteurs optiques ou de marques magn+AOk-tiques,  cartes ou bandes perfor+AOk-es.
+     
+     Instruction:Instruction
+       The part of a computer program which tells the computer what it should be doing at that stage. For example, PRINT or ADD.
+       Partie d'un programme qui dit +AOA- l'ordinateur ce qu'il devrait faire +AOA- ce stade. Par exemple, Imprimer ou Ajouter.
+     
+     Integer:Entier
+      A whole number without any decimal or fractional part
+      Nombre entier (sans partie d+AOk-cimale ni fractionnaire) 
+     
+     Integrated circuit:Circuit int+AOk-gr+AOk-
+       A solid state circuit in which all the components are formed upon a single piece of semiconductor material. The first one consisted of a transistor and a resistor and was created in 1959.
+       Circuit +AOA- base de semi-conducteurs dans lequel on a incorpor+AOk- des composants sur un seul module. Le premier fut cr+AOkA6Q- en 1959 et +AOk-tait compos+AOk- d'un transistor et d'une r+AOk-sistance. 
+     
+     Intelligent terminal:Terminal Intelligent
+      A terminal which retains a program and allows processing of data to be carried out without further access to the host computer, as opposed to a dumb terminal which has no processing power of its own.
+      Terminal qui ex+AOk-cute un programme et autorise le traitement des donn+AOk-es sans acc+AOg-s fr+AOk-quent au serveur, +AOA- l'oppos+AOk- d'un terminal passif qui n'a pas la possibilit+AOk- de traiter par lui-m+AOo-me les donn+AOk-es.
+     
+     Interface:Interface
+       The circuitry (or hardware) needed between two devices so that they can be connected together.
+       Circuit (ou mat+AOk-riel) n+AOk-cessaire entre deux p+AOk-riph+AOk-riques afin de pouvoir les connecter ensemble.
+     
+     Internet protocol:Protocole Internet
+      IP. The rules that ensure the correct transfer of files and data between computers on the internet. For example, File Transfer Protocol (FTP) and HyperText Transfer Protocol (http) are concerned with data structures whereas Transmission Control Protocol/Internet Protocol (TCP/IP) specifies how signals are transmitted. In addition each computer linked to the internet has its own unique IP address (Internet Protocol address) which corresponds to its unique domain name.
+       R+AOg-gles qui assurent le transfert correct de fichiers et de donn+AOk-es entre ordinateurs sur l'Internet. Par exemple, le FTP (File Transfer Protocol) et le HTTP (HyperText Transfer Protocol) sont d+AOk-di+AOk-s aux structures de donn+AOk-es tandis que le TCP/IP (Transmission Control Protocol/Internet Protocol) sp+AOk-cifie le mode de transmission des signaux. De plus, chaque ordinateur reli+AOk- +AOA- l'Internet a sa propre adresse IP (Internet Protocol) qui correspond +AOA- son nom de domaine unique.
+     
+     Internet Service Provider:Fournisseur d'acc+AOg-s +AOA- Internet
+       ISP. A company that provides access for the individual user or group of users into the internet and the World Wide Web.
+      FAI. Soci+AOk-t+AOk- qui permet l'acc+AOg-s +AOA- Internet +AOA- un ou plusieurs utilisateurs.
+     
+     Interpreter:Interpr+AOk-teur
+       A type of program which checks, translates and carries out a written program one statement at a time. Most home micro-computers use a BASIC interpreter when running a BASIC program written by the user.
+       Ce type de programme qui v+AOk-rifie, traduit et ex+AOk-cute un programme +AOk-crit une seule instruction +AOA- la fois. La plupart des micro-ordinateurs utilisent un interpr+AOk-teur BASIC qui ex+AOk-cute les programmes en BASIC +AOk-crits par l'utilisateur.
+     
+     Intranet:Intranet
+      In the same way as the internet provides access to the world wide web database, to electronic mail and to file transfer, so an intranet provides a similar service within a particular organization just for that organization.
+      Tout comme Internet, l'Intranet fournit l'acc+AOg-s au World Wide Web, +AOA- la messagerie +AOk-lectronique et au transfert de fichiers, donc un Intranet fournit un service similaire +AOA- l'Internet pour une organisation particuli+AOg-re.
+     
+     ISDN:RNIS
+      (Integrated Services Digital Network).  A telephone network depending on fibre optics and microwave links to carry computer-controlled digitized messaging signals originating from a variety of sources and equipment. Such signals can transmit voice, video, computer data, electronic mail and fax. 
+      R+AOk-seau Num+AOk-rique +AOA- Int+AOk-gration de Services. R+AOk-seau  t+AOk-l+AOk-phonique constitu+AOk- de fibres optiques et de liaisons hertziennes qui permet de transmettre des signaux num+AOk-riques contr+APQ-l+AOk-s par des ordinateurs. De tels signaux peuvent transmettre de la voix, de la vid+AOk-o, des donn+AOk-es informatiques, des messages +AOk-lectroniques et des fax. En France, il s'agit du r+AOk-seau Num+AOk-ris.
+     
+     Iteration:It+AOk-ration
+      A mathematical process by which one obtains an answer and then uses that answer to obtain a more accurate one. The new answer is then used to obtain an even better one and so on.
+      Proc+AOk-dure math+AOk-matique gr+AOI-ce a laquelle on obtient un r+AOk-sultat qui sera lui m+AOo-me utilis+AOk- afin d'arriver +AOA- un r+AOk-sultat plus pr+AOk-cis. Le nouveau est alors utilis+AOk- pour en trouver un encore meilleur et ainsi de suite.
+     
+     Java:Java
+      A computer programming language that is popular for creating enhancements to world wide web pages such as animated graphics and eye-catching display boxes.
+      Langage de programmation connu pour am+AOk-liorer la cr+AOk-ation de pages Web gr+AOI-ce +AOA- des graphiques anim+AOk-s et  des cadres accrocheurs.
+     
+     Job:T+AOI-che
+       All the activities involved in completing any project on a computer from start to finish. A job usually has many processes and can require several programs.
+       Toutes les activit+AOk-s impliqu+AOk-es dans l'+AOk-laboration d'un projet sur ordinateur du d+AOk-but +AOA- la fin. En g+AOk-n+AOk-ral, une t+AOI-che a plusieurs processus et peut demander plusieurs programmes.
+     
+     Job control language:Langage de gestion des t+AOI-ches
+      A set of commands designed for a particular computer which are used to run a program.
+      Ensemble des instructions con+AOc-ues pour lancer l'ex+AOk-cution d'un programme sur un ordinateur particulier.
+     
+     Joystick:Manette de jeu
+      An input device for a microcomputer. The stick as it moves (usually in one of eight directions ) is able to control the movement of a shape on the screen.
+      P+AOk-riph+AOk-rique  pour micro-ordinateur. La manette, tout en bougeant (g+AOk-n+AOk-ralement dans une des 8 directions) peut contr+APQ-ler le mouvement d'une forme +AOA- l'+AOk-cran.
+     
+     JPEG:JPEG
+      This is one standard for data compression of still pictures which, unlike GIF, is a lossy compression as some of the original data cannot be recovered.
+     Une des normes pour la compression de donn+AOk-es d'images fixes qui, au contraire de GIF, implique une perte d'informations irr+AOk-cup+AOk-rables par rapport +AOA- l'original.
+     
+     Justification:Justification
+      The adjustment of the positions of words so that the left-hand or right-hand margins or both are regular. This is easily done on text by a word processor before it is printed.
+      Ajustement de la  position des mots de fa+AOc-on +AOA- ce que les marges de gauche et de droite ou les deux soient r+AOk-guli+AOg-res. Ceci est r+AOk-alis+AOk- facilement sur des textes par un logiciel de traitement de texte.
+     
+     Keyboard:Clavier
+      A device for coding characters directly into a computer. In addition to the standard typewriter (QWERTY) pattern there are numeric keys, user definable keys and keys to help you move around documents.
+      P+AOk-riph+AOk-rique qui permet de coder des caract+AOg-res et de les envoyer +AOA- l'ordinateur. Par rapport +AOA- un clavier de machine +AOA- +AOk-crire standard (de type AZERTY), un clavier d'ordinateur poss+AOg-de des touches num+AOk-riques, des touches que l'utilisateur peut personnaliser et des touches pour circuler dans les documents.
+     
+     Language:Langage
+       A system for instructing a computer. In order to tell a computer what to do, we have to use a language it understands. In addition the language we use must be precise with no chance of a double meaning. Such languages have been developed over the years from machine code and mnemonics to high-level languages.
+       Syst+AOg-me qui permet de commander un ordinateur. Pour dire +AOA- un ordinateur ce qu'il doit faire, il faut utiliser un langage qu'il comprend. De plus le langage se doit d'+AOo-tre pr+AOk-cis de fa+AOc-on +AOA- ce qu'il n'y ait pas d'ambigu+AO8-t+AOk-s. De tels langages furent d+AOk-velopp+AOk-s depuis le code machine jusqu'aux langages de haut niveau (langages +AOk-volu+AOk-s).
+     
+     LCD:Ecran +AOA- cristaux liquides
+      (Liquid Crystal Display). A liquid whose molecules can be made to line up thus making it look darker when an electrical voltage is applied.
+      Liquide dont les mol+AOk-cules align+AOk-es peuvent devenir plus sombres quand un courant +AOk-lectrique les parcourt.
+     
+     Light Emitting Diode :Diode Electro-Luminescente
+      LED. A small electronical coloured device emitting light like a bulb.
+      Petit composant +AOk-lectronique color+AOk- +AOk-mettant de la lumi+AOg-re comme une ampoule.
+     
+     Light pen:Crayon optique
+      A device used with a graphical display unit, that allows the operator to draw, change and move sections of the picture simply by moving it across the screen.
+      P+AOk-riph+AOk-rique d'entr+AOk-e qui est utilis+AOk- avec une unit+AOk- d'affichage graphique, qui permet +AOA- l'utilisateur de dessiner, de modifier et de d+AOk-placer des sections d'une image simplement en faisant glisser le crayon optique sur l'+AOk-cran.
+     
+     Line feed:Saut de ligne
+       A movement caused by an instruction in a program or a button on a printer, whereby the screen display or the paper in the printer moves to the next line. In the first case the display moves up a line+ADs- in the other the paper moves.
+        Caract+AOg-re de contr+APQ-le, instruction dans un programme ou bouton d'imprimante qui indique +AOA- un ordinateur ou +AOA- une imprimante de se d+AOk-placer d'une ligne. Dans le premier cas l'affichage monte d'une ligne +ADs- dans l'autre c'est le papier qui se d+AOk-place.
+     
+     Line number:Num+AOk-ro de ligne
+       A number that tells the computer that what follows is part of a program. It is used in BASIC to show the order in which instructions are to be carried out, although some instructions may branch to self-contained functions or procedures located elsewhere in the program.
+       Nombre qui indique +AOA- l'ordinateur que ce qui suit fait partie d'un programme. Ceci est utilis+AOk- en BASIC pour montrer dans quel ordre les instructions doivent +AOo-tre effectu+AOk-es, bien que quelques instructions puissent se brancher sur  des fonctions ou des proc+AOk-dures autonomes situ+AOk-es ailleurs dans le programme.
+     
+     List server:Serveur de liste
+      A computer that automatically handles electronic mail by providing one address for a group of people.
+      Ordinateur qui manipule automatiquement des courriers +AOk-lectroniques en fournissant une seule adresse pour un groupe de personnes.
+     
+     Listing:Listing
+      The setting out, on screen or paper, of the program statements in number order. To follow the program statements in execution order one would use a trace facility.
+      Sortie, sur +AOk-cran ou papier, des instructions num+AOk-rot+AOk-es d'un programme. Pour suivre les instructions dans l'ordre, il est n+AOk-cessaire d'ex+AOk-cuter ce programme pas +AOA- pas.
+     
+     Load:Charger
+       The reading of program statements or data from the backing store into the appropriate parts of the computer memory .
+       Lecture d'instructions ou de donn+AOk-es +AOA- partir de la m+AOk-moire auxiliaire vers les parties appropri+AOk-es de la m+AOk-moire principale de l'ordinateur.
+     
+     Local Area Network:R+AOk-seau local
+       LAN. A cable system connecting together several microcomputers for the fast exchange of data and sharing of peripherals like printers and modems.
+      Syst+AOg-me de c+AOI-bles connectant plusieurs ordinateurs ensemble qui permet l'+AOk-change rapide de donn+AOk-es et  le partage de p+AOk-riph+AOk-riques tels que les imprimantes et les modems.
+     
+     Location:Emplacement m+AOk-moire
+       The places in a computer that are able to store data. Each location is identified and accessed by its address and the number of characters that can be stored in a location depends upon the particular machine .
+       Zones d'un ordinateur capables de stocker des donn+AOk-es. Chaque emplacement m+AOk-moire est identifi+AOk- et accessible gr+AOI-ce +AOA- son adresse et le nombre de caract+AOg-res qui peuvent y +AOo-tre stock+AOk-s d+AOk-pend de chaque machine.       
+     
+     Log in/on/off/out:Connexion / D+AOk-connexion
+      The terms used when entering or leaving a network from a particular computer or a large computer system from a terminal. In this way, the number of users can be limited and the type of use restricted.
+     in/on   :to connect
+     off/out :to disconnect
+      Termes utilis+AOk-s quand on entre ou quand on quitte un r+AOk-seau, un ordinateur particulier ou bien quand on quitte un grand syst+AOg-me informatique +AOA- partir d'un terminal. De cette fa+AOc-on, le nombre d'utilisateurs peut +AOo-tre limit+AOk- et l'utilisation restreinte.
+     
+     Logic circuit:Circuit logique
+        The basic building blocks of digital electronics and referred to as a gate. AND, OR, NAND and NOR are all examples of logic circuits and it is these that make up the circuits on a silicon chip.
+       El+AOk-ments de base de l'+AOk-lectronique digitale connus sous le nom de portes. ET, OU, NON-ET, NI sont des exemples de circuits logiques qui constituent les circuits pr+AOk-sents sur une puce au silicium.
+
+     
+     LOGO:LOGO
+      A powerful high-level language designed in 1969 by Seymour Papert. Developed to allow the exploration of ideas by both young and old, it offers experience in how to use a computer. Its strengths include turtle graphics (building shapes and patterns by moving a screen marker).
+      Puissant langage de haut niveau cr+AOkA6Q- en 1969 par Seymour Papert. D+AOk-velopp+AOk- pour permettre d'explorer des concepts +AOA- la fois par des personnes jeunes et +AOI-g+AOk-es, et d'apprendre +AOA- utiliser un ordinateur. Parmi ses atouts, l'utilisation de dessins de tortue qui donne la possibilit+AOk- de construire des figures et des sch+AOk-mas en manipulant un rep+AOg-re graphique +AOA- l'+AOk-cran.
+     
+     Loop:Boucle
+       A set of instructions that are repeated from the beginning just as a loop of thread comes back to where it started. One difference is that the program continues to  loop back UNTIL a certain condition is satisfied.
+      Suite d'instructions r+AOk-p+AOk-t+AOk-es tant qu'une condition n'est pas remplie.
+     
+     Low Resolution Graphics:Graphiques de basse r+AOk-solution
+      Poor definition of characters and curves where the eye can detect the limitation of a cathode ray tube screen and diagonal lines are clearly made up of steps.
+      Affichage basse d+AOk-finition. Mauvaise d+AOk-finition des caract+AOg-res et des courbes o+APk- l'on peut r+AOk-aliser les limites d'un +AOk-cran cathodique, et o+APk- les diagonales sont en escalier.
+     
+     Low-level language:Langage de bas niveau
+      A computer language which is similar to, and therefore easily converted into machine code.
+      Langage machine qui est similaire +AOA-, et donc facilement converti en code machine.
+     
+     Machine code:Code Machine
+      The coding that makes the computer carry out its various tasks. The types of instruction and the way they have to be written are specified by the computer manufacturer.
+      Le codage qui permet a l'ordinateur d'effectuer des t+AOI-ches vari+AOk-es. Le type des instructions et la mani+AOg-re dont elles doivent +AOo-tre +AOk-crites sont d+AOk-finis par le fabriquant de l'ordinateur.
+     
+     Magnetic disk:Disque magn+AOk-tique
+      It is a device which may be hard (rigid) or floppy (flexible) and store characters on concentric tracks.
+      Support qui peut +AOo-tre dur (disque dur) ou souple (disquette), il m+AOk-morise des donn+AOk-es sur des pistes concentriques.
+     
+     Magnetic Memory:M+AOk-moire magn+AOk-tique
+       The storage of data using magnetic material. Just as a bar of iron can be magnetized from left to right or from right to left, so other magnetic materials can be magnetized in two ways. One way can be used to represent a 0 and the other way a 1 and magnetic material is thus able to store characters in binary notation.
+       Donn+AOk-es stock+AOk-es sur un support magn+AOk-tique. De la m+AOo-me fa+AOc-on qu'une barre de fer peut +AOo-tre magn+AOk-tis+AOk-e de gauche +AOA- droite ou de droite +AOA- gauche, d'autres mat+AOk-riaux magn+AOk-tiques peuvent +AOo-tre magn+AOk-tis+AOk-s de deux fa+AOc-ons. La premi+AOg-re repr+AOk-sentera un 0 et l'autre un 1. Ces mat+AOk-riaux  magn+AOk-tiques peuvent ainsi stocker des caract+AOg-res en  notation binaire.
+     
+     Mail Merge:Fusion de fichiers / Publipostage
+      The bringing together of two or more files of two files produce a third. Within a word processor, this may be used to personalize letters by merging names, addresses and other relevant information with a standard letter.
+      Fusion de deux fichiers afin d'en produire un troisi+AOg-me. Dans un traitement de texte, on utilise ce proc+AOk-d+AOk- pour personnaliser des lettres en fusionnant des noms, des adresses et une lettre standard.
+     
+     Mailbox:Bo+AO4-te aux lettres
+      A system that keeps in its memory the electronic messages received via e-mail (electronic mail), like the post-box that receives one's post.
+      Syst+AOg-me qui garde dans sa m+AOk-moire les messages +AOk-lectroniques re+AOc-us via le m+AOk-l (message +AOk-lectronique), tout comme une bo+AO4-te aux lettres garde une lettre.
+     
+     Main store:M+AOk-moire principale
+      The memory of the computer that can be accessed immediately.
+      M+AOk-moire de l'ordinateur +AOA- laquelle on peut acc+AOk-der imm+AOk-diatement.
+     
+     Mainframe:Ordinateur Central
+       The central processing unit (CPU) of a large computer which has many terminals. Originally the words referred to the framework used to hold the CPU and the arithmetic logic unit (ALU).
+       Unit+AOk- centrale (UC) d'un gros ordinateur qui poss+AOg-de de nombreux terminaux. A l'origine, ces mots se r+AOk-f+AOk-raient +AOA- la structure utilis+AOk-e pour contenir l'unit+AOk- centrale et l'unit+AOk- arithm+AOk-tique et logique (ALU) d'un gros ordinateur.
+     
+     Maths co-processor:Coprocesseur math+AOk-matique
+        A chip designed to work alongside the central processing unit and to handle efficiently all number-crunching while the CPU looks after everything else.
+       Puce pr+AOk-vue pour fonctionner en plus du processeur central et pour traiter efficacement tous les calculs ultra-rapides, tandis que le processeur central s'occupe du reste.
+     
+     Media:M+AOk-dia
+      All materials used to hold data. Computing examples would include magnetic disk, optical disk and continuous stationery.
+      Tous les supports utilis+AOk-s pour conserver des donn+AOk-es, par exemple des disques magn+AOk-tiques, des disques optiques et du papier listing perfor+AOk-. 
+     
+     Memory:M+AOk-moire
+       A store for data or program instructions made up of the conventional or main store and its backing store. Sizes are measured in bytes and are given as so many megabytes or gigabytes, for example, a 256 RAM microcomputer with 30 gigabytes of hard disk store.
+       Endroit pour stocker les donn+AOk-es ou les instructions d'un programme comprenant la m+AOk-moire conventionnelle (ou principale) et la m+AOk-moire auxiliaire. La capacit+AOk- se mesure en octets, elle est de l'ordre du m+AOk-gaoctet ou du gigaoctet, par exemple, un ordinateur ayant 256 m+AOk-gaoctets de RAM et 30 gigaoctets de capacit+AOk- de disque dur.
+     
+     Memory mapping:Configuration de la m+AOk-moire
+      The arranging of arrays. Items of data are often more easily accessed if they are stored in an array.
+      Structure de rangement des donn+AOk-es en tableau qui permet un acc+AOg-s plus facile.
+     
+     Menu:Menu
+      A screen list that is presented to the user with the alternatives labelled, for example, A, B, C, D. The user can select by pressing one key, or, if appropriate, click on the required item with a mouse pointer.
+      Liste +AOA- l'+AOk-cran qui est pr+AOk-sent+AOk-e avec des alternatives sous forme d'+AOk-tiquettes, par exemple A, B, C, D. L'utilisateur peut s+AOk-lectionner, en appuyant sur une touche ou, si le cas s'y pr+AOo-te, cliquer sur l'objet requis gr+AOI-ce au pointeur de la souris.
+     
+     Merge:Fusionner
+      The bringing together of two or more files to make one.
+      La fusion de deux ou plusieurs fichiers en un seul.
+     
+     MICR:MICR
+        An acronym which means Magnetic Ink Character Recognition. It is a machine which is able to convert into numerical data a print text which is coded or not, thanks to a special ink with metallic pigment.
+       Acronyme qui signifie litt+AOk-ralement reconnaissance de caract+AOg-res imprim+AOk-s en encre magn+AOk-tique. C'est un type d'appareillage capable de convertir en donn+AOk-es num+AOk-riques un texte imprim+AOk-, sous forme cod+AOk-e ou non, +AOA- l'aide d'une encre sp+AOk-ciale +AOA- base de pigments m+AOk-talliques.
+     
+     Microcomputer:Micro-ordinateur
+      A computer which uses a microprocessor chip (Intel, AMD).
+      Ordinateur qui utilise un microprocesseur  (Intel,  AMD).
+     
+     Microfiche:Microfiche
+       A photographic-like slide (or film in the case of  microfilm) which is viewed using a special type of high magnification projector. Pages of print, diagrams and graphs are considerably reduced in size and stored in this way.
+       Diapositive de type photographique (ou bande dans le cas du microfilm) qui est visionn+AOk-e en utilisant un type sp+AOk-cial de projecteur +AOA- fort grossissement. Les pages de texte, les diagrammes et les graphiques sont consid+AOk-rablement r+AOk-duits en taille et stock+AOk-s de cette fa+AOc-on.
+     
+     Micro-processor:Micro-processeur
+       A special LSI (Large Scale Integration) chip that is used as the central processing unit of a computer. It is able to receive and store data, perform arithmetical and logic operations according to its stored program and give out the results
+       Une puce sp+AOk-ciale (d'int+AOk-gration +AOA- grande +AOk-chelle)), qui est utilis+AOk-e comme unit+AOk- centrale d'un ordinateur. Elle est capable de recevoir et de stocker en m+AOk-moire des donn+AOk-es, d'effectuer des op+AOk-rations arithm+AOk-tiques et logiques selon les propres programmes qu'elle poss+AOg-de en m+AOk-moire et peut pr+AOk-senter les r+AOk-sultats des op+AOk-rations effectu+AOk-es.
+     
+     MIME:Codage MIME
+       +AFs-MultI Purpose Mail Extension+AF0-. A protocol for coding data so that it can be sent as electronic mail without being corrupted. Any data sent in this way has to be decoded on receipt.
+      Protocole  qui permet de coder des donn+AOk-es afin qu'elles soient envoy+AOk-es sous forme de courrier +AOk-lectronique sans risque de d+AOk-t+AOk-rioration. Toute donn+AOk-e envoy+AOk-e sous cette forme devra +AOo-tre d+AOk-cod+AOk-e lors de la r+AOk-ception.
+     
+     Minicomputer:Mini-ordinateur
+      A small-sized machine that, in comparison to a main frame computer, has limited memory and few peripheral devices. Being between the fixed-position main frame and the portable microcomputer its size is similar to a small wardrobe and is generally used to do one specific job.
+      Petite machine qui en comparaison avec un ordinateur a une m+AOk-moire limit+AOk-e et peu de p+AOk-riph+AOk-riques. Il est g+AOk-n+AOk-ralement utilis+AOk- pour faire un travail sp+AOk-cifique et il a une taille similaire +AOA- celle d'une armoire.
+     
+     Mnemonics:Mn+AOk-monique
+      Meaningful abbreviations for program instructions designed to aid one's memory. Programming in machine code could involve eight or nine binary digits for each instruction whereas a few letters may be required when using the mnemonic code of symbolic language.
+      Abr+AOk-viations significatives utilis+AOk-es pour des instructions de programme et con+AOc-ues pour faciliter leur m+AOk-morisation. La programmation en code machine pourrait impliquer huit ou neuf  chiffres binaires pour chaque instruction tandis que seulement quelques lettres sont n+AOk-cessaires lorsqu'on utilise le code mn+AOk-monique d'un langage symbolique. 
+     
+     Modem:Modem
+      A device which enables data to be sent long distances over the telephone lines.This is called modulation and the word modem is an acronym for the two words MOdulator/DEModulator.
+      Appareil qui permet d'envoyer des donn+AOk-es sur de longues distances par le biais de lignes t+AOk-l+AOk-phoniques. Ce processus est appel+AOk- modulation et le mot modem est un acronyme des deux mots MOduler et DEModuler.
+     
+     Module:Module
+       A part of a program or applications package that is complete in itself though it may call upon data from other modules. In producing a complete program, several modules are joined together.
+       Partie d'un programme ou ensemble d'applications qui sont compl+AOg-tes en elles-m+AOo-mes bien qu'elles puissent faire appel aux donn+AOk-es d'autres modules. Dans la production d'un programme complet, plusieurs modules sont joints les uns aux autres. 
+     
+     Monitor:Moniteur
+      A display unit that accepts the computer's video signal.
+      Ecran qui accepte et donc g+AOg-re le signal vid+AOk-o de l'ordinateur.
+     
+     Motherboard:Carte m+AOg-re
+       The printed circuit board that holds and supports any other boards that there may be in a microcomputer.
+       Circuit imprim+AOk- principal qui re+AOc-oit les autres cartes qu'il peut y avoir dans un micro-ordinateur. 
+     
+     Mouse:Souris
+      A desktop device which has a ball underneath. When moved about, it relays speed and direction and so guides a pointer across the screen.
+      Dispositif de bureau muni d'une boule dans sa partie inf+AOk-rieure. Quand elle est d+AOk-plac+AOk-e, elle transmet des indications de vitesse et de direction, et donc guide un pointeur graphique (pointe de fl+AOg-che) sur l'+AOk-cran.
+     
+     MP3:MP3
+      A format for the storing of digitised music which compresses data by a factor of about 10. This means that music files can be downloaded from the Internet far more quickly and can be transmitted faster to portable players and stored on smaller memory devices.
+     Norme pour le stockage de musique digitalis+AOk-e dont le  taux de compression  avoisine 10. Ce qui signifie que les fichiers de musique peuvent +AOo-tre t+AOk-l+AOk-charg+AOk-s +AOA- partir de l'Internet beaucoup plus vite et peuvent +AOo-tre transmis plus rapidement +AOA- des lecteurs portables et stock+AOk-s sur des appareils disposant de peu de m+AOk-moire.
+     
+     MPEG:MPEG
+      A standard for moving picture compression. Currently being used for video compression for CD-ROM and DVD storage.
+     Norme de compression pour les films. On l'utilise, en g+AOk-n+AOk-ral, pour la compression de vid+AOk-os stock+AOk-es sur c+AOk-d+AOk-roms ou DVD.
+     
+     MS-DOS:MS-DOS
+       A popular disk operating system (DOS) produced by Microsoft Corporation 
+       Microsoft Disk Operating System : un syst+AOg-me d'exploitation tr+AOg-s r+AOk-pandu, produit par Microsoft.
+     
+     Multi-access processing system:Syst+AOg-me +AOA- plusieurs utilisateurs
+      A central computer with a specialized operating system. Many users on dumb terminals can be linked to the central computer.
+      Ordinateur central dot+AOk- d'un syst+AOg-me d'exploitation sp+AOk-cifique. Plusieurs utilisateurs travaillant sur de simples terminaux, qui ne poss+AOg-dent pas d'unit+AOk- de traitement, peuvent +AOo-tre reli+AOk-s +AOA- l'ordinateur central.
+     
+     Multimedia:Multim+AOk-dia
+      Computers that have the necessary components to support the interactive use of text, video, audio, graphics, and photographs from such different sources as CD or the World Wide Web.
+      Ordinateur ayant les composants n+AOk-cessaires pour permettre l'utilisation interactive de textes, sons, images, photographies et vid+AOk-os provenant de diff+AOk-rentes sources telles que des C+AOk-d+AOk-roms ou  la Toile.
+     
+     Multiplexor:Multiplexeur
+      A device which controls the transmission of data between a central computer and its many users on dumb terminals.
+      Machine qui contr+APQ-le les transmissions de donn+AOk-es entre un ordinateur central et ses diff+AOk-rents utilisateurs, travaillant sur des terminaux.
+     
+     NAND gate:Porte NON-ET
+       A logic gate, the same as NOT  AND (see NOT gate and AND gate), whose truth table with two inputs would be:
+               Input     Output
+                0  0	   1	
+                0  1	   1 	
+                1  0	   1	
+                1  1	   0	
+     It is worth noting that by joining the two inputs together on a NAND gate, it becomes a NOT gate or an inverter :
+               Input     Output
+                  0	    1	
+                  1	    0 
+       Porte logique, identique +AOA-  la porte NON  ET (voir ces deux  portes), dont la table de v+AOk-rit+AOk- +AOA- deux entr+AOk-es serait :
+              Input     Output
+                0  0	   1	
+                0  1	   1 	
+                1  0	   1	
+                1  1	   0	
+     Remarquons qu'en r+AOk-unissant les deux entr+AOk-es sur une porte NON-ET, elle se transforme en porte NON ou en inverseur :   
+              Input     Output
+                  0	    1	
+                  1	    0 
+     
+     Netiquette:N+AOk-tiquette
+      A set of customs and informal rules of appropriate behaviour, together with keyboard symbols that express moods, which define the proper use of the internet.
+      Ensemble de r+AOg-gles informelles qui r+AOk-gissent le comportement id+AOk-al +AOA- avoir sur Internet. Les +AOk-moticons (symboles qui expriment vos +AOk-tats d'+AOI-me) font partie de la n+AOk-tiquette.      :-)
+     
+     Network:R+AOk-seau
+      A system that allows data (which may be computer programs) to be sent over long distances between a set of computers.
+      Syst+AOg-me qui permet d'envoyer des donn+AOk-es ou des programmes d'un ordinateur +AOA- un autre ordinateur, ces derniers peuvent +AOo-tre s+AOk-par+AOk-s par de grandes distances.
+     
+     Neural network:R+AOk-seau neuronal
+      A modern computer technology which is designed to resemble the nervous system of the brain. Just as the neuron cells conduct messages to and from the brain and learn by experience, so the web-like structure of a neural network needs no programming and is suitable for computing tasks where logical rules are difficult to find (e.g. recognizing handwritten characters). Its strength lies in the number of interconnections rather than the processor speed.
+      Nouvelle technologie en informatique qui est faite pour imiter le syst+AOg-me nerveux du cerveau humain. Tout comme les neurones acheminent des messages vers le cerveau ou les renvoient du cerveau, et apprennent par exp+AOk-rience, la structure d'un r+AOk-seau neuronal ne n+AOk-cessite pas de programmation et convient aux t+AOI-ches o+APk- des r+AOg-gles logiques sont difficiles +AOA- trouver (par exemple en reconnaissance de caract+AOg-res +AOk-crits +AOA- la main). Son atout r+AOk-side dans le nombre des interconnexions plut+APQ-t que dans la vitesse du processeur.
+     
+     Noise:Parasite
+      Unwanted signals that are often the cause of errors in data that have been transmitted via a telephone wire.
+      Signaux ind+AOk-sirables qui g+AOo-nent la transmission de donn+AOk-es +ADs- de tels signaux sont souvent sources d'erreurs dans les donn+AOk-es transmises par t+AOk-l+AOk-phone.
+     
+     Non-equivalence gate:Porte non +AOk-quivalente
+       (NEQ or X-OR) A logic gate which operates with binary digits and is also known as the Exclusive-OR gate.
+       Porte logique qui fonctionne avec des chiffres binaires et qui est +AOk-galement connue sous le nom de porte OU Exclusif.
+     
+     NOR gate:Porte NI 
+       A logic gate ,the same as NOT  OR (see NOT gate and OR gate) which operates with binary digits. Its output is of logic value 1 only when all its inputs have a logic value 0+ADs- otherwise it is 0.
+       Porte logique, qui +AOk-quivaut +AOA- NON  OU (voir la porte NON et la porte OU) et qui fonctionne avec les chiffres binaires. La sortie de la porte logique est 1 si toutes les entr+AOk-es ont pour valeur 0 +ADs- autrement elle est de 0.
+     
+     NOT gate:Porte NON
+       A logic gate sometimes known as an 'inverter'. The output is always the opposite of the input. When combined with a AND or an OR gate it inverts the output to give a NAND or a NOR gate respectively.
+                               Input          Output
+                                  0                  1
+                                  1                  0
+       Porte logique connue +AOk-galement sous le nom d'inverseur. L'information +AOA- la sortie est toujours l'inverse de celle +AOA- l'entr+AOk-e. Lorsqu'elle est combin+AOk-e avec une porte ET ou OU, cela inverse les sorties et on obtient respectivement des portes NON-ET ou NON-OU.
+     
+     Numeric:Num+AOk-rique
+      Relating to numbers. In denary notation this would mean the digits 0 to 9. A numeric keyboard would have ten keys, one for each number.
+      En rapport avec les nombres. En notation d+AOk-cimale, il s'agit des chiffres de 0 +AOA- 9. Un clavier num+AOk-rique +AOA- dix touches, une pour chaque chiffre.
+     
+     Object code:Code objet
+      A machine code which the computer understands and which contains data as well as instructions. It is a binary version of a high-level language source program and produced by a compiler.
+      Code machine que l'ordinateur comprend et qui contient des donn+AOk-es aussi bien que des instructions. Il s'agit d'une version binaire d'un programme source de haut niveau, qui est g+AOk-n+AOk-r+AOk- par un compilateur.
+     
+     Octal notation:Notation octale
+      A system in which one counts in +ACI-eights+ACI- instead of +ACI-tens+ACI- using the digits 0 to 7. 
+      Syst+AOg-me en base 8 au lieu de la base 10 dans lequel on utilise les nombres de 0 +AOA- 7.
+     
+     On/Off line:Connect+AOk- / d+AOk-connect+AOk-
+      Connected or not connected to the computer. Often terminals off line are used for data preparation, although if they have their own processor they can operate as an independent computer.
+      Connect+AOk- ou non connect+AOk- +AOA- l'ordinateur. Souvent les terminaux hors-ligne sont employ+AOk-s pour la pr+AOk-paration de donn+AOk-es, bien qu'ils aient leur propre processeur qu'ils peuvent faire fonctionner comme un ordinateur ind+AOk-pendant.
+     
+     Open systems interconnect:Interconnexion ouverte de syst+AOg-mes
+       An ISO standard for networks. It has seven layers, each one responsible for a specific communications operation or hardware specification.
+       Norme ISO pour les r+AOk-seaux.  Elle est compos+AOk-e de sept couches, chacune responsable d'une ex+AOk-cution sp+AOk-cifique de transmission ou d'une sp+AOk-cification de mat+AOk-riel.
+     
+     Operand:Op+AOk-rande
+       The second part of a machine code instruction. In the first part the programmer puts in an operator, using operation code, that controls the process to be done (this might be to print, or to load the accumulator). The operand controls which memory locations are used and, for example, to which port or device the data is to be sent.
+       Seconde partie de l'instruction du code machine. Dans un premier temps le programmeur met un op+AOk-rateur, se servant du code d'op+AOk-ration, qui contr+APQ-le le processus +AOA- accomplir (ce peut +AOo-tre pour imprimer, ou pour charger un accumulateur). L'op+AOk-rande contr+APQ-le quels emplacements de m+AOk-moire sont utilis+AOk-s et, par exemple, vers quel port ou p+AOk-riph+AOk-rique les donn+AOk-es doivent +AOo-tres envoy+AOk-es. 
+     
+     Operating system:Syst+AOg-me d'exploitation
+       The program which supervises and controls an entire computer system including all its peripherals. It provides the link between the hardware and the applications package being run.
+       Programme qui supervise et contr+APQ-le tout le syst+AOg-me de l'ordinateur, y compris ses p+AOk-riph+AOk-riques. Il fournit le lien entre les +AOk-l+AOk-ments mat+AOk-riels et les applications qui sont lanc+AOk-es.
+     
+     Operation code:Code d'op+AOk-ration
+        The code used in part of a machine code instruction which says what has to be done.  Although the operation code is in numeric form it would mean such things as 'print, add', 'subtract'.
+       Code faisant partie des instructions du  code machine et qui indique ce qui doit +AOo-tre fait. Bien que sous une forme num+AOk-rique, il peut signifier des ordres tels que +ACI-imprimer+ACI-, +ACI-ajouter+ACI-, +ACI-soustraire+ACI-.
+     
+     Optical Character Recognition:Reconnaissance optique de caract+AOg-res
+       OCR. A system which is able to recognize normal characters like A, B, 6, ? and provide the corresponding input to a computer.
+      Syst+AOg-me capable de reconna+AO4-tre les caract+AOg-res tels que A, B, 6, ? et de fournir l'entr+AOk-e correspondante +AOA- l'ordinateur.
+     
+     Optical disc:Disque optique
+      A disc that holds data digitally and can be used to store computer data (also available as good quality television sound and picture playback system, like a video tape - hence sometimes called a video disc).
+      Disque qui emmagasine des donn+AOk-es num+AOk-riques et peut +AOo-tre utilis+AOk- comme m+AOk-moire d'ordinateur (aussi utilis+AOk- pour un son et des images de qualit+AOk- comme une bande vid+AOk-o - parfois appel+AOk-, par cons+AOk-quent, disque vid+AOk-o).
+     
+     Optical mark reader:Lecteur optique de marques
+       A means of detecting the presence or absence of a pencil mark in certain places on sheets of paper or computer cards. It is sometimes guided as to the positions to be read  by clock marks (thick black lines) printed down one edge. Examinations Boards often use an optical mark reader to record candidates' answers to multiple-choice type questions.
+       Un moyen de d+AOk-tecter la pr+AOk-sence ou l'absence  d'une marque de crayon +AOA- certains endroits de feuilles de papier ou de cartes d'ordinateurs. Il est parfois guid+AOk- en ce qui concerne les positions +AOA- lire par des marques (lignes noires +AOk-paisses) imprim+AOk-es en bordure. Les comit+AOk-s d'examinateurs utilisent souvent un lecteur optique de marques pour enregistrer les r+AOk-ponses des candidats aux questions +AOA- choix multiples.
+     
+     OR gate:Porte OU
+       A logic gate which operates with binary digits. Its output is of logic value 1 when any of its inputs have logic value 1. This is the inclusive-OR Gate as opposed to the exclusive-OR or non-equivalence gate which gives 0 if both the inputs have logic value 1.
+                            Input          Output
+                             0  0               0
+                             0  1               1
+                             1  0               1
+                             1  1               1
+     
+     
+       Porte logique qui fonctionne avec des chiffres binaires. Sa sortie prend pour valeur 1 lorsque n'importe laquelle de ses entr+AOk-es a pour valeur logique 1. C'est la porte OU inclusif, +AOA- l'inverse de la porte OU exclusif ou de la porte non +AOk-quivalente qui donne 0 si les deux valeurs logiques d'entr+AOk-e sont 1.
+     
+     Output device:P+AOk-riph+AOk-rique de sortie
+      The units of hardware which display the results produced by the computer.
+      P+AOk-riph+AOk-rique qui permet a l'utilisateur de visualiser les r+AOk-sultats produits par l'ordinateur (par exemple l'+AOk-cran, l'imprimante).
+     
+     Overflow:D+AOk-passement de capacit+AOk-
+      A numerical answer which is too big for the computer to store in the space allowed.
+      R+AOk-ponse num+AOk-rique trop grande pour l'espace qui lui a +AOk-t+AOk- r+AOk-serv+AOk- dans la m+AOk-moire de l'ordinateur qui ne peut donc la stocker.
+     
+     Overlay:Segment de recouvrement
+      A section of a program kept on disk until required. This is a useful way of overcoming the problem of not having enough main store in a computer. The program, which is too long, is loaded and run in sections, more of the program being called into memory as and when required. Each new section overlays and rubs out a previous section.
+      Partie de programme mise sur le disque jusqu'+AOA- ce qu'on en ait besoin. C'est un bon moyen pour +AOk-liminer le probl+AOg-me de manque de place sur un ordinateur. Le programme, qui est trop long, est charg+AOk- et ex+AOk-cut+AOk- par morceaux, le reste du programme est appel+AOk- en m+AOk-moire  quand on en a besoin. Chaque nouvelle section remplace la section pr+AOk-c+AOk-dente.
+     
+     Overwrite:Ecraser
+      To replace data held in memory with new data.
+      Remplacer des donn+AOk-es stock+AOk-es dans la m+AOk-moire par de nouvelles donn+AOk-es.
+     
+     Packing density:Densit+AOk- de remplissage
+      A measure of the amount of data that can be held by a backing store usually stated as so many bytes or so many bits per unit length, track or disk sector. For example, 800 bits per inch or half-inch magnetic tape, or 500 bits per sector.
+      Mesure de la quantit+AOk- de donn+AOk-es qui peut +AOo-tre contenue dans une m+AOk-moire auxiliaire habituellement formul+AOk-e en octets ou bits par unit+AOk-s de longueur, pistes ou secteurs disque. Par exemple, 800 octets par cassette magn+AOk-tique ou par moiti+AOk- de cassette magn+AOk-tique, ou 500 octets par secteur.
+     
+     Page:Page
+       A full screen of data as displayed by a monitor, though sometimes, as with the Web, each full screen is called a frame and a page consists of several frames.
+       Ecran rempli de donn+AOk-es affich+AOk-es par le moniteur, bien que parfois  utilis+AOk- sur le Web, chaque +AOk-cran est appel+AOk- cadre, une page +AOk-tant constitu+AOk-e de plusieurs cadres.
+     
+     Parallel interface:Interface parall+AOg-le
+      The circuit that provides a popular socket for connecting external devices to a microcomputer , for both input and output of data. For example, an eight-bit computer might have a parallel socket with eight wires or paths along which eight bits of data can be sent all at once (parallel transmission).
+      Circuit qui fournit une prise pour connecter des p+AOk-riph+AOk-riques (d'entr+AOk-e et de sortie) +AOA- un micro-ordinateur. Par exemple, un ordinateur +AOA- 8 bits peut +AOo-tre dot+AOk- d'une prise parall+AOg-le +AOA- 8 fils o+APk- 8 bits de donn+AOk-es pourront +AOo-tre envoy+AOk-s en m+AOo-me temps (transmission parall+AOg-le).
+     
+     Parallel transmission:Transmission parall+AOg-le
+      A system of transferring data, that requires at least as many wires or paths as there are bits to be transmitted at the same time, and this is what happens within and between the integrated circuits in a computer.
+      Syst+AOg-me de transfert de donn+AOk-es, qui requiert au moins autant de fils qu'il y a de bits transmis au m+AOo-me moment, c'est ce qui se passe pour les circuits int+AOk-gr+AOk-s d'un ordinateur.
+     
+     Parameter:Param+AOg-tre
+       A value which has a particular meaning. Often in the course of carrying out a program (or a procedure) the computer does different tasks depending on the value of something or on the particular key that was last pressed.
+       Valeur qui a une signification donn+AOk-e. Souvent au cours de la r+AOk-alisation d'un programme (ou d'une proc+AOk-dure) l'ordinateur ex+AOk-cute des t+AOI-ches diff+AOk-rentes selon la valeur de quelque chose ou selon la derni+AOg-re touche qui a +AOk-t+AOk- appuy+AOk-e.
+     
+     PASCAL:PASCAL
+      A high-level programming language developed in the early 1970s as a teaching language. Today it is used for general purpose programming.
+      Langage de programmation de haut niveau d+AOk-velopp+AOk- au d+AOk-but des ann+AOk-es 1970 comme langage d'enseignement. Aujourd'hui il est utilis+AOk- comme langage de programmation g+AOk-n+AOk-rale.
+     
+     Password:Mot de passe
+      A group of characters required to be given correctly when demanded by a computer before it will allow access by the user.
+      Groupe de caract+AOg-res devant +AOo-tre donn+AOk- correctement lorsqu'il est demand+AOk- par un ordinateur qui permettra alors son acc+AOg-s +AOA- l'utilisateur.
+     
+     Patch:Correction
+        A small program alteration written to overcome a minor error or unforeseen circumstance and added to the main program.
+       Changement effectu+AOk- par un petit programme dans le programme principal et dont le but est de corriger une erreur, ou de traiter un cas impr+AOk-vu.
+     
+     Pathname:Chemin d'acc+AOg-s
+       The name used to indicate exactly where a file is to be stored or found within a computer storage directory (ex: C:+AFw-WINDOWS).
+       Nom pour indiquer o+APk- se situe exactement un fichier, +AOA- trouver ou +AOA- enregistrer, dans le r+AOk-pertoire d'un ordinateur (ex: C:+AFw-WINDOWS).
+     
+     Peripheral:P+AOk-riph+AOk-riques
+      Any device that is connected to, and controlled by, a computer but external to the central processing unit (CPU), for example, card reader, disk drive, bar code reader, joystick and games paddle.
+      Tout appareil qui est connect+AOk- et contr+APQ-l+AOk- par un ordinateur, mais qui est externe +AOA- l'unit+AOk- centrale de traitement. Par exemple, les lecteurs de cartes, les lecteurs de disquettes, les lecteurs de code +AOA- barres, les manettes de jeu.
+     
+     Personal computer:Ordinateur personnel
+      An alternative name for a microcomputer. 
+      Une autre fa+AOc-on de nommer le micro-ordinateur.
+     
+     Piracy:Piratage
+      The illegal copying of software for use on more than one machine. Most retail computer programs are licensed for use on just one computer or for a set of computers (network license). You are just allowed to make a copy of the program for backup purposes.
+     La copie ill+AOk-gale de logiciels pour une utilisation sur plus d'un ordinateur. La plupart des programmes informatiques comportent une licence pour +AOo-tre utilis+AOk-s sur un seul ordinateur ou une licence pour des ordinateurs en r+AOk-seau.
+     Il est seulement autoris+AOk- de faire une copie de sauvegarde du programme.
+     
+     Pixel:Pixel, +AOk-l+AOk-ment d'image
+      Each of the tiny areas (dots) that make up a computer graphics picture. 
+      Chacune des minuscules aires (points) qui constituent une image. 
+     
+     Plotter:Traceur
+      An instrument for drawing lines on paper, often used to draw the two-dimensional graphic output from a computer.
+      P+AOk-riph+AOk-rique de sortie qui sert +AOA- dessiner des lignes sur un support papier, souvent utilis+AOk- pour dessiner des repr+AOk-sentations graphiques en deux dimensions.
+     
+     Plug ins:Modules externes
+      Software programs that are usually available on the Internet which are added to the web browser to display downloaded data. 
+     Programmes qui sont en r+AOg-gle g+AOk-n+AOk-rale disponibles sur l'Internet et qui sont ajout+AOk-s au navigateur pour afficher les donn+AOk-es t+AOk-l+AOk-charg+AOk-es.
+     
+     Polling:Interrogation
+       Checking the status of different ports or circuits in order, so that time is allocated to each one in turn (only one is actually connected at any one time). Generally the user is not aware of this because it happens several times a second and does not seem to interrupt the work.
+        Contr+APQ-le du statut de diff+AOk-rents ports ou circuits dans l'ordre, de sorte que du temps soit assign+AOk- +AOA- chacun alternativement (un seul est r+AOk-ellement reli+AOk- +AOA- un moment donn+AOk-). D'une fa+AOc-on g+AOk-n+AOk-rale, l'utilisateur ne se rend pas compte de ceci parce que cela se produit plusieurs fois par seconde et ne semble pas interrompre le travail.
+     
+     POP :Point d'acc+AOg-s
+      (Point of presence). The point where the user leaves the telephones system and enters the information service provider's (ISP) network when connecting to the internet.
+       Point Op+AOk-rationnel de Pr+AOk-sence. Point pr+AOk-cis sur un r+AOk-seau o+APk- un utilisateur quitte le syst+AOg-me de t+AOk-l+AOk-phonie classique pour entrer dans le r+AOk-seau du fournisseur d'acc+AOg-s quand il se connecte sur Internet.
+     
+     Port:Port
+      The plug or socket on a computer where peripherals are connected.
+      Fiches ou prises d'un ordinateur o+APk- sont connect+AOk-s les p+AOk-riph+AOk-riques.
+     
+     Portability:Portabilit+AOk-
+       The ability of a software to run on different machines with little modification.
+       Caract+AOk-ristique d'un logiciel +AOA- pouvoir +AOo-tre ex+AOk-cut+AOk- sur diff+AOk-rents syst+AOg-mes d'exploitation ou diff+AOk-rents types de machines avec de l+AOk-g+AOg-res modifications. 
+     
+     Portal site:Portail
+      A web site that offers an opening into a world of information about a specific topic or topics through a series of hyperlinks. In addition, it may offer e-mail, chats, forums, search engines.
+     Un site Web qui offre une porte d'entr+AOk-e sur un monde d'informations concernant un sujet particulier ou plusieurs gr+AOI-ce +AOA- une s+AOk-rie d'hyperliens. De plus, il peut offrir une messagerie +AOk-lectronique, des babillards, des forums et des moteurs de recherche.
+     
+     Postmaster:Administrateur de courrier +AOk-lectronique
+      The person or system controlling the electronic mail.
+      Personne ou ordinateur en charge du courrier +AOk-lectronique.
+     
+     Printer:Imprimante
+      A device or peripheral used to obtain hardcopy of the output from a computer. 
+      P+AOk-riph+AOk-rique utilis+AOk- pour obtenir une copie papier d'un document pour une sortie de l'ordinateur.
+     
+     Printout:Sortie d'imprimante
+       The printed sheet(s) that the printer produces as a result of a computer output. This might be just one line of characters or several hundred pages of text or graphics.
+       Ce sont les feuilles imprim+AOk-es, r+AOk-sultat des informations en provenance de l'ordinateur. Cela peut +AOo-tre simplement une ligne de caract+AOg-res ou plusieurs centaines de pages de texte ou de graphiques.
+     
+     Program:Programme
+      The set of instructions which the computer carries out. In whatever language the program is written, the machine follows the instructions one at a time in order.
+      Un ensemble d'instructions que l'ordinateur ex+AOk-cute. Quel que soit le langage dans lequel le programme est +AOk-crit, la machine lit les instructions l'une apr+AOg-s l'autre dans l'ordre.
+     
+     Programmer:Programmeur
+       The person who writes the computer program+ADs- more specifically the one who encodes the algorithm, which has been detailed by the analyst, in a specific programming language.
+       Personne qui +AOk-crit le programme informatique +ADs- plus sp+AOk-cifiquement celle qui code l'algorithme, qui a +AOk-t+AOk- con+AOc-u par l'analyste, dans un langage de programmation sp+AOk-cifique.
+     
+     Programming language:Langage de programmation
+      The language that allows the computer user to tell the computer what to do.
+      Langage qui permet +AOA- l'utilisateur de dire +AOA- l'ordinateur ce qu'il a +AOA- faire.
+     
+     Prompt:Invite
+      A message which the computer gives to its operator. It may be a symbol or a sentence on a screen (e.g. press any key) or a coloured light on a keyboard.
+      Message que l'ordinateur envoie +AOA- l'utilisateur. Cela peut +AOo-tre un symbole, une phrase +AOA- l'+AOk-cran ou une lumi+AOg-re color+AOk-e au clavier.
+     
+     Proxy server:Serveur Proxy
+      A security measure where only this small part of a network is accessed by the user, it is able to communicate with both the user and the rest of the network.
+     Mesure de s+AOk-curit+AOk- o+APk- seule cette petite partie du r+AOk-seau est accessible +AOA- l'utilisateur. Celle-ci peut communiquer avec l'utilisateur et le reste du r+AOk-seau.
+     
+     Pseudo random sequence of nbers:S+AOk-quence de nombres pseudo-al+AOk-atoire
+      A sequence of numbers that appears to be random but which is actually controlled by a pattern. When the computer is asked to generate a random number, it does so by carrying out a set of instructions.
+      S+AOk-quence de nombres qui parait +AOo-tre tout +AOA- fait al+AOk-atoire mais qui est en fait contrainte par une suite de nombres pr+AOkA6Q-tablis. Lorsqu'on demande +AOA- l'ordinateur de g+AOk-n+AOk-rer un nombre au hasard, il le fait en ex+AOk-cutant une s+AOk-rie d'instructions.
+     
+     Public domain software:Logiciel +AOA- usage public
+       Software that is free or available for a small fee, to anyone to use for their own purposes without payment to the author. 
+       Logiciel gratuit ou mis pour un faible co+APs-t +AOA- la disposition   de quiconque voulant l'utiliser pour son usage personnel sans avoir +AOA- payer l'auteur du logiciel (graticiel, contributiel).
+     
+     Query language:Langage de requ+AOo-te
+       A language specifically designed to assist the user to interrogate a particular database and easily produce reports with graphics with a simple query.
+       Langage sp+AOk-cifiquement con+AOc-u pour aider l'utilisateur +AOA- interroger une base de donn+AOk-es et  +AOA- +AOk-diter facilement des rapports accompagn+AOk-s de repr+AOk-sentations graphiques et ce gr+AOI-ce +AOA- une simple requ+AOo-te.
+     
+     Queue:File d'attente
+      A list or line of data, where new items are added at one end and the items are taken from the other. For example, a printer queue where users on a network send their work to the same printer, and each has to queue for its turn to be printed.
+      Ensemble de donn+AOk-es dans lequel les plus r+AOk-centes sont ajout+AOk-es +AOA- la fin et o+APk- les plus anciennes sont retir+AOk-es au d+AOk-but pour +AOo-tre trait+AOk-es. Par exemple, lorsque plusieurs utilisateurs partagent une m+AOo-me imprimante en r+AOk-seau, leur ordre d'impression sera en file d'attente chaque fois que plusieurs ordres auront +AOk-t+AOk- envoy+AOk-s en m+AOo-me temps. Ils feront la queue et attendront leur tour pour +AOo-tre imprim+AOk-s.
+     
+     Random Access Memory:M+AOk-moire +AOA- acc+AOg-s al+AOk-atoire / M+AOk-moire vive
+        RAM. A set of storage locations any of which can be accessed directly without having to work through from the first one. Such memories can be both written to and read from, and access times are about the same for all locations.
+      Emplacements de m+AOk-moire directement accessibles sans avoir +AOA- suivre un ordre s+AOk-quentiel depuis le d+AOk-but. On peut  +AOA- la fois +AOk-crire et lire dans une telle m+AOk-moire, et les temps d'acc+AOg-s sont quasiment les m+AOo-mes pour tous les emplacements m+AOk-moire.
+     
+     Random numbers:Nombres al+AOk-atoires
+       A set of numbers each one picked entirely by chance . This is not truly possible with most machines and we talk of a pseudo-random sequence of numbers being produced by a microcomputer.
+      S+AOk-rie de nombres, chacun +AOk-tant s+AOk-lectionn+AOk- de fa+AOc-on al+AOk-atoire. En r+AOk-alit+AOk-, ceci n'est pas vraiment possible avec la plupart des machines et on parle donc d'une s+AOk-quence de nombres pseudo-al+AOk-atoires g+AOk-n+AOk-r+AOk-e par un ordinateur.
+     
+     Read/Write memory:M+AOk-moire lecture/+AOk-criture ou M+AOk-moire vive
+        A type of memory that can be written into, as well as read, as opposed to read only memory. It might be random access memory (RAM) or a random access disk file, but serial access memory, such as bubble memory and magnetic tape, would also be included.
+       Type de m+AOk-moire qui permet +AOA- la fois la lecture et l'+AOk-criture, contrairement +AOA- la m+AOk-moire morte. Il peut s'agir de la RAM, ou d'un fichier +AOA- acc+AOg-s al+AOk-atoire, mais les m+AOk-moires +AOA- acc+AOg-s s+AOk-quentiel, telles que la m+AOk-moire +AOA- bulles et les bandes magn+AOk-tiques en font aussi partie.
+     
+     Real time processing:Traitement en temps r+AOk-el
+        The use of a computer system to retrieve data and update the records at that time (in real time), feeding back results almost immediately and so changing the source of the data.
+       Utilisation d'un ordinateur pour r+AOk-cup+AOk-rer de l'information et mettre +AOA- jour les donn+AOk-es en m+AOo-me temps (en temps r+AOk-el). Les r+AOk-sultats sont renvoy+AOk-s presque imm+AOk-diatement et ainsi les changements sont effectu+AOk-s dans la base de donn+AOk-es.
+     
+     Re-boot:R+AOk-amorcer
+       A term instructing the user to load the system again, often used when the program has gone wrong or is in an endless loop from which it cannot leave. Re-booting is also used as a way of changing the program stored in a microcomputer: re-boot and re-load.
+       Terme qui informe l'utilisateur de recharger le syst+AOg-me, souvent utilis+AOk- lorsque le programme plante ou est dans une boucle infinie qu'il ne peut quitter. Le r+AOk-amor+AOc-age est aussi le moyen de changer le programme stock+AOk- dans un microordinateur : r+AOk-amorcer et relancer.
+     
+     Record:Enregistrement
+      Each entry in a database. Each record consists of entries in a number of fields and a collection of records forms a file.
+      Chaque +AOk-l+AOk-ment dans une base de donn+AOk-es. Chaque enregistrement est compos+AOk- d'un certain nombre de champs et un ensemble d'enregistrements forme un fichier.
+     
+     Red Green Blue:Rouge, vert, bleu (RVB)
+       RGB. A video signal system which uses three separate signals, one for each of these three colours, to produce a higher definition coloured screen image than can be achieved with a single composite signal.
+      Syst+AOg-me de signal vid+AOk-o qui utilise trois signaux s+AOk-par+AOk-s, un pour chacune de ces trois couleurs, +AOA- fin de produire une image avec une r+AOk-solution sup+AOk-rieure +AOA- une image qu'on aurait affich+AOk- +AOA- partir d'un seul signal.
+     
+     Refresh Rate:Fr+AOk-quence de rafra+AO4-chissement
+       The number of times per second that data held in a dynamic RAM chip or on a screen display must receive a 'booster' signal to maintain its accuracy or visibility.
+       Nombre de fois par seconde o+APk- des donn+AOk-es contenues dans une puce de m+AOk-moire vive dynamique ou sur un moniteur  doivent recevoir un signal de rappel pour maintenir la pr+AOk-cision ou la lisibilit+AOk- de l'affichage.
+     
+     Register:Registre
+       A special type of store location in a computer used for a specific purpose. Generally a register is the same size as the word-length of the computer. For example, one register might be used as the accumulator+ADs- another as the store address register.
+
+       Emplacement particulier de stockage dans un ordinateur, ayant un usage sp+AOk-cifique. G+AOk-n+AOk-ralement un registre est de la m+AOo-me taille que +ACI-la longueur du mot+ACI- de l'ordinateur. Par exemple, un registre peut +AOo-tre utilis+AOk- comme accumulateur et un autre comme le registre d'adresse en m+AOk-moire.
+     
+     Remote control:T+AOk-l+AOk-commande
+      A gadget that enables a person to operate a machine from various distances with a hand-held keypad.
+      Dispositif  manuel de contr+APQ-le +AOA- distance qui permet de piloter un appareil plus ou moins +AOk-loign+AOk-.
+     
+     Reserved word:Mot r+AOk-serv+AOk-
+      A word which has a specific meaning to the compiler or the operating system and thus must not be used by the programmer when programming in the high level language.
+      Un mot qui a une signification sp+AOk-ciale pour le compilateur ou le syst+AOg-me op+AOk-rateur et qui ne doit pas +AOo-tre utilis+AOk- par le programmeur durant la programmation +AOA- un niveau de langage sup+AOk-rieur. 
+     
+     Reset:R+AOk--initialisation
+       To send a signal to the microprocessor which causes it to restart as if it had just been switched on, with all the registers being reset to zero. Some microcomputers have a BREAK key for this purpose, some a reset button, whilst others require the user to press three keys at the same time.
+        Envoi d'un signal au microprocesseur qui le fait red+AOk-marrer comme s'il venait juste d'+AOo-tre allum+AOk-, avec tous les registres remis +AOA- z+AOk-ro. Certains micro-ordinateurs ont une touche BREAK +AOA- cet effet, d'autres un bouton de remise +AOA- z+AOk-ro, alors que d'autres requi+AOg-rent que l'utilisateur appuie sur trois touches en m+AOo-me temps pour r+AOk--initialiser. 
+     
+     ROM:M+AOk-moire morte
+       Read Only Memory. A memory that holds data or instruction permanently and cannot be altered by the computer or programmer. The actual content of a ROM is fixed at the time of its manufacture
+       M+AOk-moire qui contient en permanence des donn+AOk-es ou des instructions qui ne peuvent +AOo-tre chang+AOk-es par l'ordinateur ou par le programmeur. Le contenu de la ROM est fix+AOk- lors de sa fabrication.
+     
+     Rounding:Arrondi
+      One way of reducing a number to a certain number of digits. For example, rounding 672.87 to four figures would give 672.9. The value of the figures removed has been taken into consideration.
+      M+AOk-thode de r+AOk-duction d'un nombre +AOA- un certain nombre de chiffres. Par exemple, arrondir 672,87 +AOA- un chiffre apr+AOg-s la virgule donnera 672,9. La valeur des chiffres apr+AOg-s la virgule a +AOk-t+AOk- prise en compte.
+     
+     Router:Routeur
+      A computer or software programme which controls the flow of data to several computers. It continually checks the destination of packets of data and routes them appropriately.
+      Ordinateur ou logiciel qui contr+APQ-le le flux de donn+AOk-es vers plusieurs ordinateurs. Il v+AOk-rifie  en permanence la destination des paquets de donn+AOk-es et les achemine correctement.
+     
+     Routine:Routine
+       A piece of software that does a specific task, although generally it is also part of a program. However the word subroutine is often used to describe a self-contained section of a program.
+       Logiciel qui effectue une t+AOI-che sp+AOk-cifique, bien que g+AOk-n+AOk-ralement il s'agisse d'une partie de programme. Cependant, le mot sous-programme est souvent utilis+AOk- pour d+AOk-crire une section de programme autonome.
+     
+     Run:Ex+AOk-cution
+       A command to tell the computer to carry out a program, although it can imply the loading, the execution and the output of a whole package. The 'run-time' is a measure of the time taken for the whole program to be carried out.
+       Commande indiquant +AOA- l'ordinateur d'ex+AOk-cuter un programme, bien qu'il puisse impliquer le chargement, l'ex+AOk-cution et la sortie d'un logiciel complet. La dur+AOk-e d'ex+AOk-cution est une mesure du temps mis pour que l'ensemble du programme soit ex+AOk-cut+AOk-.
+     
+     Scanner:Scanner
+      An input device that collects data by recording values of brightness for small areas (dots), as it moves across a surface. It is used for digitizing ('reading') text, as well as pictures and images, into a computer.
+      Un dispositif d'entr+AOk-e qui rassemble des donn+AOk-es en enregistrant les valeurs de luminance pour de petites zones (les points), comme il se d+AOk-place +AOA- travers une surface. Il est utilis+AOk- pour num+AOk-riser ('lire') du texte, aussi bien que des dessins et des images, dans un ordinateur.
+     
+     Scheduling:Planification
+        The arranging of the order in which programs are to be run, which may be done by the computer itself.
+
+       D+AOk-termination de l'ordre dans lequel les programmes seront lanc+AOk-s. Ceci peut +AOo-tre fait automatiquement par l'ordinateur lui-m+AOo-me.
+     
+     Scratch pad memory:M+AOk-moire de travail / m+AOk-moire cache
+       An area of memory where the computer may hold results of calculations that it will need later, just as we might use a rough pad for working out, say, the cost of 24 pens at 87p each.
+       Partie de la m+AOk-moire o+APk- l'ordinateur peut garder des r+AOk-sultats de calculs dont il aura besoin plus tard, de m+AOo-me que nous pourrions utiliser un brouillon pour calculer, par exemple, le co+APs-t de 24 stylos +AOA- 4,5 F chacun.
+     
+     Screen:Ecran
+      The panel at the front of a television set, visual display unit (VDU) or monitor used for displaying computer text and graphics.
+      Panneau +AOA- l'avant du poste de t+AOk-l+AOk-vision,  ou  moniteur utilis+AOk- pour afficher les textes de l'ordinateur et les graphiques.
+     
+     Screen saver:Economiseur d'+AOk-cran
+       The moving pattern or picture on a monitor screen that takes over from the existing display if no movement or processing occurs over a preset period. This prevents any static display from degrading the screen by burning in, as can happen if the pixels are left to display only one place for a long time. The original screen appears immediately if the mouse or keyboard is activated.
+       Motif anim+AOk- ou dessin sur un +AOk-cran de moniteur qui remplace l'affichage du moment s'il n'y a pas de mouvement ou de traitement dans une p+AOk-riode de temps pr+AOk-d+AOk-termin+AOk-e. Ceci emp+AOo-che tout affichage statique de d+AOk-grader l'+AOk-cran par br+APs-lage comme cela peut se produire lorsque les pixels restent affich+AOk-s au m+AOo-me endroit pendant trop longtemps. L'affichage original r+AOk-appara+AO4-t d+AOg-s que la souris ou le clavier est activ+AOk-(e).
+     
+     Scroll:D+AOk-filement
+      The continuous movement of the display of the screen where, generally, as one line is added at the bottom all lines move up one and the line at the top disappears from view.
+      Mouvement continu de ce qui est affich+AOk- +AOA- l'+AOk-cran. En g+AOk-n+AOk-ral, alors qu'une ligne est ajout+AOk-e au bas de l'+AOk-cran, toutes les autres lignes remontent d'une ligne et celle du haut de l'+AOk-cran dispara+AO4-t.
+     
+     Search:Rechercher
+      To find particular items from a large set of records. This can be done very quickly by a computer.
+      Trouver une information donn+AOk-e dans un ensemble d'enregistrements. L'ordinateur peut effectuer la recherche tr+AOg-s rapidement.
+     
+     Search engine:Moteur de recherche
+      A program designed specifically to assist users in the speedy and efficient searching of the internet.
+      Programme d+AOk-di+AOk- +AOA- assister l'utilisateur dans ses recherches sur l'Internet. L'utilisation d'un moteur de recherche facilite la recherche et la rend plus rapide et plus efficace. 
+     
+     Second generation computers:Ordinateurs de deuxi+AOg-me g+AOk-n+AOk-ration
+       Computers built between the mid-1950s and the mid-1960s that used transistors. Thus they were smaller, more reliable and required less power than the first generation computers which used vacuum tubes (electronic valves).
+       Ordinateurs construits entre le milieu des ann+AOk-es 50 et le milieu des ann+AOk-es 60  qui fonctionnaient avec des transistors. Ainsi ils +AOk-taient plus petits, plus fiables et consommaient moins d'+AOk-lectricit+AOk- que les ordinateurs  de  premi+AOg-re g+AOk-n+AOk-ration d'ordinateur qui  eux fonctionnaient avec des tubes +AOA- vide.
+     
+     Second generation languages:Langage de deuxi+AOg-me g+AOk-n+AOk-ration
+      Computer languages that came about with the advent of transistors and are a step up from programming in machine code. 2GLs allow you to program using a function code (sometimes called a mnemonic, or memory aid) and a location showing where to find the data. Such languages became known as assembly languages. They depend on the type of CPU used, are tedious to program but are quickly converted and executed (run) by the assembler (translator).
+        Langages informatiques qui ont +AOk-t+AOk- introduits +AOA-  l'arriv+AOk-e  des transistors et qui constituent une progr+AOg-s par rapport +AOA- la programmation en code machine. Les langages de seconde g+AOk-n+AOk-ration permettent de programmer en utilisant un code de fonction (parfois appel+AOk- mn+AOk-monique ou aide m+AOk-moire) et un emplacement qui indique o+APk- trouver les donn+AOk-es. Ces langages sont connus sous le nom de  langages d'assemblage. Ils d+AOk-pendent du type d'UC utilis+AOk-, sont fastidieux +AOA- programmer mais sont rapidement convertis et ex+AOk-cut+AOk-s  par l'assembleur (le traducteur).
+     
+     Sector:Secteur
+       Part of a disk track. A magnetic disk uses circular tracks for storing data. These tracks are formatted into sectors and the computer writes data, one sector track at a time, from its memory.
+       Partie d'une piste de disque. Un disque magn+AOk-tique utilise des pistes circulaires pour stocker les donn+AOk-es. Ces pistes sont format+AOk-es en secteurs et l'ordinateur, +AOA- partir de sa m+AOk-moire, +AOk-crit les donn+AOk-es, une piste de secteur +AOA- la fois. 
+     
+     Security:S+AOk-curit+AOk-
+      Measures to make something safe. In addition to the obvious physical security of computer systems, there is the problem of data security. This is threefold: data can be lost (e.g. during updating), wrongly modified (e.g. by an unauthorized user) and confidential data can be stolen (e.g. industrial espionage). The last two can be prevented by requiring passwords for access.
+      Mesures prises pour s+AOk-curiser un syst+AOg-me. Outre la s+AOk-curit+AOk- physique du mat+AOk-riel informatique, se pose le probl+AOg-me de la s+AOk-curit+AOk- des donn+AOk-es, qui se pr+AOk-sente sous trois aspects : les donn+AOk-es peuvent se perdre (par exemple lors d'une mise +AOA- jour), elles peuvent +AOo-tre modifi+AOk-es (par exemple par un utilisateur non autoris+AOk-) ou des donn+AOk-es confidentielles peuvent +AOo-tre vol+AOk-es (par exemple lors d'espionnage industriel). Dans les deux derniers cas, l'utilisation de mots de passe peut +AOk-viter ou limiter les probl+AOg-mes de s+AOk-curit+AOk-.
+     
+     Segmented  program:Programme segment+AOk-
+       A computer program written in sections which are called up from backing store as and when required. One section would probably overlay the previous section in the main store.
+       Programme d'ordinateur r+AOk-dig+AOk- en sections qui sont r+AOk-cup+AOk-r+AOk-es de la m+AOk-moire auxiliaire au moment requis. En g+AOk-n+AOk-ral une section recouvre probablement la section ant+AOk-rieure dans la  m+AOk-moire principale.
+     
+     Sensor:Capteur
+      An input device which measures values and provides digital readings for a computer system. It may record two states, multistates or analogue values.
+      Un dispositif d'entr+AOk-e qui mesure des valeurs et fournit des interpr+AOk-tations digitales au syst+AOg-me. Il peut enregistrer des valeurs +AOA- deux +AOk-tats, +AOA- multi-+AOk-tats, ou analogiques.
+     
+     Serial access memory:M+AOk-moire +AOA- acc+AOg-s s+AOk-quentiel
+      A read/write memory that consists of a set of locations which can only be accessed in sequence. For example, to read a particular record stored on a magnetic tape it would be necessary to go through all the records from the beginning until it is found. Another example of serial access memory is bubble memory, though here access times would be shorter.
+      M+AOk-moire modifiable qui se compose d'un ensemble d'emplacements qui peuvent seulement +AOo-tre consult+AOk-s dans l'ordre. Par exemple, pour lire un enregistrement particulier enregistr+AOk- sur une bande magn+AOk-tique il serait n+AOk-cessaire de passer par tous les enregistrements du d+AOk-but jusqu'+AOA- ce qu'on le trouve. Un autre exemple de m+AOk-moire +AOA- acc+AOg-s s+AOk-quentiel est la m+AOk-moire +AOA- bulles, bien que dans ce cas les temps d'acc+AOg-s soient plus courts.
+     
+     Serial interface:Interface s+AOk-rie
+      The circuit that provides connections to a socket which transmits or receives each bit of data in order, one after the other.
+      Circuit qui fournit une connexion +AOA- une prise, laquelle transmet ou re+AOc-oit chaque bit de donn+AOk-e l'un apr+AOg-s l'autre.
+     
+     Server:Serveur
+       A central computer witch provides software and data to the users of the microcomputers on the network. It may offer several different services, such as storage, printing, Internet access, electronic mail and CD-ROM.
+       Ordinateur central qui fournit des logiciels et des donn+AOk-es aux utilisateurs de micro-ordinateurs appartenant au r+AOk-seau. Il peut offrir une multitude de services diff+AOk-rents tels que le stockage, l'acc+AOg-s +AOA- une imprimante, l'acc+AOg-s a l'Internet, la messagerie +AOk-lectronique et les c+AOk-d+AOk-roms.
+     
+     Shared files:Fichiers partag+AOk-s
+       Files held in the memory of one computer which can be read, used and altered by other computers to which it is linked either in a network or by telecommunications.
+       Fichiers stock+AOk-s dans la m+AOk-moire d'un ordinateur qui peuvent +AOo-tre lus, utilis+AOk-s et modifi+AOk-s par d'autres ordinateurs auquel il est reli+AOk- par un r+AOk-seau ou par les t+AOk-l+AOk-communications.
+     
+     Shift register:Registre de d+AOk-calage
+       The location in the computer which is used only for shifting data to the left or the right. Note that a shift one place to the left of a denary number is like multiplying by 10, though the first digit of the number is lost if it filled the location completely.
+       Emplacement dans l'ordinateur qui est uniquement utilis+AOk- pour d+AOk-placer les donn+AOk-es vers la gauche ou la droite. On notera que le d+AOk-calage d'une place vers la gauche d'un nombre d+AOk-cimal +AOk-quivaut +AOA- sa  multiplication par 10, bien que le premier chiffre du nombre soit perdu s'il remplit compl+AOg-tement l'emplacement.
+     
+     Smartcard:Carte +AOA- puce
+      A plastic card, similar to a credit card, which has a silicon chip embedded in it, capable of storing 1 megabyte of data and instructions.
+      Carte plastique, similaire +AOA- une carte de cr+AOk-dit, munie d'une puce de silicium, qui peut stocker jusqu'+AOA- 1Mo de donn+AOk-es et d'instructions.
+     
+     SMS:SMS
+      It is for sending messages of up to 160 or 224 characters to mobiles phones that use Global System for Mobile (GSM) communication. They can also be sent to digital phones.
+     Cela sert +AOA- envoyer des messages de 160 +AOA- 224 caract+AOg-res +AOA- des t+AOk-l+AOk-phones portables qui utilisent le syst+AOg-me de communication GSM.
+     
+     Software:Logiciel
+        All the programs that can be run  on a particular computer, including the operating system, the assemblers, the compilers and all the application packages (specific programs for specific tasks) that are available.
+       Tous les programmes qui peuvent tourner sur un ordinateur donn+AOk-, y compris le syst+AOg-me d'exploitation, les assembleurs, les compilateurs, et les applications (programmes sp+AOk-cifiques pour des t+AOI-ches sp+AOk-cifiques) qui sont disponibles.
+     
+     Sort:Trier
+      The arranging of items of data into a predetermined order (names, types, date of creating). This can be alphabetical or numerical such as house number or date order.
+      Ranger des fichiers, des documents, des donn+AOk-es dans un ordre pr+AOk-cis en fonction du nom, du type (.exe, .bat) ou de la date de cr+AOk-ation. Ce tri peut donc +AOo-tre alphab+AOk-tique ou num+AOk-rique.
+     
+     Sound synthesizer:Synth+AOk-tiseur de son
+       The special electronic circuits, sometimes inside and part of a microcomputer, that can produce sound and imitate various musical instruments.
+       Circuits +AOk-lectroniques sp+AOk-cialis+AOk-s, parfois int+AOk-gr+AOk-s dans l'ordinateur, qui peuvent produire des sons et imiter des instruments de musique vari+AOk-s.
+     
+     Source language:Langage source
+      The language in which the programmer writes his program (the source program) though it cannot be directly understood by a computer. The source program is converted to an object program (object code).
+      Langage que le programmeur utilise pour +AOk-crire son programme (le programme source) bien qu'il ne puisse pas +AOo-tre compris directement par l'ordinateur. Le programme source est converti en un programme objet (code objet).
+     
+     Spam:Spam
+      It is the name given to junk electronic mail which is unsolicited, though it is possible to agree to receive such e-mail when one first registers with a web site.
+     Nom donn+AOk- au courrier +AOk-lectronique publicitaire non sollicit+AOk-, alors qu'il est possible de donner son accord pour recevoir de tels messages lors d'une inscription pr+AOk-alable sur un site Web.
+     
+     Speech recognition:Reconnaissance vocale
+      The interpretation by the computer of the spoken word.
+      Interpr+AOk-tation de la parole par l'ordinateur.
+     
+     Speech synthesizer:Synth+AOk-tiseur vocal
+      The generation of speech by solid state circuits, used in hand-held educational machines and toys where a limited vocabulary is required
+      Production de voix de synth+AOg-se par des circuits int+AOk-gr+AOk-s utilis+AOk-s dans les machines +AOk-ducatives et les jeux o+APk- un vocabulaire limit+AOk- est requis.
+     
+     Spell checker:Correcteur orthographique
+      A facility offered by most word processing packages whereby a document is checked for wrongly spelt words.
+      Module que poss+AOg-dent la plupart des logiciels de traitement de texte, qui v+AOk-rifie l'orthographe des mots dans un document.
+     
+     Spooled file:Fichier en attente
+       An acronym for 'Simultaneous Peripheral Operation On-Line', this is one way of overcoming the problem of slow peripheral devices holding up the execution of a program. For example, files to be printed are sent to a disk (fast transfer) where they join a queue and take their turn to be sent to the printer (slow transfer). See also 'multi-task processing'.
+       Acronyme de +ACI-Simultaneous Peripheral Operation On-Line +ACI- (traitement diff+AOk-r+AOk- en entr+AOk-e/sortie), c'est l'un des moyens de surmonter le probl+AOg-me des syst+AOg-mes p+AOk-riph+AOk-riques lents pour acc+AOk-l+AOk-rer l'ex+AOk-cution du programme. Par exemple, les fichiers devant +AOo-tre imprim+AOk-s sont envoy+AOk-s sur un disque (transfert rapide) o+APk- ils rejoignent une liste d'attente et sont envoy+AOk-s +AOA- l'imprimante (transfert lent) chacun +AOA- leur tour. Voir +AOk-galement traitement multit+AOI-che.
+     
+     Spreadsheet program:Tableur
+      A screen-based representation of a large sheet of paper divided into rows and columns, each intersection containing a cell. Text can be entered as headings or labels for rows, columns or groups of cells.
+      Repr+AOk-sentation imag+AOk-e d'une grande feuille de papier divis+AOk-e en rang+AOk-es et colonnes, chaque intersection contenant une cellule. Les textes peuvent +AOo-tre entr+AOk-s comme titres ou +AOk-tiquettes par rang+AOk-es, colonnes ou groupes de cellules.
+     
+     Stack:Pile
+       An area of memory used to hold temporary data. As each item is added the previous ones are all shifted down one place - thus they are thought of as being 'stacked' one above the other. New items are added at the end (top) and usually only the end one is removed at any time (i.e. last in first out), although 'swapping' of the top two items can be performed.
+       Endroit dans la m+AOk-moire utilis+AOk- pour stocker des donn+AOk-es temporaires. D+AOg-s qu'une nouvelle donn+AOk-e est ajout+AOk-e, les donn+AOk-es pr+AOk-c+AOk-dentes sont d+AOk-cal+AOk-es d'une place vers le bas. Les nouvelles donn+AOk-es sont ajout+AOk-es par dessus et d'ordinaire seule celle de la fin est enlev+AOk-e (LIFO: derni+AOg-re entr+AOk-e, premi+AOg-re enlev+AOk-e) bien qu'il soit possible d'intervertir les deux du dessus.
+     
+     Stop Bit:Bit d'arr+AOo-t
+       Extra data included as part of the handshake to slow down transmission between computer and peripheral. It is used with serial transmission rather than parallel transmission.
+       Donn+AOk-es rajout+AOk-es au message d'+AOk-tablissement de communication pour ralentir la transmission entre l'ordinateur et ses p+AOk-riph+AOk-riques. Il est plut+APQ-t utilis+AOk- avec la transmission en s+AOk-rie qu'avec la transmission en parall+AOg-le.
+     
+     Store:M+AOk-moire
+       Anything that can retain data passed to it by the central processing unit of a computer. Core store, memory chips,  bubble memory, magnetic disk and tape are all types of store. The size of a store depends on the number of memory locations.
+       Tout ce qui peut garder des donn+AOk-es envoy+AOk-es par l'Unit+AOk- Centrale d'un ordinateur. La m+AOk-moire principale, les puces m+AOk-moire, la m+AOk-moire +AOA- bulles, les disques magn+AOk-tiques et les bandes magn+AOk-tiques sont tous des types de m+AOk-moire. La taille d'une m+AOk-moire d+AOk-pend du nombre de ses emplacements m+AOk-moire.
+     
+     String:Cha+AO4-ne de caract+AOg-res
+      A set of characters. They are stored in a series of memory locations with the first location holding a number giving the length of the string (the number of characters). BASIC uses the dollar (+ACQ-) symbol next to the variable to denote that it is a string.
+      Suite de caract+AOg-res, stock+AOk-e dans une s+AOk-rie d'emplacements en m+AOk-moire, dont le premier chiffre indique la longueur de la cha+AO4-ne (le nombre de caract+AOg-res). Le BASIC, par exemple, utilise le symbole du dollar (+ACQ-) +AOA- c+APQ-t+AOk- de la variable pour signaler qu'il s'agit d'une cha+AO4-ne.
+     
+     Structured programming:Programmation structur+AOk-e
+        The art of writing programs that are logical and easy to follow. It involves the sectioning of the original problem into small program units each of which is self-contained and can be tested separately.
+       L'art d'+AOk-crire des programmes logiques et faciles +AOA- suivre. Cela implique la d+AOk-composition du probl+AOg-me en petites unit+AOk-s de programme. Chacune d'elles est ind+AOk-pendante et peut +AOo-tre test+AOk-e s+AOk-par+AOk-ment.
+     
+     Subroutine:Sous-programme
+       A section of a program written to carry out a specific task which the main program may use just once or several times during its run. The last instruction of a subroutine usually returns the computer to the instruction following the one from which it left the main program. Large computer systems have a set of subroutines on disk which can be called and used by the current program as and when required
+       Section d'un programme +AOk-crite pour effectuer une t+AOI-che sp+AOk-cifique que le programme principal peut utiliser une ou plusieurs fois pendant le traitement. La derni+AOg-re instruction d'un sous-programme renvoie d'habitude l'ordinateur +AOA- l'instruction qui suit celle o+APk- il a quitt+AOk- le programme principal. Des syst+AOg-mes d'ordinateur ont un jeu de sous-programmes sur leur disque qui peuvent +AOo-tre appel+AOk-s et utilis+AOk-s par le programme en cours lorsqu'il en a besoin.
+     
+     Syntax:Syntaxe
+       Rules to help understanding. Just as the words we speak or write need to be in a certain grammatical order to be understood, so the instructions to a computer must obey certain rules.
+       R+AOg-gles qui aident +AOA- la compr+AOk-hension. Comme les mots que nous disons ou que nous +AOk-crivons ont besoin d'un certain ordre grammatical pour +AOo-tre compris, les instructions donn+AOk-es +AOA- un ordinateur doivent aussi ob+AOk-ir +AOA- certaines r+AOg-gles.
+     
+     System:Syst+AOg-me
+       The total of all the things that make up the working computer unit. It includes hardware (the computer itself plus all the peripheral units), software and the necessary data and operators.
+       Ensemble de tous les +AOk-l+AOk-ments qui constituent un ordinateur. Ceci inclut les composants mat+AOk-riels (l'ordinateur lui-m+AOo-me plus tous les p+AOk-riph+AOk-riques), les logiciels, les donn+AOk-es et op+AOk-rateurs n+AOk-cessaires.
+     
+     System Analysis:Analyse de syst+AOg-me
+       The evolution of a task, coupled if necessary with the design and installation of a computer system to solve a problem. Several stages are involved: 
+     (a) Analysis of how the job is done at present.
+     (b) Deciding if a computer can be of use.
+     (c) Breaking down the problem into logical steps, designing a solution and specifying exactly what the computer must do.
+     (d) Installing the computer system, carrying out a dry run and checking that it works as required.
+       Evolution d'une t+AOI-che, associ+AOk-e si n+AOk-cessaire +AOA- la conception et +AOA- l'installation d'un syst+AOg-me d'ordinateur pour r+AOk-soudre un probl+AOg-me. Plusieurs +AOk-tapes sont requises :
+     (a) Analyser comment la t+AOI-che est r+AOk-alis+AOk-e actuellement.
+     (b) D+AOk-cider si un ordinateur peut +AOo-tre utilis+AOk-.
+     (c) Segmenter le probl+AOg-me en +AOk-tapes logiques, en +AOk-laborant une solution et en sp+AOk-cifiant exactement ce que l'ordinateur doit faire
+     (d) Installer le syst+AOg-me de l'ordinateur, faire une simulation  et v+AOk-rifier que l'on obtient bien le fonctionnement voulu.
+     
+     Table:Table
+      The arrangement of data in rows and columns. In scientific work, it is a means of recording results from experiments in a way which allows different results to be related to one another.
+      Arrangement de donn+AOk-es en lignes et en colonnes. Lors de recherches en sciences, c'est un moyen d'enregistrer les r+AOk-sultats d'exp+AOk-rimentations, de fa+AOc-on +AOA- ce que diff+AOk-rents r+AOk-sultats puissent +AOo-tre mis en rapport les uns avec les autres.
+     
+     Tape:Bande
+       A long strip of paper or magnetic coated plastic which is used to record data. Paper tape can use between five and eight holes to represent each character and half-inch magnetic tape similarly uses seven or nine channels across its width.
+       Longue bande de papier ou de plastique recouverte d'une couche magn+AOk-tique qui est utilis+AOk-e pour enregistrer des donn+AOk-es. Les bandes de papier peuvent utiliser entre cinq et huit trous pour repr+AOk-senter chaque caract+AOg-re et les bandes magn+AOk-tiques de un demi pouce utilisent sept ou neuf canaux sur leur largeur.
+     
+     TCP/IP:Protocole TCP/IP
+       (Transmission Control Protocol / Internet Protocol). The protocol that sets the rules for communicating between computers on the Internet. It specifies the way signals are sent so that they can be received, whatever the receiving equipment.
+      Protocole qui d+AOk-termine les r+AOg-gles de communication entre les ordinateurs sur Internet. Il sp+AOk-cifie la mani+AOg-re dont les signaux sont envoy+AOk-s afin qu'ils puissent +AOo-tre re+AOc-us, quel que soit l'ordinateur qui les re+AOc-oit.
+     
+     Telecommunications:T+AOk-l+AOk-communications
+      The sending of audio, video or digital data from one place to another by radio waves, optical signals or cables. 
+      Envoi de donn+AOk-es audio, vid+AOk-o ou digitales d'un endroit +AOA- un autre par ondes radio, signaux optiques ou c+AOI-bles. 
+     
+     Teletext:T+AOk-l+AOk-texte
+      An information service transmitted as part of the normal television signal.
+      Service d'information transmis par le signal normal de la t+AOk-l+AOk-vision.
+     
+     Terminal:Terminal
+      A device connected to a computer that allows input and output of data. A terminal may be just a keyboard, a teletypewriter (like a teleprinter) and is often remote from the computer. An example might be a keyboard and display as a bar code reader. An intelligent terminal has its own processing power, a dumb terminal has not.
+      Un mat+AOk-riel connect+AOk- +AOA- un ordinateur qui permet les entr+AOk-es et sorties des donn+AOk-es. Un terminal peut +AOo-tre juste un clavier, un t+AOk-l+AOk-scripteur (comme un t+AOk-l+AOk-imprimeur) et est souvent +AOk-loign+AOk- de l'ordinateur. Un exemple peut +AOo-tre un clavier et l'affichage comme dans le lecteur de code +AOA- barres. Un terminal intelligent a son propre pouvoir de calcul, un  terminal  passif ne l'a pas. 
+     
+     Terminator:Symbole de terminaison
+      A false value attached to the end of a set of data and used to indicate to the computer that it is the last item.
+      Fausse valeur affect+AOk-e +AOA- la fin d'un ensemble de donn+AOk-es et utilis+AOk- pour indiquer +AOA- l'ordinateur qu'il s'agit de la derni+AOg-re donn+AOk-e.  Le code ETX (+AF4-D) pour un fichier texte.
+     
+     Test data:Donn+AOk-es de contr+APQ-le
+       Data run to try out a new program. Care must be taken to ensure that the test data covers all possibilities, particularly when the user is given several choices and should include seemingly senseless errors that could be made inadvertently.
+       Donn+AOk-es ex+AOk-cut+AOk-es pour tester un nouveau programme. Un grand soin doit y +AOo-tre port+AOk- pour s'assurer que les donn+AOk-es de contr+APQ-le couvrent bien toutes les possibilit+AOk-s, particuli+AOg-rement lorsque l'on donne +AOA- l'utilisateur plusieurs  choix et qu'il doit inclure des erreurs apparemment d+AOk-nu+AOk-es de sens qui pourraient +AOo-tre faites par inadvertance.
+     
+     The Internet:Internet
+      The collection of world-wide computers and their networks that are connected together to exchange digital data. There are three main types of use: access to millions of pages through the World Wide Web+ADs- sending e-mail messages between users and transferring large amounts of information through file transfer.
+       L'ensemble des ordinateurs et des r+AOk-seaux de par le monde qui sont interconnect+AOk-s afin d'+AOk-changer des donn+AOk-es digitales. Il y a trois principaux types d'utilisation : l'acc+AOg-s +AOA- des millions de pages pr+AOk-sentes sur la Toile +ADs-     l'envoi de m+AOk-ls entre utilisateurs et le transfert de quantit+AOk-s importantes de donn+AOk-es gr+AOI-ce au transfert de fichiers.
+     
+     Third generation computers:Ordinateurs de troisi+AOg-me g+AOk-n+AOk-ration
+        Computers that were built using integrated circuits, the first in 1966. The second generation used transistors while the first generation used vacuum tubes.
+       Ordinateurs qui furent construits en utilisant des circuits int+AOk-gr+AOk-s, le premier apparut en 1966. La seconde g+AOk-n+AOk-ration fonctionnait avec des transistors alors que la premi+AOg-re utilisait des tubes +AOA- vide.
+     
+     Third generation languages:Langages de troisi+AOg-me g+AOk-n+AOk-ration
+      Problem solving languages, not dependent on the type of central processing unit used, as were second generation languages. They came about with the introduction of integrated circuits and use commands/keywords which are near to English and have to be translated into machine code by either an interpreter or a compiler. These third generation languages (also known as high level languages) are good for general purpose programming, although some do specialize. They are widely used in education as well as for the development of code and they are portable across many computers. 
+        Langages de r+AOk-solution de probl+AOg-mes qui ne d+AOk-pendent pas de l'unit+AOk- centrale utilis+AOk-e comme l'+AOk-tait la seconde g+AOk-n+AOk-ration de langages. Il sont apparus avec l'introduction des circuits int+AOk-gr+AOk-s et utilisent des commandes/mots-cl+AOk-s qui sont proches de l'anglais de tous les jours. Ils doivent +AOo-tre interpr+AOk-t+AOk-s ou compil+AOk-s en code machine. Cette troisi+AOg-me g+AOk-n+AOk-ration de langages, aussi connue sous le nom  de langages de haut niveau, est utilis+AOk-e pour la programmation courante  mais certains sont sp+AOk-cialis+AOk-s. Ils sont couramment utilis+AOk-s tant dans l'+AOk-ducation que pour le d+AOk-veloppement d'applications et sont portables sur diff+AOk-rents types d'ordinateurs.
+     
+     Time-sharing:Travail en temps partag+AOk-
+      The use of computer by two or more users apparently at the time.
+      Utilisation d'un ordinateur par un ou plusieurs utilisateurs en m+AOo-me temps.
+     
+     Toggle:Commutateur +AOA- bascule
+       To switch between two conditions (e.g. on/off yes/no) either from the keyboard or in a WIMP environment, by pointing at a button on the screen and clicking the mouse.
+       Commutateur qui offre deux possibilit+AOk-s (ex: allum+AOk-/+AOk-teint, oui/non) soit, +AOA- partir du clavier, soit dans un environnement WIMP, en s+AOk-lectionnant un  bouton sur l'+AOk-cran et en cliquant avec la souris.
+     
+     Top-down:M+AOk-thode descendante
+       One method of programming whereby the programmer divides the problem into many small units each of which follows on from the one before. A computer program is then written for each of these units and tested separately.
+       M+AOk-thode de programmation o+APk- le programmeur divise le probl+AOg-me +AOA- r+AOk-soudre en plusieurs sous-parties, chacune d'elles d+AOk-coulant de la pr+AOk-c+AOk-dente. Un programme est alors +AOk-crit pour chacune de ces parties et test+AOk- s+AOk-par+AOk-ment.
+     
+     Trace:Trace
+      A piece of software which follows each step of a program line by line. It enables the user to check and locate errors in programs.
+      Logiciel qui suit l'ex+AOk-cution d'un programme ligne par ligne pour d+AOk-tecter les erreurs +AOk-ventuelles.
+     
+     Track:Piste
+       The channel or line along which data is recorded on a storage device, for example, the row of holes on paper tape or a magnetic line parallel to the edge on magnetic tape or disk.
+       Canal ou ligne le long de laquelle les donn+AOk-es sont enregistr+AOk-es sur une unit+AOk- de stockage, par exemple la rang+AOk-e de trous d'une bande papier ou une ligne  magn+AOk-tique parall+AOg-le au bord des bandes magn+AOk-tiques ou des disques.
+     
+     Transducer:Transducteur
+        Any device that converts energy from an electrical form or to an electrical form.
+       N'importe lequel des appareils qui convertissent de l'+AOk-nergie soit sous forme +AOk-lectrique soit +AOA- partir d'une source +AOk-lectrique.
+     
+     Transistor:Transistor
+        A semiconductor device. Invented in 1948 it revolutionized the electronic and computing world by replacing the unreliable vacuum tubes. This solid state device is small, reliable, cheap and consumes very little power. It can be use as an amplifier or as a switching device, the latter forming the basis of computer logic and memory circuits. Joining two transistors together leads to astable and bistable circuits which are the building blocks of today's electronic systems. 
+       Semi-conducteur invent+AOk- en 1948 qui a r+AOk-volutionn+AOk- l'+AOk-lectronique et l'informatique en rempla+AOc-ant les tubes +AOA- vide peu fiables. Les transistors sont peu encombrants, fiables, bon march+AOk- et consomment peu d'+AOk-nergie. Ils peuvent servir d'amplificateurs ou de commutateurs. Dans ce second cas, ils sont +AOA- la base des circuits logiques. La jonction de deux transistors correspond +AOA- des circuits astables et bistables, qui sont les modules de syst+AOg-mes +AOk-lectroniques d'aujourd'hui.
+     
+     Tree:Arbre
+      A non-linear method of storing data in a computer. One piece of data relates to several other pieces and each one of these then relates to more, thus resembling a tree structure.
+      M+AOk-thode non lin+AOk-aire pour stocker des donn+AOk-es dans un ordinateur. Une donn+AOk-e est li+AOk-e +AOA- plusieurs autres donn+AOk-es, et chacune de ces derni+AOg-res est +AOA- son tour li+AOk-e +AOA- beaucoup d'autres, cette organisation ressemblant ainsi +AOA- une structure arborescente.
+     
+     Truncation:Troncature
+      A method of reducing the number of significant figures in a number. Truncation, unlike rounding, involves their removal without any consideration of their value. For example: 56.79 would become 56.7 
+      M+AOk-thode de r+AOk-duction du nombre  de chiffres significatifs dans le nombre. La troncature, contrairement au proc+AOk-d+AOk- de l'arrondi, se fait sans tenir compte de la valeur des chiffres tronqu+AOk-s. Par exemple : 56,79 devient 56,7 .
+     
+     Truth table:Table de v+AOk-rit+AOk-
+       A table usually filled with 0s and 1s to show the changes carried out by logical operations such as AND, OR, XOR, and NOT. For example, an AND gate only gives an output of logical value 1 when all its inputs have a logical value of 1.
+                                      Input       Output
+                                      0   0             0
+                                      0   1             0                                      1   0             0                                      1   1             1
+       Table g+AOk-n+AOk-ralement compos+AOk-e de 0 et de 1 qui sert +AOA- indiquer les modifications qu'entra+AO4-nent les op+AOk-rations logiques telles que ET, OU, OU exclusif et NON. Par exemple, une porte ET ne donne en sortie la valeur logique 1 que lorsque toutes les entr+AOk-es ont pour valeur 1.
+     
+     Underflow:D+AOk-passement de capacit+AOk- n+AOk-gatif
+
+      The generation of a number, e.g. by division, which is too small, for the computer to store (the computer would store zero).
+      Production d'un nombre trop petit, par exemple lors d'une division, pour permettre +AOA- l'ordinateur de le m+AOk-moriser. L'ordinateur enregistrera z+AOk-ro.
+     
+     UNIX:UNIX
+       An operating system developed by Bell Laboratories with the object of improving software portability. The high-level language C was designed for use with it.
+       Syst+AOg-me d'exploitation d+AOk-velopp+AOk- par les Laboratoires Bell avec pour but d'am+AOk-liorer la portabilit+AOk- des logiciels. Le langage de haut niveau C fut cr+AOkA6Q- pour +AOo-tre utilis+AOk- sous UNIX.
+     
+     Update:Mise +AOA- jour
+      The process of changing a file or program package so as to bring it up to date. This would include additions of new data, changes in data already held and alterations to the program to remove errors which have been found. The latter is sometimes called a patch.
+      Proc+AOk-d+AOk- qui consiste +AOA- modifier un fichier ou un logiciel donn+AOk- afin de le mettre +AOA- jour. On peut soit rajouter de nouvelles donn+AOk-es, soit changer les donn+AOk-es existantes, soit modifier le logiciel afin que les erreurs av+AOk-r+AOk-es soient +AOk-limin+AOk-es. Dans ce dernier cas, on parle parfois de patch (+AOk-quivalents fran+AOc-ais propos+AOk-s : rustine, colmatage).
+     
+     Upgrade:Mise +AOA- niveau 
+        The improvement of a piece of hardware, firmware or software, often an option given to the purchaser which can be taken up at a later time.
+       Am+AOk-lioration du mat+AOk-riel, ou de logiciels souvent sous forme d'option offerte +AOA- l'acheteur pour l'avenir.
+     
+     Upload:T+AOk-l+AOk-charger (en mode +AOk-mission)
+      The sending of data from a small machine to a larger one.
+      Envoyer des donn+AOk-es d'un micro-ordinateur vers un autre ordinateur (en g+AOk-n+AOk-ral un serveur). Exportation.
+     
+     URL:Adresse URL
+       (Uniform Resources Locator).This is the address given to every resource on the internet which specifies the files or data and its location.
+      Adresse donn+AOk-e +AOA- toutes les ressources d'Internet sp+AOk-cifiant les fichiers ou les donn+AOk-es et leur emplacement.
+     
+     User group:Groupe d'usagers
+       A group of people who meet or correspond regularly because of their interest in a particular machine or suite of programs.
+       Groupe de personnes qui se r+AOk-unissent ou correspondent r+AOk-guli+AOg-rement parce qu'ils partagent le m+AOo-me int+AOk-r+AOo-t pour une machine donn+AOk-e (ex : Macinstosh) ou pour un ensemble de programmes.
+     
+     Utility program:Utilitaire
+       Programs designed to assist an operator to perform particular tasks such as listing a file held on magnetic tape or disk, or copying data from one disk to another prior to a program run.
+       Programme con+AOc-u pour aider un op+AOk-rateur +AOA- r+AOk-aliser des t+AOI-ches donn+AOk-es telles que lister un fichier contenu sur un disque ou copier des donn+AOk-es d'un disque sur un autre avant l'ex+AOk-cution d'un programme.
+     
+     Validation:Validation
+      A check to ensure that data is sensible and accurate, as mistakes can be made during the collection, inputting or transferring of data. Validity checks do not totally eliminate mistakes, but they make it difficult for wrong data to get through to the computer or its peripherals. Validity checks include hash total, check digit, range checks, checks on strings...
+      Contr+APQ-le pour s'assurer que les donn+AOk-es sont conformes et correctes car des erreurs peuvent se produire durant la saisie ou la transmission. Les contr+APQ-les de validit+AOk- n'+AOk-liminent pas compl+AOg-tement les erreurs, mais elles rendent plus difficiles le transfert de donn+AOk-es erron+AOk-es +AOA- l'ordinateur ou +AOA- ses p+AOk-riph+AOk-riques. Les contr+APQ-les de validit+AOk- comprennent la somme de contr+APQ-le, la cl+AOk- de contr+APQ-le, le contr+APQ-le des limites, le contr+APQ-le sur les cha+AO4-nes...
+     
+     Variable:Variable
+        Anything that can change or vary, but for computers a variable is usually a numerical value or a text string that has been defined as a variable. To enable the speedy accessing of such data, different programming languages have adopted their own methods of labelling variables. This enables the operating system to reserve sections of memory for storing variables, and then knowing the address of their location, to give immediate access.
+       Tout ce qui peut changer ou varier. En informatique, il s'agit d'une valeur num+AOk-rique ou d'une cha+AO4-ne de caract+AOg-res qui est d+AOk-finie en tant que variable. Pour permettre un acc+AOg-s rapide aux variables, diff+AOk-rents langages de programmation ont adopt+AOk- diff+AOk-rentes m+AOk-thodes pour les identifier, ceci afin que le syst+AOg-me d'exploitation r+AOk-serve des sections de m+AOk-moire pour les stocker, et par l+AOA- m+AOo-me en connaissant l'adresse de leur emplacement, puisse leur donner un acc+AOg-s imm+AOk-diat.
+     
+     Verification:V+AOk-rification
+      A check that something has been accurately typed and transmitted. It is the job of the inputter to type accurately what is before him or her, but mistakes can be made. Using paper methods, a second copy (after transfer) is keyed and compared to the first one (before transfer). The comparison will show if data has been corrupted during transmission.
+      Contr+APQ-le qu'une donn+AOk-e a +AOk-t+AOk- correctement tap+AOk-e et transmise. C'est le travail de l'op+AOk-rateur de taper correctement ce qui est devant lui, mais des erreurs peuvent se produire. En utilisant la m+AOk-thode papier, une deuxi+AOg-me copie est tap+AOk-e (copie apr+AOg-s le transfert) et est compar+AOk-e +AOA- la premi+AOg-re (copie avant le transfert). La comparaison des deux copies r+AOk-v+AOk-lera si les donn+AOk-es ont +AOk-t+AOk- d+AOk-t+AOk-rior+AOk-es pendant la transmission.
+     
+     Video conference:Vid+AOk-o conf+AOk-rence
+      A discussion between two or more groups of people who are in different places but can see and hear each other. Pictures and sound are carried by the telecommunication network and such conferences take place across the world using satellites.
+      Discussion entre deux ou plusieurs groupes de personnes qui ne se trouvent pas au m+AOo-me endroit mais qui peuvent se voir et s'entendre. Les images et le son sont transmis par les r+AOk-seaux de t+AOk-l+AOk-communications et de telles conf+AOk-rences se d+AOk-roulent dans le monde gr+AOI-ce aux satellites.
+     
+     Virtual memory:M+AOk-moire virtuelle
+        Simulating more memory than actually exists, allowing the computer to run larger programs or more programs concurrently. It breaks up the program into small segments, called 'pages' and brings as many pages into memory that fit into a reserved area for that program. When additional pages are required, it makes room for them by swapping them to disk. It keeps track of pages that have been modified, so that they can be retrieved when needed again.
+        Simulation de l'existence de plus de m+AOk-moire qu'il n'en n'existe r+AOk-ellement, afin de faire tourner des programmes plus gourmands en m+AOk-moire ou plus de programmes en m+AOo-me temps. On segmente le programme en petits modules appel+AOk-s +ACI-pages+ACI- et  on place autant de pages qu'il est possible dans la partie de la m+AOk-moire r+AOk-serv+AOk-e par ce programme. Quand d'autres pages sont n+AOk-cessaires, on fait de la place  en les mettant sur le disque et on garde la trace  des pages modifi+AOk-es afin de les rappeler lorsque cela est n+AOk-cessaire.
+     
+     Virus:Virus
+      A routine introduced into a program that, when activated, produces unwanted results that can range from displaying messages on the screen to the partial or total corruption of programs and data. It is so called because the 'infection' can spread from one disk to another, even across machines.
+      Sous-programme introduit dans un programme qui lorsqu'il est activ+AOk-, produit des r+AOk-sultats non d+AOk-sir+AOk-s qui peuvent aller de l'affichage de messages +AOA- l'+AOk-cran +AOA- la corruption partielle ou totale des programmes et des donn+AOk-es. On l'appelle ainsi car +ACI-l'infection+ACI- peut se propager d'un disque +AOA- l'autre, ou d'un ordinateur +AOA- l'autre.
+     
+     Visual Display Unit:Unit+AOk- d'affichage
+       A device, like a television set, used to display the output from a computer. It is very similar to a monitor except that it is usually associated with a keyboard and is often used as a terminal to a computer, sometimes from a distance.
+       P+AOk-riph+AOk-rique, semblable +AOA- un t+AOk-l+AOk-viseur, utilis+AOk- pour afficher les donn+AOk-es de sortie d'un l'ordinateur. Il ressemble beaucoup +AOA- un moniteur, sauf qu'il est d'habitude associ+AOk- +AOA- un clavier et est souvent utilis+AOk- comme terminal d'ordinateur, parfois +AOA- distance.
+     
+     Voice input:Saisie vocale
+      Data or commands entered by the spoken word instead of with a keyboard or other device. This can only be done with equipment using speech recognition techniques.
+      Donn+AOk-es ou ordres entr+AOk-s en utilisant la voix +AOA- la place du clavier ou de tout autre p+AOk-riph+AOk-rique. Ceci ne peut +AOo-tre fait qu'avec un +AOk-quipement utilisant les techniques de reconnaissance vocale. 
+     
+     Volatile memory:M+AOk-moire volatile
+        All types of memory which lose their stored data as soon as the power is switched off+ADs- for instance, RAM and cache memory are volatile whereas magnetic disk and optical disk are not.
+     
+     
+        Tous les types de m+AOk-moire qui perdent leurs donn+AOk-es enregistr+AOk-es d+AOg-s que l'alimentation est coup+AOk-e +ADs- par exemple, la RAM et la m+AOk-moire cache sont volatiles alors que les disques magn+AOk-tiques et optiques ne le sont pas.
+     
+     Wafer:Tranche de silicium
+        A thin slice cut from a large crystal of germanium or silicon, first used in the mid 1950s, to make transistors which led to the integrated circuit or chip in 1959.
+       Fine tranche d+AOk-coup+AOk-e dans un cristal de germanium ou de silicium, qui fut utilis+AOk-e pour la premi+AOg-re fois vers 1955 pour fabriquer les transistors, ce qui a permis l'existence des circuits int+AOk-gr+AOk-s ou puces en 1959.
+     
+     Web directory:Annuaire de pages web
+      A large directory of web sites and pages connected by hyperlinks and structured in a hierarchical way so that the user can search the internet.
+      Annuaire de sites et de pages Web connect+AOk-s par des liens hypertextuels et structur+AOk-s de fa+AOc-on hi+AOk-rarchique pour que l'utilisateur puisse chercher sur Internet.
+     
+     WIMP environment:WIMP
+        (Windows Icons Mouse Pointer). A set of integrated programs which provide an interface between the user, the operating system, and application programs.
+       (Fen+AOo-tre, Ic+APQ-ne, Souris, Pointeur). Ensemble de programmes qui pr+AOk-voient une interface entre l'utilisateur, le syst+AOg-me d'exploitation, et les applications.
+     
+     Window:Fen+AOo-tre
+        An area on a computer screen which is showing a particular display.
+       Zone de l'+AOk-cran d'un ordinateur qui affiche un ensemble d'informations.
+     
+     Wireless technology:Technologie sans fil
+      Use of a network in which radio waves transmit data from site to site between fixed antennae and can include links for mobile users, with laptop computers for example.
+     Utilisation d'un r+AOk-seau dans lequel les ondes radio transmettent les donn+AOk-es d'un site +AOA- un autre entre antennes fixes et qui peut inclure des liaisons pour des utilisateurs mobiles, avec des ordinateurs portables par exemple.
+     
+     Word:Mot
+       The set of binary digits that fills one location in a computer's memory, and hence the maximum number that can be treated by the computer as a single unit for processing and parallel transmission. 8-bit words require 8 wires+ADs- 16-bit words require 16 wires and so on. The length of a word depends on a particular computer but is made up of bytes which in turn are made up of bits. The longer the word, the more quickly the CPU can work, but longer words require more complex integrated circuits.
+       Ensemble des chiffres binaires qui  remplissent un emplacement m+AOk-moire de l'ordinateur, et donc, le nombre maximum qui peut +AOo-tre ex+AOk-cut+AOk- par l'ordinateur comme une seule unit+AOk- de traitement et de transmission parall+AOg-le. Des mots de 8 bits requi+AOg-rent 8 fils+ADs- des mots de 16 bits en requi+AOg-rent 16 et ainsi de suite. La longueur d'un mot d+AOk-pend d'un ordinateur donn+AOk- mais est constitu+AOk- d'octets qui sont eux-m+AOo-mes constitu+AOk-s de bits. Plus le mot est long, plus rapide est l'unit+AOk- centrale, mais de longs mots n+AOk-cessitent des circuits int+AOk-gr+AOk-s plus complexes.
+     
+     Word processor:Traitement de texte
+      A software package specially used for the typing and production of letters, reports and documents.
+      Logiciel d+AOk-di+AOk- +AOA- l'+AOk-criture et +AOA- la production de lettres, rapports, documents divers.
+     
+     Workstation:Station de travail
+        The computer in today's modern office where one works at a desk having its own terminal connected to the company's computer network.
+       Ordinateur qui dans un bureau moderne est reli+AOk- au r+AOk-seau interne de la compagnie.
+     
+     Wrap:Retour automatique +AOA- la ligne
+      To break a line of text which is too long for the screen or printer. It is broken at the right hand edge and automatically carried over to the next line.
+      Action de sectionner une ligne de texte, trop longue pour +AOo-tre affich+AOk-e a l'+AOk-cran ou pour +AOo-tre imprim+AOk-e. Elle est coup+AOk-e +AOA- droite et la partie restante passe automatiquement +AOA- la ligne suivante.
+     
+     WWW:La Toile / le Web / R+AOk-seau mondial
+      +AFs-World Wide Web+AF0-. A widely distributed and dynamic multimedia information gallery on the internet which can be viewed through a browser and searched using a web directory or search engine. It is believed that there are more than 200 millions documents that can be retrieved through over a million servers.
+      Consid+AOk-rable mine d'informations dynamiques sur Internet qui peut +AOo-tre consult+AOk-e gr+AOI-ce +AOA- un navigateur et o+APk- l'on peut rechercher des informations en utilisant un moteur de recherche. On pense qu'il y aurait plus de 200 millions de documents (de pages) qui sont accessibles sur plus d'un million de serveurs.
+     
+     XHTML:XHTML
+     EXtensible Hypertext Markup Language. Like HTML, this is a programming language that is used to create web pages, but is particularly suited for e-commerce as it has advanced data handling capacities.
+     Langage de programmation, semblable au HTML, utilis+AOk- pour la cr+AOk-ation de pages Web, mais qui est surtout adapt+AOk- au commerce +AOk-lectronique en raison de ses capacit+AOk-s sup+AOk-rieures pour le  traitement de donn+AOk-es.
+     
