@@ -1,0 +1,40 @@
+{
+  "name": "english-grammar",
+  "version": "1.0.0",
+  "description": "Interactive English Grammar Exercises",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-builder --win --x64",
+    "build:dir": "electron-builder --win --x64 --dir"
+  },
+  "build": {
+    "appId": "com.english-grammar.app",
+    "productName": "English Grammar",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "index.html",
+      "main.js",
+      "preload.js",
+      "styles/**",
+      "js/**",
+      "images/**"
+    ],
+    "win": {
+      "target": "nsis"
+    },
+    "linux": {
+      "target": "zip"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^34.5.8",
+    "electron-builder": "^25.1.8"
+  }
+}
