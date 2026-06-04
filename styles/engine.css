@@ -375,3 +375,105 @@
 .score-extra { font-size: 13px; font-weight: 600; }
 .score-extra--ok  { color: var(--correct-bdr); }
 .score-extra--bad { color: var(--wrong-bdr); }
+
+/* ── SORT EXERCISE (London Towers) ───────────────────────────────── */
+.ex-sort-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.ex-sort-columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.ex-sort-col {
+  background: var(--white);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  cursor: default;
+  transition: border-color .15s, background .15s;
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.ex-sort-col.col-ready {
+  border-color: var(--blue);
+  border-style: dashed;
+  cursor: pointer;
+}
+.ex-sort-col.col-ready:hover { background: var(--blue-light); }
+.ex-sort-col.wrong-flash {
+  border-color: var(--wrong-bdr) !important;
+  background: var(--wrong-bg) !important;
+  border-style: solid !important;
+}
+.ex-sort-col-label {
+  font-family: var(--font-head);
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--blue);
+  text-align: center;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--blue-mid);
+  flex-shrink: 0;
+}
+.ex-sort-col-items {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.ex-sort-placed {
+  background: var(--blue-light);
+  border: 1.5px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--blue-dark);
+  text-align: center;
+}
+.ex-sort-bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 14px 16px;
+  background: var(--bg);
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  min-height: 54px;
+  align-content: flex-start;
+}
+.ex-sort-bank-empty {
+  color: var(--text-muted);
+  font-size: 13px;
+  font-style: italic;
+}
+.ex-sort-word {
+  padding: 7px 14px;
+  border-radius: var(--radius);
+  border: 1.5px solid var(--border);
+  background: var(--white);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all .15s;
+  user-select: none;
+}
+.ex-sort-word:hover { border-color: var(--blue); color: var(--blue); background: var(--blue-light); }
+.ex-sort-word.selected {
+  border-color: var(--blue);
+  background: var(--blue);
+  color: var(--white);
+  font-weight: 600;
+}
+.ex-sort-status {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 4px;
+}
+.ex-sort-errors { color: var(--wrong-bdr) !important; }

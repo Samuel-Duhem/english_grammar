@@ -44,6 +44,12 @@ const COURSES = [
         tags: ['test', 'révision', 'prétérit', 'present perfect', 'past perfect'],
         init: initBigTest,
       },
+      {
+        title: 'LONDON TOWERS',
+        desc: 'Classez 15 verbes réguliers selon la prononciation de leur terminaison -ed : [t], [d] ou [id].',
+        tags: ['prononciation', '-ed', '[t]', '[d]', '[id]', 'classification'],
+        init: initLondonTowers,
+      },
     ],
   },
   {

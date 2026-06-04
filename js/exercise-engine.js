@@ -823,3 +823,94 @@ function runTest(container, { unit, title, sentences, lexicon, irregVerbs, tense
 
   init();
 }
+
+// ── SORT (classify items into N categories) ───────────────────────────────────
+// items: [{ word, category }]   categories: [{ id, label }]
+function runSort(container, { unit, title, items, categories, help, onBack }) {
+  container.innerHTML = '';
+  const hs = { open: !!help };
+  buildExHdr(container, unit, title, onBack, help ? () => {
+    hs.open = !hs.open;
+    const el = body.querySelector('#ex-help');
+    if (el) el.style.display = hs.open ? '' : 'none';
+  } : null);
+
+  const body = document.createElement('div');
+  body.className = 'ex-body';
+  container.appendChild(body);
+
+  const shuffled = exShuffle([...items]);
+  const placed = {};
+  let errors = 0;
+  let selected = null;
+
+  function render() {
+    const remaining = shuffled.filter(it => !placed[it.word]);
+    const allPlaced = remaining.length === 0;
+
+    body.innerHTML = `
+      ${exHelpHtml(help, hs.open)}
+      <div class="ex-sort-layout">
+        <div class="ex-sort-columns">
+          ${categories.map(cat => `
+            <div class="ex-sort-col${selected ? ' col-ready' : ''}" data-cat="${exEsc(cat.id)}">
+              <div class="ex-sort-col-label">${exEsc(cat.label)}</div>
+              <div class="ex-sort-col-items">
+                ${shuffled.filter(it => placed[it.word] === cat.id)
+                  .map(it => `<div class="ex-sort-placed">${exEsc(it.word)}</div>`)
+                  .join('')}
+              </div>
+            </div>`).join('')}
+        </div>
+        <div class="ex-sort-bank">
+          ${remaining.length
+            ? remaining.map(it => `<div class="ex-sort-word${selected === it.word ? ' selected' : ''}" data-word="${exEsc(it.word)}">${exEsc(it.word)}</div>`).join('')
+            : '<span class="ex-sort-bank-empty">Tous les verbes ont été placés</span>'}
+        </div>
+      </div>
+      <div class="ex-sort-status">
+        <span class="ex-q-label">${Object.keys(placed).length}/${items.length} placés</span>
+        ${errors ? `<span class="ex-q-label ex-sort-errors">${errors} erreur${errors !== 1 ? 's' : ''}</span>` : ''}
+      </div>
+      <button class="ex-next-btn${allPlaced ? ' visible' : ''}" id="ex-next">Voir résultat →</button>`;
+
+    exHelpBind(body, hs);
+
+    body.querySelectorAll('.ex-sort-word').forEach(el => {
+      el.addEventListener('click', () => {
+        selected = selected === el.dataset.word ? null : el.dataset.word;
+        render();
+      });
+    });
+
+    body.querySelectorAll('.ex-sort-col').forEach(el => {
+      el.addEventListener('click', () => {
+        if (!selected) return;
+        const cat = el.dataset.cat;
+        const item = items.find(it => it.word === selected);
+        if (item.category === cat) {
+          placed[selected] = cat;
+          selected = null;
+          render();
+        } else {
+          errors++;
+          el.classList.add('wrong-flash');
+          setTimeout(() => render(), 600);
+        }
+      });
+    });
+
+    body.querySelector('#ex-next')?.addEventListener('click', () => {
+      const extra = errors === 0
+        ? { text: 'Aucune erreur !', ok: true }
+        : { text: `${errors} erreur${errors !== 1 ? 's' : ''}`, ok: false };
+      showExScore(body, Math.max(0, items.length - errors), items.length, onBack, () => {
+        Object.keys(placed).forEach(k => delete placed[k]);
+        errors = 0;
+        selected = null;
+        render();
+      }, extra);
+    });
+  }
+  render();
+}
