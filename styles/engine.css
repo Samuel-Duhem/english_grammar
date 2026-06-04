@@ -1,0 +1,377 @@
+/* ── HELP PANEL (inside exercise body) ──────────────────────────── */
+.ex-help {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--blue-light);
+  border: 1.5px solid var(--blue-mid);
+  border-left: 4px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-bottom: 20px;
+  flex-shrink: 0;
+}
+.ex-help-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--blue);
+  color: var(--white);
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.ex-help-text {
+  flex: 1;
+  font-size: 13px;
+  color: var(--text);
+  line-height: 1.6;
+}
+.ex-help-close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 700;
+  flex-shrink: 0;
+  padding: 0 2px;
+  line-height: 1;
+  transition: color .12s;
+}
+.ex-help-close:hover { color: var(--text); }
+
+/* ── EXERCISE BODY ───────────────────────────────────────────────── */
+.ex-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 28px 36px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── PROGRESS BAR ────────────────────────────────────────────────── */
+.ex-progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+.ex-progress-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.ex-progress-fill {
+  height: 100%;
+  background: var(--blue);
+  border-radius: 3px;
+  transition: width .35s ease;
+}
+.ex-q-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  flex-shrink: 0;
+}
+
+/* ── QUESTION TEXT ───────────────────────────────────────────────── */
+.ex-question {
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--text);
+  margin-bottom: 22px;
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+/* ── MCQ OPTIONS ─────────────────────────────────────────────────── */
+.ex-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.ex-option {
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 18px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1.5;
+  transition: border-color .15s, background .15s;
+  user-select: none;
+}
+.ex-option:hover:not(.disabled) {
+  border-color: var(--blue);
+  background: var(--blue-light);
+}
+.ex-option.correct {
+  border-color: var(--correct-bdr);
+  background: var(--correct-bg);
+  color: var(--correct-txt);
+  font-weight: 600;
+}
+.ex-option.wrong {
+  border-color: var(--wrong-bdr);
+  background: var(--wrong-bg);
+  color: var(--wrong-txt);
+}
+.ex-option.disabled { cursor: default; }
+
+/* ── FILL BLANK ──────────────────────────────────────────────────── */
+.ex-sentence {
+  font-size: 17px;
+  line-height: 2;
+  color: var(--text);
+  margin-bottom: 20px;
+}
+.ex-blank {
+  display: inline-block;
+  min-width: 80px;
+  border-bottom: 2.5px solid var(--blue);
+  padding: 1px 8px;
+  font-weight: 600;
+  color: var(--blue);
+  text-align: center;
+  border-radius: 3px 3px 0 0;
+  transition: background .15s;
+}
+.ex-blank.filled { background: var(--blue-light); }
+.ex-blank.correct {
+  border-color: var(--correct-bdr);
+  background: var(--correct-bg);
+  color: var(--correct-txt);
+}
+.ex-blank.wrong {
+  border-color: var(--wrong-bdr);
+  background: var(--wrong-bg);
+  color: var(--wrong-txt);
+}
+.ex-hint {
+  font-size: 12px;
+  color: var(--correct-txt);
+  background: var(--correct-bg);
+  border-left: 3px solid var(--correct-bdr);
+  padding: 6px 10px;
+  margin-top: 8px;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── WORD BANK ───────────────────────────────────────────────────── */
+.ex-word-bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+.ex-word {
+  padding: 7px 16px;
+  border-radius: var(--radius);
+  border: 1.5px solid var(--blue);
+  color: var(--blue);
+  background: var(--white);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .15s, border-color .15s;
+  user-select: none;
+}
+.ex-word:hover { background: var(--blue-light); }
+.ex-word.correct {
+  border-color: var(--correct-bdr);
+  background: var(--correct-bg);
+  color: var(--correct-txt);
+  pointer-events: none;
+}
+.ex-word.wrong {
+  border-color: var(--wrong-bdr);
+  background: var(--wrong-bg);
+  color: var(--wrong-txt);
+  pointer-events: none;
+}
+
+/* ── MATCHING ────────────────────────────────────────────────────── */
+.ex-match-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 20px;
+  margin-bottom: 8px;
+}
+.ex-match-col { display: flex; flex-direction: column; gap: 8px; }
+.ex-match-item {
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.45;
+  transition: border-color .15s, background .15s;
+  user-select: none;
+}
+.ex-match-item:hover:not(.matched) { border-color: var(--blue); }
+.ex-match-item.selected {
+  border-color: var(--blue);
+  background: var(--blue-light);
+}
+.ex-match-item.matched {
+  border-color: var(--correct-bdr);
+  background: var(--correct-bg);
+  color: var(--correct-txt);
+  cursor: default;
+}
+.ex-match-item.wrong {
+  border-color: var(--wrong-bdr);
+  background: var(--wrong-bg);
+  color: var(--wrong-txt);
+}
+
+/* ── ORDERING ────────────────────────────────────────────────────── */
+.ex-order-instructions {
+  font-size: 13px;
+  color: var(--text-sub);
+  margin-bottom: 16px;
+  font-style: italic;
+}
+.ex-order-slots {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+.ex-order-slot {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--bg);
+  border: 1.5px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  min-height: 44px;
+  font-size: 13px;
+}
+.ex-order-slot.correct { border-color: var(--correct-bdr); background: var(--correct-bg); color: var(--correct-txt); border-style: solid; }
+.ex-order-slot.wrong { border-color: var(--wrong-bdr); background: var(--wrong-bg); color: var(--wrong-txt); border-style: solid; }
+.ex-order-num {
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--text-muted);
+  min-width: 18px;
+  flex-shrink: 0;
+}
+.ex-order-item {
+  background: var(--white);
+  border: 1.5px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--blue);
+  font-weight: 500;
+  transition: background .15s;
+}
+.ex-order-item:hover { background: var(--blue-light); }
+
+/* ── NEXT BUTTON ─────────────────────────────────────────────────── */
+.ex-next-btn {
+  display: none;
+  margin-top: 18px;
+  padding: 10px 26px;
+  background: var(--blue);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  font-family: var(--font);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: background .15s;
+}
+.ex-next-btn.visible { display: inline-block; }
+.ex-next-btn:hover { background: var(--blue-dark); }
+
+/* ── COUNTABLE/UNCOUNTABLE DISPLAY ───────────────────────────────── */
+.ex-term-display {
+  font-family: var(--font-head);
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--blue);
+  text-align: center;
+  padding: 24px 16px;
+  margin-bottom: 20px;
+  background: var(--blue-light);
+  border-radius: 8px;
+  letter-spacing: 1px;
+}
+
+/* ── SCORE SCREEN ────────────────────────────────────────────────── */
+.ex-score-screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  text-align: center;
+}
+.score-circle {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 6px solid var(--blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--blue);
+  font-family: var(--font-head);
+}
+.score-msg {
+  font-family: var(--font-head);
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text);
+}
+.score-detail { font-size: 14px; color: var(--text-sub); }
+
+/* ── MCQ ANSWER FEEDBACK ─────────────────────────────────────────── */
+.ex-feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--blue-light);
+  border: 1.5px solid var(--blue-mid);
+  border-left: 4px solid var(--blue);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  margin-top: 10px;
+}
+.ex-feedback-en {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 14px;
+  color: var(--text);
+  font-weight: 600;
+}
+.ex-feedback-why {
+  font-size: 12px;
+  color: var(--text-sub);
+}
+
+.score-extra { font-size: 13px; font-weight: 600; }
+.score-extra--ok  { color: var(--correct-bdr); }
+.score-extra--bad { color: var(--wrong-bdr); }

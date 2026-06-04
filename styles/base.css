@@ -1,0 +1,44 @@
+/* ── GOOGLE FONTS ─────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Raleway:wght@300;400;500;600;700&display=swap');
+
+/* ── RESET & BASE ─────────────────────────────────────────────────── */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --blue:       #006489;
+  --blue-dark:  #004f6e;
+  --blue-light: #e0f0f5;
+  --blue-mid:   #b8d8e5;
+  --bg:         #f5f7fa;
+  --white:      #ffffff;
+  --text:       #1a2a3a;
+  --text-sub:   #5a6a7a;
+  --text-muted: #8a9aaa;
+  --border:     #c8d8e8;
+  --correct-bg: #e8f5e9;
+  --correct-bdr:#2e7d32;
+  --correct-txt:#1b5e20;
+  --wrong-bg:   #ffebee;
+  --wrong-bdr:  #c62828;
+  --wrong-txt:  #b71c1c;
+  --font:       'Lato', sans-serif;
+  --font-title: 'Kaushan Script', cursive;
+  --font-head:  'Raleway', sans-serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
+  --radius:     6px;
+  --nav-h:      0px;
+}
+
+body {
+  font-family: var(--font);
+  font-weight: 300;
+  background: var(--bg);
+  min-height: 100vh;
+  font-size: 15px;
+  color: #58585a;
+}
+
+/* ── VIEWS (routing) ─────────────────────────────────────────────── */
+.view { display: none; }
+.view.active { display: flex; flex-direction: column; height: calc(100vh - var(--nav-h)); }
+#view-exercise { background: var(--bg); }

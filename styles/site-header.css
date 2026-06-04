@@ -1,0 +1,129 @@
+/* ── SITE HEADER (nav bar — retirer lors de l'intégration WordPress) ── */
+.site-header {
+  background: var(--white);
+  box-shadow: 0 2px 6px rgba(0,0,0,.1);
+  position: sticky;
+  top: 0;
+  z-index: 200;
+}
+
+.site-header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Brand strip */
+.brand-strip {
+  padding: 27px 24px 23px;
+  border-bottom: 1px solid var(--border);
+  min-height: 91px;
+  display: flex;
+  align-items: center;
+}
+
+.site-brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  text-decoration: none;
+}
+
+.site-logo {
+  height: 50px;
+  width: auto;
+  display: block;
+}
+
+.site-brand-name {
+  font-family: var(--font-title);
+  font-size: 44px;
+  line-height: 40px;
+  color: var(--blue);
+  text-decoration: none;
+  margin: auto 0;
+}
+
+.site-brand-name strong {
+  font-weight: 400;
+}
+
+/* Nav strip */
+.nav-strip {
+  background: var(--blue);
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0 24px;
+}
+
+.nav-menu > li {
+  position: relative;
+}
+
+.nav-menu > li > a {
+  display: block;
+  padding: 10px 15px;
+  color: var(--white);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background .15s;
+}
+
+.nav-menu > li > a:hover,
+.nav-menu > li:hover > a {
+  background: var(--blue-dark);
+}
+
+.nav-menu > li > a.nav-active {
+  background: var(--blue-dark);
+  font-weight: 700;
+}
+
+/* Dropdown */
+.sub-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--blue);
+  min-width: 250px;
+  list-style: none;
+  box-shadow: 0 4px 14px rgba(0,0,0,.12);
+  z-index: 300;
+}
+
+.has-sub:hover .sub-menu {
+  display: block;
+}
+
+.sub-menu li a {
+  display: block;
+  padding: 9px 18px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 13px;
+  border-bottom: 1px solid var(--blue-light);
+  transition: background .12s, color .12s;
+}
+
+.sub-menu li:last-child a {
+  border-bottom: none;
+}
+
+.sub-menu li a:hover {
+  background: var(--blue-light);
+  color: var(--blue);
+}
+
+.sub-menu li.current-page a {
+  color: var(--blue);
+  font-weight: 700;
+  background: var(--blue-light);
+}

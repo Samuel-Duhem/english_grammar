@@ -1,0 +1,12 @@
+/* ── PRINT ───────────────────────────────────────────────────────── */
+@media print {
+  @page { margin: 14mm; }
+  /* Hide everything, show only the print sheet */
+  body > *:not(.test-print-sheet) { display: none !important; }
+  .test-print-sheet { display: block !important; }
+  /* Colours preserved */
+  .tps-slabel, .tps-id-box, .tps-legend, .tps-box {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
