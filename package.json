@@ -2,6 +2,7 @@
   "name": "english-grammar",
   "version": "1.0.0",
   "description": "Interactive English Grammar Exercises",
+  "author": "Samuel DUHEM, Chady BOUZIDA",
   "main": "main.js",
   "scripts": {
     "start": "electron .",

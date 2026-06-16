@@ -1,5 +1,4 @@
-
-dist/__appImage-x64/english-grammar
-dist/linux-unpacked/english-grammar
-dist/win-unpacked/English Grammar.exe
-captures
+node_modules/
+dist/
+captures/
+moodle_content/
