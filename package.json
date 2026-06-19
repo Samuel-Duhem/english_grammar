@@ -16,7 +16,7 @@
       "output": "dist"
     },
     "files": [
-      "index.html",
+      "*.html",
       "main.js",
       "preload.js",
       "styles/**",

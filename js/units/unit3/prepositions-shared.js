@@ -1,3 +1,8 @@
+// ── PRÉPOSITIONS — Moteur interactif partagé ──────────────────────────────────
+// Machinerie commune aux 3 exercices interactifs (LIEU / MOUVEMENT / PHRASES).
+// Les données de chaque exercice sont dans 1-lieu.js, 2-mouvement.js, 3-phrases.js
+// qui appellent initPrepositionsExercise(container, data, onBack).
+
 // ── SVG HELPERS ───────────────────────────────────────────────────────────────
 function monitor(x, y, w) {
   const h = Math.round(w * 0.72), bdr = Math.round(w * 0.07), chin = Math.round(w * 0.13),
@@ -78,75 +83,13 @@ const SC = {
   },
 };
 
-// ── EXERCISE DATA ─────────────────────────────────────────────────────────────
-const PREP_DATA = {
-  place: {
-    items: [
-      { id: 1,  label: "The mouse is ___ the computer.",  answer: "next to" },
-      { id: 2,  label: "The mouse is ___ the computer.",  answer: "on" },
-      { id: 3,  label: "The mouse is ___ the computer.",  answer: "in front of" },
-      { id: 4,  label: "The mouse is ___ the computer.",  answer: "under" },
-      { id: 5,  label: "The mouse is ___ the computers.", answer: "between" },
-      { id: 6,  label: "The mouse is ___ the others.",    answer: "among" },
-      { id: 7,  label: "The mouse is ___ the computer.",  answer: "behind" },
-      { id: 8,  label: "The mouse is ___ the computer.",  answer: "far from" },
-      { id: 9,  label: "The mouse is ___ the tower.",     answer: "above" },
-      { id: 10, label: "The mouse is ___ the computer.",  answer: "in" },
-    ],
-    opts: ["under (below)", "next to (beside)", "far from", "between", "behind", "in (inside)", "on (on top of)", "in front of", "above", "among"],
-    map: {
-      "under (below)": "under", "next to (beside)": "next to", "far from": "far from",
-      "between": "between", "behind": "behind", "in (inside)": "in",
-      "on (on top of)": "on", "in front of": "in front of", "above": "above", "among": "among"
-    },
-    inst: "Faites glisser la bonne préposition sur le dessin correspondant."
-  },
-  movement: {
-    items: [
-      { id: 1, label: "The mouse goes ___ the computer.", answer: "around" },
-      { id: 2, label: "The mouse goes ___ the computer.", answer: "to (towards)" },
-      { id: 3, label: "The mouse goes ___ the computer.", answer: "past" },
-      { id: 4, label: "The mouse goes ___ the computer.", answer: "away from" },
-      { id: 5, label: "The mouse goes ___ the screen.",   answer: "over" },
-      { id: 6, label: "The mouse goes ___ the computer.", answer: "through" },
-      { id: 7, label: "The mouse goes ___ the line.",     answer: "along" },
-      { id: 8, label: "The objects go ___ each other.",   answer: "across" },
-    ],
-    opts: ["over", "along", "away from", "across", "past", "through", "to (towards)", "around", "up", "down", "onto", "into", "out of"],
-    map: {},
-    inst: "Observez les flèches sur chaque dessin et glissez la bonne préposition de mouvement."
-  },
-  sentences: {
-    items: [
-      { id: 1,  parts: ["The cat is sleeping", "", "the sofa."],                                    answer: "on" },
-      { id: 2,  parts: ["She walked", "", "the tunnel from one end to the other."],                  answer: "through" },
-      { id: 3,  parts: ["The pharmacy is", "", "the bank and the supermarket."],                     answer: "between" },
-      { id: 4,  parts: ["He drove", "", "the speed camera without slowing down."],                   answer: "past" },
-      { id: 5,  parts: ["The plane was flying", "", "the clouds."],                                  answer: "above" },
-      { id: 6,  parts: ["The children ran", "", "the playground, laughing."],                        answer: "around" },
-      { id: 7,  parts: ["She jumped", "", "the swimming pool."],                                     answer: "into" },
-      { id: 8,  parts: ["He walked", "", "the street to reach the other side."],                     answer: "across" },
-      { id: 9,  parts: ["The keys are", "", "the table — look underneath!"],                         answer: "under" },
-      { id: 10, parts: ["The bird flew", "", "the window and landed on the sill."],                  answer: "towards" },
-      { id: 11, parts: ["London is", "", "England."],                                                answer: "in" },
-      { id: 12, parts: ["The bus stop is right", "", "the school entrance."],                        answer: "in front of" },
-    ],
-    opts: ["on", "through", "between", "past", "above", "around", "into", "across", "under", "towards", "in", "in front of", "next to", "away from", "over", "along"],
-    map: {},
-    inst: "Lisez chaque phrase et faites glisser la bonne préposition dans le blanc. Attention : lieu et mouvement sont mélangés !"
-  }
-};
-
-PREP_DATA.movement.opts.forEach(o => { PREP_DATA.movement.map[o] = o.split(' (')[0]; });
-PREP_DATA.sentences.opts.forEach(o => { PREP_DATA.sentences.map[o] = o; });
-
 // ── EXERCISE STATE ────────────────────────────────────────────────────────────
-let prepTab = 'place', prepAnswers = {}, prepAttempts = 0, prepLocked = {}, prepDragging = null;
+let prepData = null, prepAnswers = {}, prepAttempts = 0, prepLocked = {}, prepDragging = null;
 
-function prepD()           { return PREP_DATA[prepTab]; }
-function prepItems()       { return prepD().items; }
-function prepOpts()        { return prepD().opts; }
-function prepMap()         { return prepD().map; }
+function prepIsSentences() { return prepData.kind === 'sentences'; }
+function prepItems()       { return prepData.items; }
+function prepOpts()        { return prepData.opts; }
+function prepMap()         { return prepData.map; }
 function prepGetShort(opt) { if (!opt) return ''; const m = prepMap(); return m[opt] || opt.split(' (')[0]; }
 function prepGetOptForAnswer(ans) {
   for (const o of prepOpts()) { if ((prepMap()[o] || o) === ans) return o; }
@@ -155,7 +98,7 @@ function prepGetOptForAnswer(ans) {
 
 // ── RENDER ────────────────────────────────────────────────────────────────────
 function prepRender() {
-  prepTab === 'sentences' ? prepRenderSentences() : prepRenderGrid();
+  prepIsSentences() ? prepRenderSentences() : prepRenderGrid();
   prepRenderChips();
   prepRenderBtn();
 }
@@ -253,7 +196,7 @@ function prepRenderChips() {
   const used = new Set(Object.values(prepAnswers));
   const c = document.getElementById('chips');
   c.innerHTML = '';
-  const unlimited = (prepTab === 'sentences');
+  const unlimited = prepIsSentences();
   prepOpts().forEach(opt => {
     if (!unlimited && used.has(opt)) return;
     const ch = document.createElement('div');
@@ -302,7 +245,7 @@ function checkAnswers() {
   });
 
   wrong.forEach(id => {
-    const dzId = prepTab === 'sentences' ? 'sdz' + id : 'dz' + id;
+    const dzId = prepIsSentences() ? 'sdz' + id : 'dz' + id;
     const dz = document.getElementById(dzId);
     if (dz) { dz.classList.add('wzn'); setTimeout(() => dz.classList.remove('wzn'), 1400); }
     delete prepAnswers[id];
@@ -330,7 +273,7 @@ function checkAnswers() {
   prepRender();
 }
 
-// ── RESET / TAB SWITCH ────────────────────────────────────────────────────────
+// ── RESET ─────────────────────────────────────────────────────────────────────
 function resetAll() {
   prepAnswers = {}; prepLocked = {}; prepAttempts = 0;
   document.getElementById('sc').textContent = '';
@@ -338,45 +281,41 @@ function resetAll() {
   prepRender();
 }
 
-// ── INIT (called by app.js when exercise is opened) ───────────────────────────
-function initPrepositions(container, tab = 'place') {
-  prepTab = tab;
+// ── INIT — appelée par chaque fichier d'exercice (1-lieu / 2-mouvement / 3-phrases)
+function initPrepositionsExercise(container, data, onBack) {
+  prepData = data;
   prepAnswers = {};
   prepAttempts = 0;
   prepLocked = {};
   prepDragging = null;
 
-  container.innerHTML = `
-    <header class="hdr">
-      <div class="hdr-left">
-        <button class="back-btn" id="back-btn">← BACK</button>
-        <div>
-          <div class="ulabel">UNIT 3</div>
-          <h1>PREPOSITIONS</h1>
-        </div>
+  container.innerHTML = '';
+  // Header standard du moteur → même bouton « ← MENU » que les autres exercices.
+  buildExHdr(container, 'UNIT 3 — PRÉPOSITIONS', data.title, onBack);
+
+  const cnt = document.createElement('div');
+  cnt.className = 'cnt';
+  cnt.innerHTML = `
+    <div class="exercise-layout">
+      <div class="bank">
+        <div class="blabel">PRÉPOSITIONS</div>
+        <div class="chips" id="chips"></div>
       </div>
-      <div class="sub">English Grammar</div>
-    </header>
-    <div class="cnt">
-      <div class="exercise-layout">
-        <div class="bank">
-          <div class="blabel">PRÉPOSITIONS</div>
-          <div class="chips" id="chips"></div>
+      <div class="exercise-main">
+        <p class="inst" id="inst"></p>
+        <div class="btns">
+          <button class="bchk" id="bchk">CHECK ANSWERS</button>
+          <button class="brst" id="brst">RESET</button>
+          <span class="sc" id="sc"></span>
+          <span class="att" id="att"></span>
         </div>
-        <div class="exercise-main">
-          <p class="inst" id="inst"></p>
-          <div class="btns">
-            <button class="bchk" id="bchk" onclick="checkAnswers()">CHECK ANSWERS</button>
-            <button class="brst" onclick="resetAll()">RESET</button>
-            <span class="sc" id="sc"></span>
-            <span class="att" id="att"></span>
-          </div>
-          <div id="exercise-area"></div>
-        </div>
+        <div id="exercise-area"></div>
       </div>
     </div>`;
+  container.appendChild(cnt);
 
-  document.getElementById('back-btn').addEventListener('click', showMenu);
-  document.getElementById('inst').textContent = prepD().inst;
+  document.getElementById('bchk').addEventListener('click', checkAnswers);
+  document.getElementById('brst').addEventListener('click', resetAll);
+  document.getElementById('inst').textContent = data.inst;
   prepRender();
 }

@@ -9,7 +9,7 @@
 </head>
 <body>
 
-  <!-- ── MENU VIEW ──────────────────────────────────────────────────────────── -->
+  <!-- ── ACCUEIL : grille des unités (niveau 1) ──────────────────────────────── -->
   <div id="view-menu" class="view active">
     <header class="app-header">
       <div class="app-header-content">
@@ -17,24 +17,14 @@
         <div class="app-header-title" id="menu-header-title">EXERCICES</div>
         <div class="app-header-sub" id="menu-header-sub">Choisissez une unité</div>
       </div>
-      <button class="back-btn" id="menu-back-btn" style="display:none">← UNITÉS</button>
     </header>
     <main class="menu-main">
       <div id="menu-grid"></div>
     </main>
   </div>
 
-  <!-- ── EXERCISE VIEW ──────────────────────────────────────────────────────── -->
-  <div id="view-exercise" class="view"></div>
-
-  <!-- Scripts: engine first, then exercises, then prepositions, then app -->
-  <script src="js/exercise-engine.js"></script>
-  <script src="js/ex-tenses.js"></script>
-  <script src="js/ex-articles.js"></script>
-  <script src="js/ex-prepositions.js"></script>
-  <script src="js/ex-computer-parts.js"></script>
-  <script src="js/ex-terminology.js"></script>
-  <script src="js/prepositions.js"></script>
-  <script src="js/app.js"></script>
+  <!-- Scripts : index des unités, puis rendu de l'accueil -->
+  <script src="js/units-index.js"></script>
+  <script src="js/home.js"></script>
 </body>
 </html>

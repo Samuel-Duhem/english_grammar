@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 5 — Terminologie informatique</title>
+  <link rel="icon" type="image/png" href="images/cropped-globe-dans-la-main-transparent.png">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <!-- ── LISTE DES EXERCICES (niveau 2) ──────────────────────────────────────── -->
+  <div id="view-menu" class="view active">
+    <header class="app-header">
+      <div class="app-header-content">
+        <div class="app-header-label" id="menu-header-label"></div>
+        <div class="app-header-title" id="menu-header-title"></div>
+        <div class="app-header-sub" id="menu-header-sub"></div>
+      </div>
+      <a class="back-btn" href="index.html">← UNITÉS</a>
+    </header>
+    <main class="menu-main">
+      <div id="menu-grid"></div>
+    </main>
+  </div>
+
+  <!-- ── VUE EXERCICE (niveau 3, rendu JS) ───────────────────────────────────── -->
+  <div id="view-exercise" class="view"></div>
+
+  <!-- Scripts : engine → données partagées → exercices → data → bootstrap -->
+  <script src="js/exercise-engine.js"></script>
+  <script src="js/units/unit5/shared.js"></script>
+  <script src="js/units/unit5/1-terme-definition.js"></script>
+  <script src="js/units/unit5/2-quel-terme.js"></script>
+  <script src="js/units/unit5/data.js"></script>
+  <script src="js/menu.js"></script>
+</body>
+</html>

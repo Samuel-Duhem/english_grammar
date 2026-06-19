@@ -1,5 +1,6 @@
-// ── TERMINOLOGIE INFORMATIQUE ─────────────────────────────────────────────────
-// Content extracted from: 185-Computing_Terminology/Section_1/COL.txt
+// ── UNIT 5 — Données partagées (termes) ───────────────────────────────────────
+// Utilisées par les deux exercices. Content extracted from:
+// 185-Computing_Terminology/Section_1/COL.txt
 
 const TERMS = [
   { term: 'Abort', def: 'To stop the running of a computer program, usually when things go wrong.' },
@@ -50,38 +51,3 @@ const TERMS = [
   { term: 'Workstation', def: 'A computer in a modern office having its own terminal connected to the company\'s network.' },
   { term: 'WWW', def: 'World Wide Web — a widely distributed multimedia information resource on the internet, viewed through a browser.' },
 ];
-
-// Exercise 1: Match term → short definition (6 at a time)
-function initTermMatching(container, onBack) {
-  const subset = exShuffle([...TERMS]).slice(0, 6).map(t => ({
-    left: t.term,
-    right: t.def,
-  }));
-  runMatching(container, {
-    unit: 'UNIT 5 — TERMINOLOGIE',
-    title: 'TERME → DÉFINITION',
-    pairs: subset,
-    onBack,
-  });
-}
-
-// Exercise 2: MCQ — which term matches this definition?
-function initTermMCQ(container, onBack) {
-  const shuffled = exShuffle([...TERMS]);
-  const questions = shuffled.slice(0, 8).map((t, i) => {
-    const distractors = shuffled.filter((_, j) => j !== i).slice(0, 3);
-    return {
-      q: t.def,
-      options: exShuffle([
-        { text: t.term, correct: true },
-        ...distractors.map(d => ({ text: d.term, correct: false })),
-      ]),
-    };
-  });
-  runMCQ(container, {
-    unit: 'UNIT 5 — TERMINOLOGIE',
-    title: 'QUEL TERME ?',
-    questions,
-    onBack,
-  });
-}
