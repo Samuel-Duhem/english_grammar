@@ -14,6 +14,7 @@ function createWindow() {
     },
     title: 'English for Specific Purposes',
     backgroundColor: '#faf9f6',
+    icon: path.join(__dirname, 'images', 'cropped-globe-dans-la-main-transparent.png'),
   });
 
   win.loadFile('index.html');
